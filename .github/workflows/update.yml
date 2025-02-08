@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: 🚀 Esegui lo script per generare le playlist M3U8
-        run: python script.py  # Assicurati che il tuo script sia chiamato `script.py`
+        run: python gen.py  # Assicurati che il tuo script sia chiamato `script.py`
 
       - name: 📂 Commit e Push dei file aggiornati
         env:
