@@ -1,37 +1,37 @@
-name: Aggiorna Playlist M3U8
+name: Esegui Gen.py ogni 30 minuti
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Esegue ogni 30 minuti
-  workflow_dispatch:  # Permette di avviare il workflow manualmente
+    - cron: '0 * * * *'  # Esegue ogni 30 minuti
+  workflow_dispatch:  # Permette di eseguire manualmente
+
+permissions:
+  contents: write  # Permette di fare commit e push nel repository
 
 jobs:
-  update_m3u8:
+  run-script:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout del repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}  # Usa il token segreto
 
-      - name: 🔧 Imposta Python
+      - name: Imposta Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.x'  # Sostituisci con la versione necessaria
 
-      - name: 📦 Installa le dipendenze
+      - name: Installa le dipendenze
         run: pip install requests
 
-      - name: 🚀 Esegui lo script per generare le playlist M3U8
-        run: python gen.py  # Assicurati che il tuo script sia chiamato `script.py`
+      - name: Esegui lo script
+        run: python def.py
 
-      - name: 📂 Commit e Push dei file aggiornati
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Aggiungi il file generato al commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add m3u_files/*.m3u8
-          git commit -m "Aggiornamento automatico playlist M3U8 $(date +'%Y-%m-%d %H:%M:%S')" || echo "Nessuna modifica da commitare"
-          git push https://x-access-token:$GH_PAT@github.com/realbestia/worldm3u.git main
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Aggiungi file generato channels_italy"
+
+      - name: Pusha il cambiamento
+        run: git push
