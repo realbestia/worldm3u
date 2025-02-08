@@ -1,0 +1,37 @@
+name: Esegui Iptv Fetch All ogni 30 minuti
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Esegue ogni 30 minuti
+  workflow_dispatch:  # Permette di eseguire manualmente
+
+permissions:
+  contents: write  # Permette di fare commit e push nel repository
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repository
+        uses: actions/checkout@v4
+
+      - name: Imposta Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Sostituisci con la versione necessaria
+
+      - name: Installa le dipendenze
+        run: pip install requests
+
+      - name: Esegui lo script
+        run: python gen.py
+
+      - name: Aggiungi i file generati al commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add m3u_files/*.m3u8
+          git commit -m "Aggiornamento file M3U8 per IPTV"
+
+      - name: Pusha il cambiamento
+        run: git push
