@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Esegui lo script
-        run: python def.py
+        run: python gen.py
 
       - name: Aggiungi il file generato al commit
         run: |
