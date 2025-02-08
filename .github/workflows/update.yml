@@ -1,4 +1,4 @@
-name: Esegui Gen.py ogni 30 minuti
+name: Esegui Gen.py ogni ora
 
 on:
   schedule:
