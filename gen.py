@@ -39,7 +39,7 @@ def filter_channels(channels, base_url):
         "https://kool.to": "K",
         "https://oha.to": "O"
     }
-    
+
     for ch in channels:
         if "name" in ch and "id" in ch:
             clean_name = clean_channel_name(ch["name"])
@@ -52,7 +52,7 @@ def filter_channels(channels, base_url):
                 clean_name = f"{clean_name} ({source_tag})"
             category = classify_channel_by_country(ch)
             results.append((clean_name, f"{base_url}/play/{ch['id']}/index.m3u8", base_url, category))
-    
+
     return results
 
 def extract_user_agent(base_url):
@@ -63,13 +63,13 @@ def extract_user_agent(base_url):
     return "DEFAULT"
 
 def save_m3u8(channels):
-    """Salva i canali in file M3U8 separati per nazione e un file con tutti i canali."""
+    """Salva i canali in file M3U8 separati per nazione e un file con tutti i canali ordinati per nazione e alfabeticamente."""
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
-    
+
     country_files = {}
     all_channels = []
-    
+
     for name, url, base_url, category in channels:
         user_agent = extract_user_agent(base_url)
         entry = (
@@ -80,21 +80,28 @@ def save_m3u8(channels):
             f'#EXTHTTP:{{"User-Agent":"{user_agent}/1.0","Referer":"{base_url}/"}}\n'
             f"{url}\n\n"
         )
-        
+
         if category not in country_files:
             country_files[category] = []
         country_files[category].append(entry)
-        all_channels.append(entry)
-    
-    # Scrive i file per ogni nazione
-    for country, entries in country_files.items():
+        all_channels.append((category, entry))  # Aggiungiamo la categoria per l'ordinamento
+
+    # **Ordina i canali nei file per nazione**
+    for country in country_files:
+        country_files[country].sort(key=lambda entry: re.search(r'tvg-name="([^"]+)"', entry).group(1) if re.search(r'tvg-name="([^"]+)"', entry) else "")
+
         country_file = os.path.join(OUTPUT_DIR, f"channels_{country}.m3u8")
         with open(country_file, "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n\n" + "".join(entries))
-    
-    # Scrive il file con tutti i canali
+            f.write("#EXTM3U\n\n" + "".join(country_files[country]))
+
+    # **Ordina il file completo prima per nazione, poi alfabeticamente**
+    all_channels.sort(key=lambda item: (
+        item[0],  # Ordina per categoria (nazione)
+        re.search(r'tvg-name="([^"]+)"', item[1]).group(1) if re.search(r'tvg-name="([^"]+)"', item[1]) else ""
+    ))
+
     with open(OUTPUT_FILE_ALL, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n\n" + "".join(all_channels))
+        f.write("#EXTM3U\n\n" + "".join(entry for _, entry in all_channels))
 
 def main():
     all_links = []
