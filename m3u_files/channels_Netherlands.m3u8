@@ -16,13 +16,13 @@ https://vavoo.to/play/60276472/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2539137621/index.m3u8
+https://vavoo.to/play/2608998715/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="192 TV (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",192 TV (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2608998715/index.m3u8
+https://vavoo.to/play/2539137621/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN (V10)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",24 KITCHEN (V10)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -174,7 +174,7 @@ https://vavoo.to/play/3282607272/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1268929440/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V11)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V11)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V10)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V10)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -252,7 +252,7 @@ https://vavoo.to/play/486015393/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3680791301/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ESPN (V)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ESPN (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -268,13 +268,13 @@ https://vavoo.to/play/1397846137/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/351341225/index.m3u8
+https://vavoo.to/play/405473735/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ESPN 2 (V2)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (V3)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ESPN 2 (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/405473735/index.m3u8
+https://vavoo.to/play/351341225/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ESPN 3 (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -300,29 +300,29 @@ https://vavoo.to/play/2612133641/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2540436583/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V13)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V13)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2736390217/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V18)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V18)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/74097556/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V16)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V16)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V8)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V8)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1137367364/index.m3u8
+https://vavoo.to/play/2736390217/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V12)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V12)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3837426329/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V17)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V17)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3837426329/index.m3u8
+https://vavoo.to/play/1137367364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EX SPORT (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EX SPORT (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -340,13 +340,13 @@ https://vavoo.to/play/3322172799/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/453029930/index.m3u8
+https://vavoo.to/play/3637574983/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILY 7 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FAMILY 7 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3637574983/index.m3u8
+https://vavoo.to/play/453029930/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FASHION TV (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -394,13 +394,13 @@ https://vavoo.to/play/579287411/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3636633475/index.m3u8
+https://vavoo.to/play/954079807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX SPORTS 1 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/954079807/index.m3u8
+https://vavoo.to/play/3636633475/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX SPORTS 2 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -408,7 +408,7 @@ https://vavoo.to/play/954079807/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2674058579/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX SPORTS 3 (V)
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX SPORTS 3 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -432,7 +432,7 @@ https://vavoo.to/play/3690874941/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3329797203/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY (V9)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY (V9)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (V5)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -480,7 +480,7 @@ https://vavoo.to/play/934977481/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4018658498/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (V9)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",INVESTIGATION DISCOVERY (V9)
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (V8)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",INVESTIGATION DISCOVERY (V8)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1060,13 +1060,13 @@ https://vavoo.to/play/2438069127/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3723000321/index.m3u8
+https://vavoo.to/play/3756797213/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL Z (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",RTL Z (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3756797213/index.m3u8
+https://vavoo.to/play/3723000321/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL ZWEE (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",RTL ZWEE (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -1492,13 +1492,13 @@ https://vavoo.to/play/2013686690/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/962804049/index.m3u8
+https://vavoo.to/play/486755545/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT DOCU (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ZIGGO SPORT DOCU (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/486755545/index.m3u8
+https://vavoo.to/play/962804049/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT EXTRA (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ZIGGO SPORT EXTRA (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
