@@ -2214,7 +2214,7 @@ https://vavoo.to/play/3235293913/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/209496647/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 (1) (V2)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BEIN SPORTS 2 (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 (1) (V)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BEIN SPORTS 2 (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -2328,7 +2328,7 @@ https://vavoo.to/play/231484685/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1542076937/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD (1) (V2)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BEIN SPORTS 2 SD (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD (1) (V)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BEIN SPORTS 2 SD (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -6168,7 +6168,7 @@ https://vavoo.to/play/2738048740/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2596172321/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V18)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V18)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V16)" group-title="Arabia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V16)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
