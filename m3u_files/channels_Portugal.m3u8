@@ -42,7 +42,7 @@ https://vavoo.to/play/1972183649/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3972324290/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V2)
+#EXTINF:-1 tvg-id="" tvg-name="AMC (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -168,7 +168,7 @@ https://vavoo.to/play/2362437748/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/455247965/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG (V8)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BOOMERANG (V8)
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG (V7)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BOOMERANG (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -264,7 +264,7 @@ https://vavoo.to/play/747491557/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1711720571/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (1) (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CARTOON NETWORK (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (1) (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CARTOON NETWORK (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -378,25 +378,25 @@ https://vavoo.to/play/327951467/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/783187914/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V3)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/575701033/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (1) (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY CHANNEL (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (1) (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY CHANNEL (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1668808212/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (1) (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY JUNIOR (1) (V)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (1) (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY JUNIOR (1) (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/771141542/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ (V4)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY+ (V4)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY+ (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -582,19 +582,19 @@ https://vavoo.to/play/3466213503/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1783116785/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EURONEWS (V2)
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EURONEWS (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2842227117/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (1) (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (1) (V3)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (1) (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2549518439/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V3)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V10)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V10)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -618,7 +618,7 @@ https://vavoo.to/play/3495357111/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/521041364/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V13)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V13)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V14)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V14)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -786,7 +786,7 @@ https://vavoo.to/play/3005054584/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/998167995/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MCM TOP (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MCM TOP (V2)
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MCM TOP (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -852,13 +852,13 @@ https://vavoo.to/play/3555716419/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3558682175/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V4)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V4)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V5)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1196955352/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (V5)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO WILD (V5)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (V6)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO WILD (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -888,7 +888,7 @@ https://vavoo.to/play/2121846219/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3285958459/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICK JUNIOR (V2)
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICK JUNIOR (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -900,7 +900,7 @@ https://vavoo.to/play/1165966812/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3982415185/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V4)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V4)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V6)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1374,7 +1374,7 @@ https://vavoo.to/play/473732861/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1282781678/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR CRIME (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",STAR CRIME (V2)
+#EXTINF:-1 tvg-id="" tvg-name="STAR CRIME (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",STAR CRIME (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1410,13 +1410,13 @@ https://vavoo.to/play/3865452148/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1633515070/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC (1) (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (1) (V3)
+#EXTINF:-1 tvg-id="" tvg-name="TLC (1) (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (1) (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3292309622/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC (V3)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (V3)
+#EXTINF:-1 tvg-id="" tvg-name="TLC (V4)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1452,7 +1452,7 @@ https://vavoo.to/play/3663001423/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3694338679/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL (V2)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TRAVEL CHANNEL (V2)
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL (V)" group-title="Portugal" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TRAVEL CHANNEL (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
