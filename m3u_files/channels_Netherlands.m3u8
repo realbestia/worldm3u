@@ -96,7 +96,7 @@ https://vavoo.to/play/2742031882/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3668541006/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (V12)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CARTOON NETWORK (V12)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (V14)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CARTOON NETWORK (V14)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1528,13 +1528,13 @@ https://vavoo.to/play/1643798837/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/459281257/index.m3u8
+https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT RACING (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ZIGGO SPORT RACING (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1777530589/index.m3u8
+https://vavoo.to/play/459281257/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT SELECT (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ZIGGO SPORT SELECT (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
