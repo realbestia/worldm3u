@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",24 KITCHEN (V2)
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",24 KITCHEN (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/802245103/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",24 KITCHEN (V3)
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",24 KITCHEN (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -36,7 +36,7 @@ https://vavoo.to/play/1165363416/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2245194560/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V)
+#EXTINF:-1 tvg-id="" tvg-name="AMC (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -252,7 +252,7 @@ https://vavoo.to/play/3166119033/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3630683467/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BALKANIKA (V2)
+#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",BALKANIKA (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -514,13 +514,13 @@ https://vavoo.to/play/2669560148/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3636345732/index.m3u8
+https://vavoo.to/play/4087852378/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV 2 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINESTAR TV 2 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/4087852378/index.m3u8
+https://vavoo.to/play/3636345732/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV ACTION (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINESTAR TV ACTION (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -570,7 +570,7 @@ https://vavoo.to/play/2344983146/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1184655216/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CRIME+ INVESTIGATION (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CRIME+ INVESTIGATION (V2)
+#EXTINF:-1 tvg-id="" tvg-name="CRIME+ INVESTIGATION (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CRIME+ INVESTIGATION (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -594,7 +594,7 @@ https://vavoo.to/play/297494844/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2556336719/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -612,7 +612,7 @@ https://vavoo.to/play/3889340047/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/858477141/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY SCIENCE (V4)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY SCIENCE (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -624,7 +624,7 @@ https://vavoo.to/play/1555492746/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2253936606/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -720,7 +720,7 @@ https://vavoo.to/play/1778938190/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1039949502/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E! (V5)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",E! (V5)
+#EXTINF:-1 tvg-id="" tvg-name="E! (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",E! (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -786,13 +786,13 @@ https://vavoo.to/play/4292443371/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1308205307/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V11)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V11)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V13)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V13)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/330188485/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V8)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V8)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V9)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V9)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -864,7 +864,7 @@ https://vavoo.to/play/429517847/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/445499990/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX (V2)
+#EXTINF:-1 tvg-id="" tvg-name="FOX (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOX (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1044,7 +1044,7 @@ https://vavoo.to/play/3828451451/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2249984707/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V)
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1086,7 +1086,7 @@ https://vavoo.to/play/2946833751/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1149646634/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY 2 (V2)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY 2 (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1104,7 +1104,7 @@ https://vavoo.to/play/54647568/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1761826370/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V6)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1350,7 +1350,7 @@ https://vavoo.to/play/2059729489/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1265586676/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MTV HITS (V4)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MTV HITS (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1374,13 +1374,13 @@ https://vavoo.to/play/1348777290/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2826018474/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V11)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V11)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/822301016/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V13)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V13)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1392,7 +1392,7 @@ https://vavoo.to/play/3939261835/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3191034074/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO WILD (V4)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO WILD (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1404,7 +1404,7 @@ https://vavoo.to/play/2112036279/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1589024375/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1) (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NATIONAL GEOGRAPHIC HD (1) (V)
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1) (V3)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NATIONAL GEOGRAPHIC HD (1) (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -2430,7 +2430,7 @@ https://vavoo.to/play/2043372515/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2070451084/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (V7)
+#EXTINF:-1 tvg-id="" tvg-name="TLC (V6)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",TLC (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
