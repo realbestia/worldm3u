@@ -66,7 +66,7 @@ https://vavoo.to/play/3466104099/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2063050215/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ANIMAL PLANET (V2)
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (V3)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ANIMAL PLANET (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -306,7 +306,7 @@ https://vavoo.to/play/3275610158/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2573055575/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX (V3)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINEMAX (V3)
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX (V)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINEMAX (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -516,7 +516,7 @@ https://vavoo.to/play/4242782308/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2785971469/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V11)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V11)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (V12)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY CHANNEL (V12)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -672,19 +672,19 @@ https://vavoo.to/play/2022472244/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1887242937/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD (1) (V7)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 HD (1) (V7)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD (1) (V3)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 HD (1) (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2765356700/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V8)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V8)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (V16)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 (V16)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/937259113/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD (1) (V)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 HD (1) (V)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD (1) (V6)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 2 HD (1) (V6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -702,7 +702,7 @@ https://vavoo.to/play/388462731/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3192050174/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD (1) (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FIGHTBOX HD (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD (1) (V3)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FIGHTBOX HD (1) (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -762,7 +762,7 @@ https://vavoo.to/play/3670376642/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2083903308/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOOD NETWORK (V2)
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (V7)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOOD NETWORK (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -792,7 +792,7 @@ https://vavoo.to/play/3687432160/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1888495277/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V)
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -810,7 +810,7 @@ https://vavoo.to/play/83636965/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3150263389/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V2)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V5)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -858,13 +858,13 @@ https://vavoo.to/play/1430505537/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4136887079/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D (V3)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KANAL D (V3)
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KANAL D (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/264126497/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD (1) (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KANAL D HD (1) (V2)
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD (1) (V)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KANAL D HD (1) (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1002,7 +1002,7 @@ https://vavoo.to/play/2788611999/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/348279619/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V23)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V23)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (V21)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NAT GEO (V21)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1440,7 +1440,7 @@ https://vavoo.to/play/3112950329/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3551013020/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VIASAT NATURE (1) (V)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",VIASAT NATURE (1) (V)
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT NATURE (1) (V2)" group-title="Romania" http-user-agent="VAVOO" http-referrer="https://vavoo.to",VIASAT NATURE (1) (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
