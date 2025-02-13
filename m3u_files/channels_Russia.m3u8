@@ -114,7 +114,7 @@ https://vavoo.to/play/3490696337/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1021671027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC (V6)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V6)
+#EXTINF:-1 tvg-id="" tvg-name="AMC (V7)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -162,7 +162,7 @@ https://vavoo.to/play/2884774704/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4041383080/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (V6)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ANIMAL PLANET (V6)
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (V5)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",ANIMAL PLANET (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -384,7 +384,7 @@ https://vavoo.to/play/3076151845/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/66532237/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (V6)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY SCIENCE (V6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (V5)" group-title="Russia" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY SCIENCE (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
