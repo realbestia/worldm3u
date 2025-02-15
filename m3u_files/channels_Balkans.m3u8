@@ -36,7 +36,7 @@ https://vavoo.to/play/1165363416/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2245194560/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC (V5)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V5)
+#EXTINF:-1 tvg-id="" tvg-name="AMC (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",AMC (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -418,13 +418,13 @@ https://vavoo.to/play/2636960944/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/858985043/index.m3u8
+https://vavoo.to/play/825705807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX 2 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINEMAX 2 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/825705807/index.m3u8
+https://vavoo.to/play/858985043/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX 2 HD (1) (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CINEMAX 2 HD (1) (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -636,7 +636,7 @@ https://vavoo.to/play/3759973215/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1846596197/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (1) (V4)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY CHANNEL (1) (V4)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (1) (V5)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISNEY CHANNEL (1) (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -786,7 +786,7 @@ https://vavoo.to/play/4292443371/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1308205307/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V16)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V16)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V15)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V15)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -852,7 +852,7 @@ https://vavoo.to/play/2174124399/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3436666239/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOOD NETWORK (V2)
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (V5)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FOOD NETWORK (V5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1044,7 +1044,7 @@ https://vavoo.to/play/3828451451/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2249984707/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V)
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1086,7 +1086,7 @@ https://vavoo.to/play/2946833751/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1149646634/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY 2 (V)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY 2 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1212,7 +1212,7 @@ https://vavoo.to/play/3668786775/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3888977895/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KINO TV (V2)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KINO TV (V2)
+#EXTINF:-1 tvg-id="" tvg-name="KINO TV (V)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",KINO TV (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -1416,13 +1416,13 @@ https://vavoo.to/play/1939231416/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1086525812/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V12)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V12)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V10)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V10)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3688484569/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V9)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V9)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V7)" group-title="Balkans" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
