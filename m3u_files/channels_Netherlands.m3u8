@@ -246,7 +246,7 @@ https://vavoo.to/play/2149796005/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/486015393/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",E! ENTERTAINMENT (V2)
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT (V4)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",E! ENTERTAINMENT (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -348,7 +348,7 @@ https://vavoo.to/play/453029930/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3637574983/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FASHION TV (V)
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",FASHION TV (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -976,13 +976,13 @@ https://vavoo.to/play/2323583211/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/4226462509/index.m3u8
+https://vavoo.to/play/4193182769/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL 4 (V2)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",RTL 4 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/4193182769/index.m3u8
+https://vavoo.to/play/4226462509/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL 5 (V)" group-title="Netherlands" http-user-agent="VAVOO" http-referrer="https://vavoo.to",RTL 5 (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
