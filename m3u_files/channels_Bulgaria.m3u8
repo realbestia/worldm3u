@@ -348,7 +348,7 @@ https://vavoo.to/play/3988717339/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3781491829/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV (V2)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CITY TV (V2)
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV (V)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",CITY TV (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -462,7 +462,7 @@ https://vavoo.to/play/1347565371/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/609687320/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V6)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (V7)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",DISCOVERY WORLD (V7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -528,7 +528,7 @@ https://vavoo.to/play/3079780913/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1926603815/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V14)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V14)
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (V15)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",EUROSPORT 1 (V15)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -672,7 +672,7 @@ https://vavoo.to/play/1822214929/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1984286700/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V5)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V5)
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 (V4)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HBO 3 (V4)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -696,7 +696,7 @@ https://vavoo.to/play/1975892045/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/876686464/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V5)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V5)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL (V3)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",HISTORY CHANNEL (V3)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
@@ -796,25 +796,25 @@ https://vavoo.to/play/2539971589/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/320132024/index.m3u8
+https://vavoo.to/play/3502546645/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 (V2)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MAX SPORT 2 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3502546645/index.m3u8
+https://vavoo.to/play/320132024/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 3 (V)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MAX SPORT 3 (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3986995045/index.m3u8
+https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 3 (V2)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MAX SPORT 3 (V2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/779418120/index.m3u8
+https://vavoo.to/play/3986995045/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 4 (V)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",MAX SPORT 4 (V)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -894,7 +894,7 @@ https://vavoo.to/play/937172426/index.m3u8
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/805571294/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V11)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V11)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (V13)" group-title="Bulgaria" http-user-agent="VAVOO" http-referrer="https://vavoo.to",NICKELODEON (V13)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
