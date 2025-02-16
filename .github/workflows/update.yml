@@ -21,7 +21,7 @@ jobs:
           python-version: '3.x'  # Sostituisci con la versione necessaria
 
       - name: Installa le dipendenze
-        run: pip install requests fuzzywuzzy python-Levenshtein
+        run: pip install requests
 
       - name: Esegui lo script
         run: python gen.py
