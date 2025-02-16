@@ -1,12 +1,12 @@
-name: Esegui Gen.py ogni ora
+name: Esegui gen.py ogni ora
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Esegue ogni 30 minuti
-  workflow_dispatch:  # Permette di eseguire manualmente
+    - cron: '0 * * * *'  # Esegue ogni ora
+  workflow_dispatch:  # Permette esecuzione manuale
 
 permissions:
-  contents: write  # Permette di fare commit e push nel repository
+  contents: write  # Permette commit e push
 
 jobs:
   run-script:
@@ -21,17 +21,33 @@ jobs:
           python-version: '3.x'  # Sostituisci con la versione necessaria
 
       - name: Installa le dipendenze
-        run: pip install requests
+        run: pip install requests fuzzywuzzy python-Levenshtein
 
       - name: Esegui lo script
         run: python gen.py
 
-      - name: Aggiungi il file generato al commit
+      - name: Verifica se sono stati generati file M3U8
+        run: |
+          if ls output_m3u8/*.m3u8 1> /dev/null 2>&1; then
+            echo "File M3U8 trovati."
+          else
+            echo "Nessun file M3U8 generato. Esco."
+            exit 0  # Esce senza fare commit o push
+          fi
+
+      - name: Configura Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Aggiungi file generato channels_italy"
 
-      - name: Pusha il cambiamento
+      - name: Aggiungi e committa i file generati
+        run: |
+          git add output_m3u8/*.m3u8
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento da committare."
+            exit 0
+          fi
+          git commit -m "Aggiornati file M3U8"
+
+      - name: Pusha le modifiche
         run: git push
