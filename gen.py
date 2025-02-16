@@ -22,7 +22,7 @@ EPG_URLS = [
     "https://www.open-epg.com/files/italy2.xml"
 ]
 
-OUTPUT_DIR = "m3u8_files"
+OUTPUT_DIR = "output_m3u8"
 ALL_CHANNELS_FILE = os.path.join(OUTPUT_DIR, "channels_all.m3u8")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
