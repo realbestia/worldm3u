@@ -3,11 +3,11 @@
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD (TURKEY) (1)
 https://vavoo.to/play/593493860/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (720P) (1)
-https://vavoo.to/play/3840475653/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3
 https://vavoo.to/play/2834514943/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (720P) (1)
+https://vavoo.to/play/3840475653/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD (1)
 https://vavoo.to/play/662179620/index.m3u8
@@ -15,23 +15,23 @@ https://vavoo.to/play/662179620/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 HD (1)
 https://vavoo.to/play/2851539143/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4K FEED(UYDU) (1)
-https://vavoo.to/play/1536730627/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (720PFEED) (1)
-https://vavoo.to/play/2233066433/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 HD (1)
 https://vavoo.to/play/1700595801/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4K FEED(UYDU) (1)
+https://vavoo.to/play/1536730627/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 50 FPS (1)
 https://vavoo.to/play/1352421053/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (720PFEED) (1)
+https://vavoo.to/play/2233066433/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 + (1)
 https://vavoo.to/play/2576216897/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4K FEED(KUTU) (1)
-https://vavoo.to/play/267105889/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 H265 (1)
+https://vavoo.to/play/2403425031/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 UHD (1)
 https://vavoo.to/play/3410167560/index.m3u8
@@ -39,23 +39,29 @@ https://vavoo.to/play/3410167560/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT SPOR YILDIZ (1)
 https://vavoo.to/play/2750507083/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4K FEED(KUTU) (1)
+https://vavoo.to/play/267105889/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: HALK TV (1)
+https://vavoo.to/play/1320391955/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 8K FEED (1)
 https://vavoo.to/play/2113462398/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV8 HD (1)
-https://vavoo.to/play/1702470161/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 H265 (1)
-https://vavoo.to/play/2403425031/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN 1 FEED (720P) (1)
 https://vavoo.to/play/1363827223/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2
+https://vavoo.to/play/2509466191/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX
 https://vavoo.to/play/1498459094/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: HALK TV (1)
-https://vavoo.to/play/1320391955/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV8 HD (1)
+https://vavoo.to/play/1702470161/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 UHD (1)
+https://vavoo.to/play/3694662475/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CNN TURK HD (1)
 https://vavoo.to/play/4273153967/index.m3u8
@@ -63,29 +69,26 @@ https://vavoo.to/play/4273153967/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: ATV HD (1)
 https://vavoo.to/play/2325261286/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2
-https://vavoo.to/play/2509466191/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 UHD (1)
-https://vavoo.to/play/3694662475/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: KANAL 7 HD (1)
+https://vavoo.to/play/1092667959/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL D HD (1)
 https://vavoo.to/play/1130441933/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV8 FHD (1)
+https://vavoo.to/play/3849481299/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: A HABER HD (1)
 https://vavoo.to/play/1064954896/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: KANAL 7 HD (1)
-https://vavoo.to/play/1092667959/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK YESILCAM (1)
-https://vavoo.to/play/1047525168/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1
 https://vavoo.to/play/300113394/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV8 FHD (1)
-https://vavoo.to/play/3849481299/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT SPOR HD (1)
+https://vavoo.to/play/2262969938/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK YESILCAM (1)
+https://vavoo.to/play/1047525168/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: KANAL D HD (1)
 https://vavoo.to/play/1677679684/index.m3u8
@@ -96,26 +99,26 @@ https://vavoo.to/play/1453692314/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX KEMAL SUNAL (1)
 https://vavoo.to/play/4275446197/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT SPOR HD (1)
-https://vavoo.to/play/2262969938/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: CNN T RK HD (1)
-https://vavoo.to/play/2056768647/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 SD (1)
 https://vavoo.to/play/206371329/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 HABER HD+ SD (1)
 https://vavoo.to/play/3828793616/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW TV HD (1)
-https://vavoo.to/play/351471337/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/play/3428984703/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR FHD (1)
+https://vavoo.to/play/911836506/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN 1 SD (480P) (1)
+https://vavoo.to/play/2919229346/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV HD (1)
 https://vavoo.to/play/1332310706/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV FHD (1)
-https://vavoo.to/play/2861010641/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 1 HD (1)
+https://vavoo.to/play/1221669131/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TV8 HD (1)
 https://vavoo.to/play/2693299013/index.m3u8
@@ -126,17 +129,17 @@ https://vavoo.to/play/1423845809/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 8
 https://vavoo.to/play/4292306921/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
-https://vavoo.to/play/3428984703/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: CNN T RK HD (1)
+https://vavoo.to/play/2056768647/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 SD (1)
-https://vavoo.to/play/3236362911/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: A SPOR HD (1)
+https://vavoo.to/play/1771137539/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: BEYAZ TV HD (1)
 https://vavoo.to/play/805689873/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 1 FHD (1)
-https://vavoo.to/play/406666682/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT HABER HD (1)
+https://vavoo.to/play/603651638/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR FHD (1)
 https://vavoo.to/play/2952828245/index.m3u8
@@ -144,20 +147,17 @@ https://vavoo.to/play/2952828245/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR HD (1)
 https://vavoo.to/play/2556711030/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR FHD (1)
-https://vavoo.to/play/911836506/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN 1 SD (480P) (1)
-https://vavoo.to/play/2919229346/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR HD (1)
 https://vavoo.to/play/312904614/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT BELGESEL HD (1)
 https://vavoo.to/play/786973656/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR TV HD (1)
-https://vavoo.to/play/2720556692/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW TV HD (1)
+https://vavoo.to/play/351471337/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV FHD (1)
+https://vavoo.to/play/2861010641/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4 UHD (1)
 https://vavoo.to/play/2938268353/index.m3u8
@@ -168,6 +168,9 @@ https://vavoo.to/play/413381526/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: HABER GLOBAL HD (1)
 https://vavoo.to/play/1196626387/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT HABER HD (1)
+https://vavoo.to/play/2579401878/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT BELGESEL HD+ (1)
 https://vavoo.to/play/2661394868/index.m3u8
 
@@ -177,17 +180,23 @@ https://vavoo.to/play/868586058/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 360
 https://vavoo.to/play/1651455199/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 1 HD (1)
-https://vavoo.to/play/1221669131/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR TV HD (1)
+https://vavoo.to/play/2720556692/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: A SPOR HD (1)
-https://vavoo.to/play/1771137539/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4 HD (1)
+https://vavoo.to/play/1872232768/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW TV
 https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV
 https://vavoo.to/play/1255594337/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 SD (1)
+https://vavoo.to/play/3236362911/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 1 FHD (1)
+https://vavoo.to/play/406666682/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN 1 SD (360P) (1)
 https://vavoo.to/play/3692337241/index.m3u8
@@ -198,23 +207,11 @@ https://vavoo.to/play/4179661802/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4
 https://vavoo.to/play/450076655/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT HABER HD (1)
-https://vavoo.to/play/2579401878/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPOTS1 SD (1)
-https://vavoo.to/play/143239535/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR YILDIZ
 https://vavoo.to/play/2081577417/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HALK TV
 https://vavoo.to/play/3986444106/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24
-https://vavoo.to/play/1702937932/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NATIONAL GEOGRAPHIC HD+ (1)
-https://vavoo.to/play/1514492628/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TEVE2 HD (1)
 https://vavoo.to/play/1917502631/index.m3u8
@@ -222,29 +219,14 @@ https://vavoo.to/play/1917502631/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: SHOW TV HD (1)
 https://vavoo.to/play/879588960/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4 HD (1)
-https://vavoo.to/play/1872232768/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: STAR TV HD (1)
 https://vavoo.to/play/2192971293/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV HD (H265) (1)
-https://vavoo.to/play/129909794/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HALK TV HD (1)
 https://vavoo.to/play/1771999100/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A HABER HD (1)
-https://vavoo.to/play/535272601/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES PREMIERE 2
 https://vavoo.to/play/2244069093/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT HABER HD (1)
-https://vavoo.to/play/603651638/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR TV FHD (1)
-https://vavoo.to/play/2020035128/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 8 HD (H265) (1)
 https://vavoo.to/play/3298026270/index.m3u8
@@ -264,11 +246,11 @@ https://vavoo.to/play/1735806851/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR
 https://vavoo.to/play/1561958971/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPOTS1 SD (1)
+https://vavoo.to/play/143239535/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO WILD
 https://vavoo.to/play/1999823186/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 2
-https://vavoo.to/play/3910129702/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FIX CINEMA YESILCAM (1)
 https://vavoo.to/play/4110861662/index.m3u8
@@ -285,41 +267,26 @@ https://vavoo.to/play/14092376/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT HABER
 https://vavoo.to/play/2003703357/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YESILCAM 1
-https://vavoo.to/play/1952835738/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES ACTION 2
-https://vavoo.to/play/650851542/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5
+https://vavoo.to/play/3831757618/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES TURK
 https://vavoo.to/play/3390575948/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIASAT EXPLORE (1)
-https://vavoo.to/play/1183258440/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NATIONAL GEOGRAPHIC HD+ (1)
+https://vavoo.to/play/1514492628/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH
-https://vavoo.to/play/2613731614/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV
-https://vavoo.to/play/3418237531/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX YE IL AM (1)
-https://vavoo.to/play/2046943434/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: 24 HD (1)
+https://vavoo.to/play/1998168122/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: DMAX HD (1)
 https://vavoo.to/play/869937351/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES ACTION
-https://vavoo.to/play/1873478131/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABER GLOBAL HD (1)
-https://vavoo.to/play/4069774068/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA YERL HD (1)
+https://vavoo.to/play/1897159473/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FB TV (1)
 https://vavoo.to/play/2512340558/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT 1 HD (1)
-https://vavoo.to/play/1762199258/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW HD (H265) (1)
 https://vavoo.to/play/3537232978/index.m3u8
@@ -336,6 +303,12 @@ https://vavoo.to/play/3317656516/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NBA TV HD (1)
 https://vavoo.to/play/3513867536/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV HD (H265) (1)
+https://vavoo.to/play/129909794/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A HABER HD (1)
+https://vavoo.to/play/535272601/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY ID
 https://vavoo.to/play/972730032/index.m3u8
 
@@ -351,8 +324,8 @@ https://vavoo.to/play/1449499865/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIVIBU SPOR 3
 https://vavoo.to/play/568442751/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 2 HD (1)
-https://vavoo.to/play/2212659820/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR TV FHD (1)
+https://vavoo.to/play/2020035128/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7 FHD (1)
 https://vavoo.to/play/2736723250/index.m3u8
@@ -362,9 +335,6 @@ https://vavoo.to/play/863472446/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S SPORT 2
 https://vavoo.to/play/1234604880/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 1
-https://vavoo.to/play/2930746102/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S-SPORT 1 UHD (1)
 https://vavoo.to/play/3531762195/index.m3u8
@@ -390,17 +360,11 @@ https://vavoo.to/play/3458631461/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: FLASH TV (1)
 https://vavoo.to/play/2687017841/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 2 FHD (1)
-https://vavoo.to/play/3407936242/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIVIBU SPOR 1
 https://vavoo.to/play/2565972338/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: HABERT RK HD (1)
 https://vavoo.to/play/4253369376/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SERIES 1
-https://vavoo.to/play/2190922298/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPOR SMART SD (1)
 https://vavoo.to/play/660246670/index.m3u8
@@ -408,14 +372,23 @@ https://vavoo.to/play/660246670/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN GURME HD (1)
 https://vavoo.to/play/950394656/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULUSAL KANAL (1)
+https://vavoo.to/play/1910048817/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPOR SMART
+https://vavoo.to/play/1771511397/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV HEVC (1)
+https://vavoo.to/play/1510783901/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR YILDIZ RAW (1)
 https://vavoo.to/play/2689297527/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YESILCAM
-https://vavoo.to/play/1584335383/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV AVRUPA
 https://vavoo.to/play/3195910351/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24
+https://vavoo.to/play/1702937932/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATV EUROPA (1)
 https://vavoo.to/play/90085139/index.m3u8
@@ -426,8 +399,17 @@ https://vavoo.to/play/3617035414/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABERTURK HD (1)
 https://vavoo.to/play/1470199900/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5
-https://vavoo.to/play/3831757618/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YESILCAM 1
+https://vavoo.to/play/1952835738/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES ACTION 2
+https://vavoo.to/play/650851542/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT MUZIK
+https://vavoo.to/play/2362678422/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIASAT EXPLORE (1)
+https://vavoo.to/play/1183258440/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEDYA HABER
 https://vavoo.to/play/2230968262/index.m3u8
@@ -438,8 +420,8 @@ https://vavoo.to/play/2439012215/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW TURK
 https://vavoo.to/play/2009772533/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 3
-https://vavoo.to/play/3564106134/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH
+https://vavoo.to/play/2613731614/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR HEVC (1)
 https://vavoo.to/play/2880529208/index.m3u8
@@ -450,8 +432,8 @@ https://vavoo.to/play/1519237116/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: 360 HD (1)
 https://vavoo.to/play/473300573/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: 24 HD (1)
-https://vavoo.to/play/1998168122/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV
+https://vavoo.to/play/3418237531/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: A2 HD (1)
 https://vavoo.to/play/2019055277/index.m3u8
@@ -459,8 +441,11 @@ https://vavoo.to/play/2019055277/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A SPOR RAW (1)
 https://vavoo.to/play/2777121053/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES PREMIERE
-https://vavoo.to/play/942987224/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX YE IL AM (1)
+https://vavoo.to/play/2046943434/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMAX DRAMA
+https://vavoo.to/play/2789249461/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIZISMART MAX
 https://vavoo.to/play/1165201807/index.m3u8
@@ -468,8 +453,8 @@ https://vavoo.to/play/1165201807/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA YERL 2 HD (1)
 https://vavoo.to/play/3971603427/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
-https://vavoo.to/play/3329504843/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES ACTION
+https://vavoo.to/play/1873478131/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SALON 3 SINEMAX
 https://vavoo.to/play/915717266/index.m3u8
@@ -477,17 +462,17 @@ https://vavoo.to/play/915717266/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPOR SMART FHD (1)
 https://vavoo.to/play/3763931520/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AKSIYON 1
-https://vavoo.to/play/1293127897/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST SAVAS (1)
 https://vavoo.to/play/1358616385/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA YERL HD (1)
-https://vavoo.to/play/1897159473/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AKSIYON 1
+https://vavoo.to/play/1293127897/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE TURK
 https://vavoo.to/play/2567486605/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABER GLOBAL HD (1)
+https://vavoo.to/play/4069774068/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AKILLI TAVSAN MOMO
 https://vavoo.to/play/4093001640/index.m3u8
@@ -501,14 +486,11 @@ https://vavoo.to/play/1357624643/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX
 https://vavoo.to/play/3239529951/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AILE 1
-https://vavoo.to/play/4245508443/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AILE 2
-https://vavoo.to/play/3131911051/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: DREAM T RK (1)
 https://vavoo.to/play/4266683025/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT 1 HD (1)
+https://vavoo.to/play/1762199258/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIVIBU SPOR 4
 https://vavoo.to/play/1343303170/index.m3u8
@@ -543,8 +525,14 @@ https://vavoo.to/play/1991010324/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S-SPORTS 1 SD (1)
 https://vavoo.to/play/320290523/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 2 HD (1)
+https://vavoo.to/play/2212659820/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S-SPORT HD (1)
 https://vavoo.to/play/919993168/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 1
+https://vavoo.to/play/2930746102/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 1 HD (1)
 https://vavoo.to/play/225281423/index.m3u8
@@ -564,14 +552,14 @@ https://vavoo.to/play/1371306270/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
 https://vavoo.to/play/1960546091/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7
-https://vavoo.to/play/3015649982/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHOW TV HEVC (1)
 https://vavoo.to/play/3747646907/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXXEN TV SPOR 7 (1)
 https://vavoo.to/play/3343300331/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 2 FHD (1)
+https://vavoo.to/play/3407936242/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 2 UHD (1)
 https://vavoo.to/play/2005305132/index.m3u8
@@ -579,8 +567,14 @@ https://vavoo.to/play/2005305132/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL D FHD (1)
 https://vavoo.to/play/1781656098/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SERIES 1
+https://vavoo.to/play/2190922298/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S-SPORT+1 MAC SAATI (1)
 https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: SOZCU TV (1)
+https://vavoo.to/play/960578312/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FIX CINEMA BILM KURGU (1)
 https://vavoo.to/play/2480231926/index.m3u8
@@ -588,20 +582,17 @@ https://vavoo.to/play/2480231926/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV8 SD (1)
 https://vavoo.to/play/208162889/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULUSAL KANAL (1)
-https://vavoo.to/play/1910048817/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPOR SMART
-https://vavoo.to/play/1771511397/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2
 https://vavoo.to/play/2307325429/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIVIBU SPOR 4 HD (1)
 https://vavoo.to/play/3307062704/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV FHD (1)
-https://vavoo.to/play/1600348811/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 2
+https://vavoo.to/play/3910129702/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TV100 (1)
+https://vavoo.to/play/3760496907/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT HABER HEVC (1)
 https://vavoo.to/play/2057965553/index.m3u8
@@ -612,11 +603,8 @@ https://vavoo.to/play/1134124382/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEVIZYON TURK 6
 https://vavoo.to/play/3154479285/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW TV FHD (1)
-https://vavoo.to/play/919108696/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SZC
-https://vavoo.to/play/2036794972/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YESILCAM
+https://vavoo.to/play/1584335383/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLOOMBERGHT RAW (1)
 https://vavoo.to/play/3578150260/index.m3u8
@@ -657,14 +645,8 @@ https://vavoo.to/play/536029186/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK TURK (1)
 https://vavoo.to/play/306993094/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT MUZIK
-https://vavoo.to/play/2362678422/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL HABER HD (1)
-https://vavoo.to/play/1224377838/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EURO STAR (1)
-https://vavoo.to/play/1827094680/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR YILDIZ HEVC (1)
+https://vavoo.to/play/114501523/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV HD (1)
 https://vavoo.to/play/2755756005/index.m3u8
@@ -684,6 +666,9 @@ https://vavoo.to/play/245742586/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SOZCU SZC TV SD (1)
 https://vavoo.to/play/1098172953/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN BOX OFFICE 3
+https://vavoo.to/play/3564106134/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: EUROSPORT 1 HD (1)
 https://vavoo.to/play/2078862937/index.m3u8
 
@@ -696,14 +681,14 @@ https://vavoo.to/play/1230448192/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 TV
 https://vavoo.to/play/3822901239/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABERTURK
-https://vavoo.to/play/2402772380/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: NTV HD (1)
 https://vavoo.to/play/2073292907/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TABII SPOR 1 720P (1)
 https://vavoo.to/play/3665914763/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABER TURK
+https://vavoo.to/play/464378170/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7 HEVC (1)
 https://vavoo.to/play/3897412802/index.m3u8
@@ -729,17 +714,14 @@ https://vavoo.to/play/4017295127/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT TURK
 https://vavoo.to/play/797768731/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMAX DRAMA
-https://vavoo.to/play/2789249461/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TLC TV (1)
 https://vavoo.to/play/3281641786/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
-https://vavoo.to/play/3807939453/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES PREMIERE
+https://vavoo.to/play/942987224/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SERIES DRAMA
-https://vavoo.to/play/3413672103/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 100
+https://vavoo.to/play/163520723/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A2 TV SD (1)
 https://vavoo.to/play/1835847966/index.m3u8
@@ -747,14 +729,17 @@ https://vavoo.to/play/1835847966/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SARAN SPORT 1
 https://vavoo.to/play/3962972352/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES FAMILY
-https://vavoo.to/play/2485199152/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX ACTION (1)
+https://vavoo.to/play/2456232539/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TEVE 2 FHD (1)
 https://vavoo.to/play/4229529558/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YILDIZ EN TV (1)
-https://vavoo.to/play/394501159/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES FAMILY
+https://vavoo.to/play/2485199152/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
+https://vavoo.to/play/3329504843/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A2 HD (1)
 https://vavoo.to/play/867875861/index.m3u8
@@ -768,6 +753,9 @@ https://vavoo.to/play/545548133/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JR HD+ (1)
 https://vavoo.to/play/1772892321/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT AVAZ (1)
+https://vavoo.to/play/2990410352/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX TV HEVC (1)
 https://vavoo.to/play/2907081311/index.m3u8
 
@@ -780,56 +768,56 @@ https://vavoo.to/play/3508477481/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN HD (1)
 https://vavoo.to/play/4285350247/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABA RADYO ARABESK (1)
-https://vavoo.to/play/4096569454/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SERIES COMEDY
 https://vavoo.to/play/3112396635/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST IMBD (1)
-https://vavoo.to/play/1967516305/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AILE 1
+https://vavoo.to/play/4245508443/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SMART SPOR 1
 https://vavoo.to/play/4137962062/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ENO WESTERN
-https://vavoo.to/play/1134525301/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULUSAL KANAL SD (1)
+https://vavoo.to/play/1917903629/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S SPORT+3 MAC SAATI (1)
 https://vavoo.to/play/3269372326/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ENO WESTERN
+https://vavoo.to/play/1134525301/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIYANET TV (1)
 https://vavoo.to/play/939027674/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AILE 2
+https://vavoo.to/play/3131911051/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT BELGESEL HEVC (1)
 https://vavoo.to/play/3340997026/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVIE SMART CLASSIC
-https://vavoo.to/play/3597292408/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
-https://vavoo.to/play/1161899432/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULKE TV HD (1)
 https://vavoo.to/play/3641991612/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 4
-https://vavoo.to/play/975669992/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 360 UHD (1)
 https://vavoo.to/play/3488532244/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA 1002
-https://vavoo.to/play/4269042044/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT KURD (1)
+https://vavoo.to/play/1216632307/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET
 https://vavoo.to/play/2110161355/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ADIYAMAN MERCAN TV (1)
+https://vavoo.to/play/3055235391/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZONGULDAK KANAL Z (1)
 https://vavoo.to/play/1467834090/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HORROR 4 HD (1)
 https://vavoo.to/play/2678739188/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST FM T RK E POP (1)
+https://vavoo.to/play/2591986518/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BENGU TURK
 https://vavoo.to/play/3030241554/index.m3u8
@@ -843,12 +831,6 @@ https://vavoo.to/play/1526602599/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PAMUKKALE
 https://vavoo.to/play/1647886571/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YOL TV SD (1)
-https://vavoo.to/play/607077155/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YOL TV
-https://vavoo.to/play/1071166054/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VATAN TV (1)
 https://vavoo.to/play/3282181511/index.m3u8
 
@@ -858,26 +840,26 @@ https://vavoo.to/play/3375018468/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KON TV
 https://vavoo.to/play/1587995854/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH HD (1)
-https://vavoo.to/play/2228496856/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST BILIMKURGU (1)
+https://vavoo.to/play/1566323467/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TABII SPOR HD (1)
 https://vavoo.to/play/2259480087/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: DISCOVERY CHANNEL HD (1)
-https://vavoo.to/play/4017734592/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST YESILCAM (1)
-https://vavoo.to/play/3652347263/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA A LE 2 HD (1)
 https://vavoo.to/play/3000594763/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILBOX SPOR 1 MACZAMANI (1)
-https://vavoo.to/play/407612267/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST NETFLIX (1)
+https://vavoo.to/play/3531727990/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZAROK TV
 https://vavoo.to/play/4047557387/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA KOMED HD (1)
+https://vavoo.to/play/440774949/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST SALON 1 (1)
+https://vavoo.to/play/2585357317/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: BLOOMBERG HT HD (1)
 https://vavoo.to/play/3152079168/index.m3u8
@@ -891,17 +873,38 @@ https://vavoo.to/play/3445585687/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: BABYTV (1)
 https://vavoo.to/play/1758313456/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST HABABAM SINIFI (1)
+https://vavoo.to/play/422848187/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA KORKU (1)
+https://vavoo.to/play/3563562547/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST SALON 2 (1)
+https://vavoo.to/play/3719894741/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: CARTOON NETWORK (1)
 https://vavoo.to/play/3278185898/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MARVEL STUDIOS 4
 https://vavoo.to/play/918934667/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TV 4 (1)
+https://vavoo.to/play/357442962/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AGRO TV
+https://vavoo.to/play/1633587820/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: BOOMERANG (1)
 https://vavoo.to/play/3510107618/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA TURK (1)
+https://vavoo.to/play/1868001587/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA AKSIYON 2
 https://vavoo.to/play/179563017/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AFYON TURK
+https://vavoo.to/play/1782534194/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MINIKA COCUK (1)
 https://vavoo.to/play/3036231687/index.m3u8
@@ -915,17 +918,20 @@ https://vavoo.to/play/3511150491/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW TV HD (1)
 https://vavoo.to/play/161305206/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7
+https://vavoo.to/play/3015649982/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A HABER HEVC (1)
 https://vavoo.to/play/3766846723/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: SOZCU TV (1)
-https://vavoo.to/play/960578312/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV FHD (1)
+https://vavoo.to/play/1600348811/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV HEVC (1)
-https://vavoo.to/play/1510783901/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW TV FHD (1)
+https://vavoo.to/play/919108696/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TV100 (1)
-https://vavoo.to/play/3760496907/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SZC
+https://vavoo.to/play/2036794972/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY IDX HD (1)
 https://vavoo.to/play/970098662/index.m3u8
@@ -972,11 +978,11 @@ https://vavoo.to/play/2311285186/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN IZ
 https://vavoo.to/play/1691223078/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT SPOR YILDIZ HEVC (1)
-https://vavoo.to/play/114501523/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVNET HD (1)
 https://vavoo.to/play/1182480796/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL HABER HD (1)
+https://vavoo.to/play/1224377838/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 1 HEVC (1)
 https://vavoo.to/play/194373112/index.m3u8
@@ -992,6 +998,9 @@ https://vavoo.to/play/4113822297/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 8 HEVC (1)
 https://vavoo.to/play/1662562034/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EURO STAR (1)
+https://vavoo.to/play/1827094680/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7 HD (1)
 https://vavoo.to/play/1639889598/index.m3u8
@@ -1029,6 +1038,9 @@ https://vavoo.to/play/1020985035/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEYAZ TV RAW (1)
 https://vavoo.to/play/3434964684/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABERTURK
+https://vavoo.to/play/2402772380/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY HD (1)
 https://vavoo.to/play/4207487562/index.m3u8
 
@@ -1061,9 +1073,6 @@ https://vavoo.to/play/124345657/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL 7 AVRUPA
 https://vavoo.to/play/916532487/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HABER TURK
-https://vavoo.to/play/464378170/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK ANIMASYON (1)
 https://vavoo.to/play/2317648269/index.m3u8
@@ -1119,8 +1128,11 @@ https://vavoo.to/play/2186389950/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: KRT TV (1)
 https://vavoo.to/play/3266397146/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 100
-https://vavoo.to/play/163520723/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/play/3807939453/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SERIES DRAMA
+https://vavoo.to/play/3413672103/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXXEN TV SPOR 1 FEED (1)
 https://vavoo.to/play/1091403912/index.m3u8
@@ -1133,9 +1145,6 @@ https://vavoo.to/play/2483036808/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AS TV BURSA
 https://vavoo.to/play/2084587437/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX ACTION (1)
-https://vavoo.to/play/2456232539/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY WORLD
 https://vavoo.to/play/3624002307/index.m3u8
@@ -1184,6 +1193,9 @@ https://vavoo.to/play/2484805699/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TGRT HABER HD (1)
 https://vavoo.to/play/2814392458/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YILDIZ EN TV (1)
+https://vavoo.to/play/394501159/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 8 INT (1)
 https://vavoo.to/play/137677598/index.m3u8
@@ -1244,9 +1256,6 @@ https://vavoo.to/play/2360854158/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 52 ORDU
 https://vavoo.to/play/2602281851/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT AVAZ (1)
-https://vavoo.to/play/2990410352/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICK JR
 https://vavoo.to/play/85708551/index.m3u8
@@ -1389,6 +1398,9 @@ https://vavoo.to/play/3033383137/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX HEVC (1)
 https://vavoo.to/play/3928493138/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABA RADYO ARABESK (1)
+https://vavoo.to/play/4096569454/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT WORLD HEVC (1)
 https://vavoo.to/play/3985615117/index.m3u8
 
@@ -1397,6 +1409,9 @@ https://vavoo.to/play/2878755344/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOONITO
 https://vavoo.to/play/178755989/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST IMBD (1)
+https://vavoo.to/play/1967516305/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ES TV (ESKISEHIR)
 https://vavoo.to/play/2207104549/index.m3u8
@@ -1418,9 +1433,6 @@ https://vavoo.to/play/4204615990/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX 007
 https://vavoo.to/play/2857813786/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULUSAL KANAL SD (1)
-https://vavoo.to/play/1917903629/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GLOBAL BOX KORKU (1)
 https://vavoo.to/play/562681030/index.m3u8
@@ -1533,6 +1545,9 @@ https://vavoo.to/play/2507102701/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AKIT TV
 https://vavoo.to/play/1862240206/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVIE SMART CLASSIC
+https://vavoo.to/play/3597292408/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEVIZYON TURK 9
 https://vavoo.to/play/1045765988/index.m3u8
 
@@ -1541,6 +1556,9 @@ https://vavoo.to/play/3654518007/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: M N KA GO (1)
 https://vavoo.to/play/1230912428/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
+https://vavoo.to/play/1161899432/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KRT TV HD (1)
 https://vavoo.to/play/535260022/index.m3u8
@@ -1586,6 +1604,9 @@ https://vavoo.to/play/3820420855/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALTAS TV ORDU
 https://vavoo.to/play/730257349/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 4
+https://vavoo.to/play/975669992/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT KURDI RAW (1)
 https://vavoo.to/play/3640225965/index.m3u8
@@ -1647,8 +1668,8 @@ https://vavoo.to/play/257449668/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA KOMEDI (1)
 https://vavoo.to/play/3537946048/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TRT KURD (1)
-https://vavoo.to/play/1216632307/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SINEMA 1002
+https://vavoo.to/play/4269042044/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TABII SPOR 6 HD (1)
 https://vavoo.to/play/270984838/index.m3u8
@@ -1778,9 +1799,6 @@ https://vavoo.to/play/930209556/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAN TV
 https://vavoo.to/play/704165063/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ADIYAMAN MERCAN TV (1)
-https://vavoo.to/play/3055235391/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOOMERANG HD (1)
 https://vavoo.to/play/11743931/index.m3u8
@@ -1977,9 +1995,6 @@ https://vavoo.to/play/2142969236/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIVI 6
 https://vavoo.to/play/774168016/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST FM T RK E POP (1)
-https://vavoo.to/play/2591986518/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EGE ILE GAGA
 https://vavoo.to/play/2625879722/index.m3u8
 
@@ -2139,6 +2154,9 @@ https://vavoo.to/play/3377046146/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TARIM TV
 https://vavoo.to/play/1993047243/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YOL TV
+https://vavoo.to/play/1377055653/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ADA TV (1)
 https://vavoo.to/play/4225961715/index.m3u8
 
@@ -2273,6 +2291,9 @@ https://vavoo.to/play/1383473435/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVIESMART PREMIUM
 https://vavoo.to/play/2106619896/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YOL TV SD (1)
+https://vavoo.to/play/607077155/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EKOTURK
 https://vavoo.to/play/1201456793/index.m3u8
@@ -2691,6 +2712,9 @@ https://vavoo.to/play/1558612099/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NR1
 https://vavoo.to/play/271567504/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH HD (1)
+https://vavoo.to/play/2228496856/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELIF VE ARKADASLARI (1)
 https://vavoo.to/play/3515455741/index.m3u8
 
@@ -2919,9 +2943,6 @@ https://vavoo.to/play/2159469231/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", QAF TV
 https://vavoo.to/play/415347723/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST BILIMKURGU (1)
-https://vavoo.to/play/1566323467/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SEMERKAND
 https://vavoo.to/play/2341562915/index.m3u8
 
@@ -2934,6 +2955,9 @@ https://vavoo.to/play/2246993811/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX VIZYON 4
 https://vavoo.to/play/720191023/index.m3u8
 
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: DISCOVERY CHANNEL HD (1)
+https://vavoo.to/play/4017734592/index.m3u8
+
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK SALON 1 (1)
 https://vavoo.to/play/4289078283/index.m3u8
 
@@ -2942,6 +2966,9 @@ https://vavoo.to/play/3571625991/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA TV HD (1)
 https://vavoo.to/play/2780830033/index.m3u8
+
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST YESILCAM (1)
+https://vavoo.to/play/3652347263/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: LKE TV HD (1)
 https://vavoo.to/play/1839766333/index.m3u8
@@ -2985,8 +3012,8 @@ https://vavoo.to/play/1514643536/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILMBOX COMEDY
 https://vavoo.to/play/2089556265/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST NETFLIX (1)
-https://vavoo.to/play/3531727990/index.m3u8
+#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILBOX SPOR 1 MACZAMANI (1)
+https://vavoo.to/play/407612267/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA TV 1001 HD (1)
 https://vavoo.to/play/2761385166/index.m3u8
@@ -3003,14 +3030,8 @@ https://vavoo.to/play/3578706863/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA AKS YON 2 HD (1)
 https://vavoo.to/play/3440711580/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: S NEMA KOMED HD (1)
-https://vavoo.to/play/440774949/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST KOMEDI (1)
 https://vavoo.to/play/1723326598/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST SALON 1 (1)
-https://vavoo.to/play/2585357317/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DREAM NETFLIX (1)
 https://vavoo.to/play/1713907990/index.m3u8
@@ -3078,9 +3099,6 @@ https://vavoo.to/play/1168734460/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK KOMEDI (1)
 https://vavoo.to/play/1764108510/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST HABABAM SINIFI (1)
-https://vavoo.to/play/422848187/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST LOCA 2 (1)
 https://vavoo.to/play/2026459468/index.m3u8
 
@@ -3095,9 +3113,6 @@ https://vavoo.to/play/154583314/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", S SPORT+4 MAC SAATI (1)
 https://vavoo.to/play/1507829436/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA KORKU (1)
-https://vavoo.to/play/3563562547/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVIEMAX TURK
 https://vavoo.to/play/2178364300/index.m3u8
@@ -3125,9 +3140,6 @@ https://vavoo.to/play/1451950581/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST DRAM (1)
 https://vavoo.to/play/4099015608/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEST SALON 2 (1)
-https://vavoo.to/play/3719894741/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DINAMIK AKSIYON (1)
 https://vavoo.to/play/2337350974/index.m3u8
@@ -3224,9 +3236,6 @@ https://vavoo.to/play/3319070670/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT 3 SPOR
 https://vavoo.to/play/719664723/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4K TR: TV 4 (1)
-https://vavoo.to/play/357442962/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AFYON T RK TV (1)
 https://vavoo.to/play/145755891/index.m3u8
@@ -3330,9 +3339,6 @@ https://vavoo.to/play/163038510/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA BILIMKURGU (1)
 https://vavoo.to/play/3830648039/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AGRO TV
-https://vavoo.to/play/1633587820/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MESAJ TV (1)
 https://vavoo.to/play/1751593588/index.m3u8
 
@@ -3357,9 +3363,6 @@ https://vavoo.to/play/1249949446/index.m3u8
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BONUS MASAL DIYARI (1)
 https://vavoo.to/play/1753590086/index.m3u8
 
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULTRA TURK (1)
-https://vavoo.to/play/1868001587/index.m3u8
-
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 100 (1)
 https://vavoo.to/play/3769488982/index.m3u8
 
@@ -3383,9 +3386,6 @@ https://vavoo.to/play/1098241076/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIGI MAX
 https://vavoo.to/play/1278447576/index.m3u8
-
-#EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AFYON TURK
-https://vavoo.to/play/1782534194/index.m3u8
 
 #EXTINF:-1 group-title="Turkey" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AKUSTIK
 https://vavoo.to/play/185109761/index.m3u8

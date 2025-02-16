@@ -15,9 +15,6 @@ https://vavoo.to/play/3586469911/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 1
 https://vavoo.to/play/1397846137/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 ACTION
-https://vavoo.to/play/887233041/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 4
 https://vavoo.to/play/2540436583/index.m3u8
 
@@ -26,12 +23,6 @@ https://vavoo.to/play/486755545/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 1
 https://vavoo.to/play/3461926467/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT RACING
-https://vavoo.to/play/459281257/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT SELECT
-https://vavoo.to/play/739290895/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEZZO
 https://vavoo.to/play/439553705/index.m3u8
@@ -42,14 +33,23 @@ https://vavoo.to/play/319163860/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAKUTEN ACTION
 https://vavoo.to/play/895549735/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 ACTION
+https://vavoo.to/play/887233041/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SALTO BRASA MUSIC
 https://vavoo.to/play/4110941162/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT RACING
+https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT TENNIS
 https://vavoo.to/play/4022861107/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT
 https://vavoo.to/play/3749103743/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT SELECT
+https://vavoo.to/play/1585597115/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 7
 https://vavoo.to/play/3159017981/index.m3u8

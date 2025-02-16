@@ -18,11 +18,11 @@ https://vavoo.to/play/2941093452/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GRAN HERMANO
 https://vavoo.to/play/897942216/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV HYPERMOTION 2
-https://vavoo.to/play/899887126/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR LA LIGA (1)
 https://vavoo.to/play/2428779244/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV HYPERMOTION 2
+https://vavoo.to/play/899887126/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV BAR
 https://vavoo.to/play/1980907224/index.m3u8
@@ -42,14 +42,14 @@ https://vavoo.to/play/3950004696/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA SEXTA
 https://vavoo.to/play/2660027208/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR ESTRENOS HD (1)
-https://vavoo.to/play/3585307980/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HOLLYWOOD HD (1)
+https://vavoo.to/play/4205258144/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR DRAMA HD (1)
 https://vavoo.to/play/2748019555/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV BAR (1)
-https://vavoo.to/play/2178025822/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA LIGA TV HD (1)
+https://vavoo.to/play/3923153097/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELECINCO
 https://vavoo.to/play/1024256819/index.m3u8
@@ -60,17 +60,14 @@ https://vavoo.to/play/3996529465/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN HD (1)
 https://vavoo.to/play/251250868/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA LIGA TV HD (1)
-https://vavoo.to/play/3923153097/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV BAR (1)
+https://vavoo.to/play/2178025822/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HOLLYWOOD HD (1)
-https://vavoo.to/play/4205258144/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME DISTRICT
+https://vavoo.to/play/4175356411/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL ODISEA (1)
-https://vavoo.to/play/406958643/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR ACCI©N HD (1)
-https://vavoo.to/play/3697992438/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR ESTRENOS HD (1)
+https://vavoo.to/play/3585307980/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL (1)
 https://vavoo.to/play/3547398786/index.m3u8
@@ -81,20 +78,11 @@ https://vavoo.to/play/142832720/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR LA LIGA (BACKUP) (1)
 https://vavoo.to/play/2652614938/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME DISTRICT
-https://vavoo.to/play/4175356411/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR SERIESMANIA HD (1)
-https://vavoo.to/play/1344073831/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN F1
 https://vavoo.to/play/3129220252/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ATRESERIES (A3 SERIES)
 https://vavoo.to/play/1358849039/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M.ESTRENOS HD (1)
-https://vavoo.to/play/3864398596/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA 1 HD (1)
 https://vavoo.to/play/2673626663/index.m3u8
@@ -102,8 +90,11 @@ https://vavoo.to/play/2673626663/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DARK
 https://vavoo.to/play/385322260/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CAZA Y PESCA
-https://vavoo.to/play/3961204377/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL ODISEA (1)
+https://vavoo.to/play/406958643/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR ACCI©N HD (1)
+https://vavoo.to/play/3697992438/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SYFY HD (1)
 https://vavoo.to/play/3126656022/index.m3u8
@@ -113,9 +104,6 @@ https://vavoo.to/play/2670144662/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR CHANNEL
 https://vavoo.to/play/501658715/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 (1)
-https://vavoo.to/play/2423006885/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR+
 https://vavoo.to/play/2881668464/index.m3u8
@@ -129,20 +117,35 @@ https://vavoo.to/play/3568177379/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORIA (1)
 https://vavoo.to/play/26978931/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR SERIESMANIA HD (1)
+https://vavoo.to/play/1344073831/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DECASA
 https://vavoo.to/play/326701577/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M.ESTRENOS HD (1)
+https://vavoo.to/play/3864398596/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR COMEDIA HD (1)
 https://vavoo.to/play/1285043320/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M+ ELLAS VAMOS
-https://vavoo.to/play/3518404885/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CAZA Y PESCA
+https://vavoo.to/play/3961204377/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL HOLLYWOOD
 https://vavoo.to/play/3288402534/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS HD (1)
+https://vavoo.to/play/450666896/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN
 https://vavoo.to/play/4238619703/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS BAR 1 HD (1)
+https://vavoo.to/play/2276951612/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEGA (1)
+https://vavoo.to/play/1846141874/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HOLLYWOOD
 https://vavoo.to/play/4079560337/index.m3u8
@@ -156,14 +159,26 @@ https://vavoo.to/play/1462574321/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN 4
 https://vavoo.to/play/1739393340/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN LALIGA 2
+https://vavoo.to/play/427708442/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 HD (1)
 https://vavoo.to/play/1364676535/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 (1)
+https://vavoo.to/play/2423006885/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR LA LIGA 1 (1)
 https://vavoo.to/play/1969674121/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOROLE TV
 https://vavoo.to/play/472209056/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS
+https://vavoo.to/play/2724831939/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS BAR 2 HD (1)
+https://vavoo.to/play/154698207/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CUATRO
 https://vavoo.to/play/1590334161/index.m3u8
@@ -186,6 +201,9 @@ https://vavoo.to/play/2496355050/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOL (1)
 https://vavoo.to/play/441554993/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M+ ELLAS VAMOS
+https://vavoo.to/play/3518404885/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MULTIDEPORTE
 https://vavoo.to/play/242013171/index.m3u8
 
@@ -198,11 +216,11 @@ https://vavoo.to/play/3689902952/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", D KISS
 https://vavoo.to/play/4289152978/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC
+https://vavoo.to/play/1462723502/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX
 https://vavoo.to/play/3362806456/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS HD (1)
-https://vavoo.to/play/450666896/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL COCINA
 https://vavoo.to/play/3418635035/index.m3u8
@@ -210,14 +228,8 @@ https://vavoo.to/play/3418635035/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CALLE 13
 https://vavoo.to/play/1343655533/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS BAR 1 HD (1)
-https://vavoo.to/play/2276951612/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY WORLD
 https://vavoo.to/play/1041357840/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEGA (1)
-https://vavoo.to/play/1846141874/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TCM HD (1)
 https://vavoo.to/play/1868847447/index.m3u8
@@ -230,6 +242,12 @@ https://vavoo.to/play/3582842156/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CALLE 13 HD (1)
 https://vavoo.to/play/2909740152/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", IBERLIA TV (1)
+https://vavoo.to/play/2193702924/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ONETORO
+https://vavoo.to/play/1442267705/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC HD (1)
 https://vavoo.to/play/1940642395/index.m3u8
@@ -258,8 +276,8 @@ https://vavoo.to/play/3927192385/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SYFY
 https://vavoo.to/play/3068126176/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN LALIGA 2
-https://vavoo.to/play/427708442/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN WHITE HD (1)
+https://vavoo.to/play/3062256453/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SUR A (1)
 https://vavoo.to/play/460346627/index.m3u8
@@ -285,20 +303,11 @@ https://vavoo.to/play/2123930014/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LIGA CAMPEONES HD (1)
 https://vavoo.to/play/1198249236/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLAZE (1)
-https://vavoo.to/play/2047635278/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LALIGA TV HYPERMOTION 3
 https://vavoo.to/play/147003814/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOL TV
-https://vavoo.to/play/1447300419/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEDEPORTE HD (1)
 https://vavoo.to/play/531598528/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELENOVELAS
-https://vavoo.to/play/1456200012/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS N (1)
 https://vavoo.to/play/581292525/index.m3u8
@@ -306,14 +315,17 @@ https://vavoo.to/play/581292525/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE MADRID (1)
 https://vavoo.to/play/353289702/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN WHITE
+https://vavoo.to/play/3312673778/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2 (BACKUP) (1)
 https://vavoo.to/play/3474692336/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOROS TV HD (1)
 https://vavoo.to/play/1213515147/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALACANTI TV
-https://vavoo.to/play/4125579950/index.m3u8
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LANCELOT TV
+https://vavoo.to/play/3831813669/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEONUBA
 https://vavoo.to/play/3225990350/index.m3u8
@@ -330,9 +342,6 @@ https://vavoo.to/play/4208329945/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 3
 https://vavoo.to/play/2722563366/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS BAR 2 HD (1)
-https://vavoo.to/play/154698207/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PARAMOUNT CHANNEL (1)
 https://vavoo.to/play/1709759307/index.m3u8
 
@@ -342,11 +351,11 @@ https://vavoo.to/play/469813358/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BARCA TV (BACKUP) (1)
 https://vavoo.to/play/1097058594/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BARCA TV
+https://vavoo.to/play/2697778342/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 4
 https://vavoo.to/play/275241270/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 5
-https://vavoo.to/play/755495046/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV CASTILLA LA MANCHA / CMM TV
 https://vavoo.to/play/3432994000/index.m3u8
@@ -359,9 +368,6 @@ https://vavoo.to/play/238901671/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FDF (1)
 https://vavoo.to/play/2622585831/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC
-https://vavoo.to/play/1462723502/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX
 https://vavoo.to/play/1934981639/index.m3u8
@@ -384,12 +390,6 @@ https://vavoo.to/play/3137067513/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR F1 HD (1)
 https://vavoo.to/play/1826839470/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", IBERLIA TV (1)
-https://vavoo.to/play/2193702924/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ONETORO
-https://vavoo.to/play/1442267705/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVA (1)
 https://vavoo.to/play/2356963873/index.m3u8
 
@@ -401,9 +401,6 @@ https://vavoo.to/play/3362559361/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CLAN (1)
 https://vavoo.to/play/3121791135/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN WHITE HD (1)
-https://vavoo.to/play/3062256453/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOL PLAY
 https://vavoo.to/play/467441495/index.m3u8
@@ -480,11 +477,17 @@ https://vavoo.to/play/902146587/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEZZO
 https://vavoo.to/play/1556364158/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLAZE (1)
+https://vavoo.to/play/2047635278/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOM CINE
 https://vavoo.to/play/2566347328/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEDEPORTE (1)
 https://vavoo.to/play/2183991865/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOL TV
+https://vavoo.to/play/1447300419/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVE LA 2
 https://vavoo.to/play/779986648/index.m3u8
@@ -503,6 +506,9 @@ https://vavoo.to/play/2755024161/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV ESPANA
 https://vavoo.to/play/4068619843/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELENOVELAS
+https://vavoo.to/play/1456200012/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEZZO LIVE
 https://vavoo.to/play/1583754502/index.m3u8
@@ -555,9 +561,6 @@ https://vavoo.to/play/1066305614/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR LA LIGA 2 (1)
 https://vavoo.to/play/851881305/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN WHITE
-https://vavoo.to/play/3312673778/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 45 TV
 https://vavoo.to/play/2197204081/index.m3u8
 
@@ -600,6 +603,9 @@ https://vavoo.to/play/2235104269/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 24
 https://vavoo.to/play/1626957676/index.m3u8
 
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALACANTI TV
+https://vavoo.to/play/4125579950/index.m3u8
+
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 HORAS (1)
 https://vavoo.to/play/1537807715/index.m3u8
 
@@ -614,9 +620,6 @@ https://vavoo.to/play/1340694365/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEVIGO
 https://vavoo.to/play/967807787/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LANCELOT TV
-https://vavoo.to/play/3831813669/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOVISTAR DEPORTES (1)
 https://vavoo.to/play/1188166343/index.m3u8
@@ -638,9 +641,6 @@ https://vavoo.to/play/3711717935/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BETEVE
 https://vavoo.to/play/958089500/index.m3u8
-
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VAMOS
-https://vavoo.to/play/2724831939/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ENFAMILIA
 https://vavoo.to/play/2411568928/index.m3u8
@@ -804,9 +804,6 @@ https://vavoo.to/play/619735660/index.m3u8
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NORTEVISION
 https://vavoo.to/play/3216535545/index.m3u8
 
-#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BARCA TV
-https://vavoo.to/play/2697778342/index.m3u8
-
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVE STAR
 https://vavoo.to/play/3835338116/index.m3u8
 
@@ -833,6 +830,9 @@ https://vavoo.to/play/3689889997/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EMPORDA TV
 https://vavoo.to/play/1054272251/index.m3u8
+
+#EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 5
+https://vavoo.to/play/755495046/index.m3u8
 
 #EXTINF:-1 group-title="Spain" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GIRONA TV
 https://vavoo.to/play/1349066536/index.m3u8
