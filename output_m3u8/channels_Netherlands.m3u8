@@ -24,8 +24,8 @@ https://vavoo.to/play/4110941162/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT SELECT
 https://vavoo.to/play/739290895/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
-https://vavoo.to/play/4053879/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT TENNIS
+https://vavoo.to/play/4022861107/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 ACTION
 https://vavoo.to/play/887233041/index.m3u8
@@ -47,9 +47,6 @@ https://vavoo.to/play/3461926467/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 DRAMA
 https://vavoo.to/play/2329363703/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT TENNIS
-https://vavoo.to/play/4022861107/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 7
 https://vavoo.to/play/3159017981/index.m3u8
@@ -161,6 +158,9 @@ https://vavoo.to/play/439553705/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL
 https://vavoo.to/play/2323583211/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO POLITIEK
+https://vavoo.to/play/528739047/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SBS 9
 https://vavoo.to/play/1028120648/index.m3u8
@@ -420,6 +420,9 @@ https://vavoo.to/play/2796238877/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV RIJNMOND
 https://vavoo.to/play/3269277667/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
+https://vavoo.to/play/4053879/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY CHANNEL
 https://vavoo.to/play/2581510979/index.m3u8
 
@@ -590,9 +593,6 @@ https://vavoo.to/play/2736963194/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAKUTEN STORIES
 https://vavoo.to/play/3100186970/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO POLITIEK
-https://vavoo.to/play/4288638811/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV PARKSTAD
 https://vavoo.to/play/1291072245/index.m3u8
