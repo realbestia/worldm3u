@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
-https://vavoo.to/play/1176264166/index.m3u8
-
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA SPORT
 https://vavoo.to/play/3984233559/index.m3u8
 
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVA TV
+https://vavoo.to/play/2164896592/index.m3u8
+
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX SPORT 3
-https://vavoo.to/play/3986995045/index.m3u8
-
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETA
-https://vavoo.to/play/2356277850/index.m3u8
-
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX SPORT 1
-https://vavoo.to/play/1421125992/index.m3u8
+https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX SPORT 2
 https://vavoo.to/play/3502546645/index.m3u8
@@ -24,23 +18,32 @@ https://vavoo.to/play/1602513781/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVA SPORT
 https://vavoo.to/play/2771280932/index.m3u8
 
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BALKANIKA
-https://vavoo.to/play/1588054328/index.m3u8
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAX SPORT 1
+https://vavoo.to/play/2539971589/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FEN TV
 https://vavoo.to/play/566807500/index.m3u8
 
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETA TV
+https://vavoo.to/play/1819053706/index.m3u8
+
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA FAMILY
+https://vavoo.to/play/379201128/index.m3u8
+
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BALKANIKA MUSIC TV
+https://vavoo.to/play/1063393777/index.m3u8
+
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA SPORT 2
 https://vavoo.to/play/2945858102/index.m3u8
-
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVA TV
-https://vavoo.to/play/2164896592/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BTV
 https://vavoo.to/play/2650040518/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA
 https://vavoo.to/play/2041249158/index.m3u8
+
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETA
+https://vavoo.to/play/2356277850/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BTV ACTION
 https://vavoo.to/play/536338491/index.m3u8
@@ -53,6 +56,9 @@ https://vavoo.to/play/367205987/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HBO 2
 https://vavoo.to/play/1822214929/index.m3u8
+
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
+https://vavoo.to/play/1176264166/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA TV
 https://vavoo.to/play/3938899839/index.m3u8
@@ -81,6 +87,9 @@ https://vavoo.to/play/2180719613/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX CRIME
 https://vavoo.to/play/1715237185/index.m3u8
 
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BALKANIKA
+https://vavoo.to/play/1588054328/index.m3u8
+
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
 https://vavoo.to/play/1540493006/index.m3u8
 
@@ -99,9 +108,6 @@ https://vavoo.to/play/1198132906/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO WILD
 https://vavoo.to/play/3093560896/index.m3u8
 
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETA TV
-https://vavoo.to/play/1819053706/index.m3u8
-
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BTV STORY
 https://vavoo.to/play/3679243852/index.m3u8
 
@@ -113,9 +119,6 @@ https://vavoo.to/play/3134106340/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON
 https://vavoo.to/play/4262594289/index.m3u8
-
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA FAMILY
-https://vavoo.to/play/1032040630/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH
 https://vavoo.to/play/2369997090/index.m3u8
@@ -213,9 +216,6 @@ https://vavoo.to/play/2977990447/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX LIFE
 https://vavoo.to/play/2135288369/index.m3u8
 
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BALKANIKA MUSIC TV
-https://vavoo.to/play/1063393777/index.m3u8
-
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY WORLD
 https://vavoo.to/play/1266114284/index.m3u8
 
@@ -288,14 +288,14 @@ https://vavoo.to/play/3416795335/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ICONCERTS
 https://vavoo.to/play/3564883209/index.m3u8
 
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN BLACK
+https://vavoo.to/play/3788101792/index.m3u8
+
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WORLD FIGHT CHANNEL
 https://vavoo.to/play/1799700824/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALJAZEERA ENGLISH
 https://vavoo.to/play/2800458330/index.m3u8
-
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN BLACK
-https://vavoo.to/play/3788101792/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BNT 3
 https://vavoo.to/play/3967660473/index.m3u8
