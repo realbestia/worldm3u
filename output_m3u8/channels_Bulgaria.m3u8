@@ -36,9 +36,6 @@ https://vavoo.to/play/566807500/index.m3u8
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON
 https://vavoo.to/play/4262594289/index.m3u8
 
-#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH
-https://vavoo.to/play/2369997090/index.m3u8
-
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BALKANIKA MUSIC TV
 https://vavoo.to/play/1063393777/index.m3u8
 
@@ -122,6 +119,9 @@ https://vavoo.to/play/3134106340/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIEMA FAMILY
 https://vavoo.to/play/1032040630/index.m3u8
+
+#EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC EARTH
+https://vavoo.to/play/2369997090/index.m3u8
 
 #EXTINF:-1 group-title="Bulgaria" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACTION BOX
 https://vavoo.to/play/4121223228/index.m3u8
