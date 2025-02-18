@@ -12,9 +12,6 @@ https://vavoo.to/play/1939210164/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT UNO
 https://vavoo.to/play/210669162/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT TENNIS
-https://vavoo.to/play/78546677/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 70 80 HITS
 https://vavoo.to/play/2542531195/index.m3u8
 
@@ -33,23 +30,17 @@ https://vavoo.to/play/1768670187/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COLLECTION
 https://vavoo.to/play/3525837057/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DUE
-https://vavoo.to/play/1228534500/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA UNO
 https://vavoo.to/play/2872151911/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COMEDY
-https://vavoo.to/play/3131104474/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT TENNIS
+https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEDIASET 1
 https://vavoo.to/play/633342961/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 3
 https://vavoo.to/play/869117599/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE 34
-https://vavoo.to/play/62558606/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITALIA 2
 https://vavoo.to/play/1613543898/index.m3u8
@@ -68,6 +59,9 @@ https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN 2
 https://vavoo.to/play/363506221/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DUE
+https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA 5
 https://vavoo.to/play/1425667375/index.m3u8
@@ -99,11 +93,17 @@ https://vavoo.to/play/2049087681/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GIALLO
 https://vavoo.to/play/4060499455/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COMEDY
+https://vavoo.to/play/3131104474/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 4
 https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 8
 https://vavoo.to/play/1440779061/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE 34
+https://vavoo.to/play/62558606/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DRAMA
 https://vavoo.to/play/1235530177/index.m3u8
@@ -164,9 +164,6 @@ https://vavoo.to/play/2343767125/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER TV
 https://vavoo.to/play/3171202588/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOING
-https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DEEJAY TV
 https://vavoo.to/play/3802167244/index.m3u8
@@ -347,6 +344,9 @@ https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 27 TWENTY SEVEN
 https://vavoo.to/play/608774683/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOING
+https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOONITO (BACKUP)
 https://vavoo.to/play/2178717282/index.m3u8

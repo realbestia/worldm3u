@@ -15,11 +15,14 @@ https://vavoo.to/play/1619171179/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP 1 HD (1)
 https://vavoo.to/play/2312587144/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP 2
+https://vavoo.to/play/987253432/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN 7 HD (1)
 https://vavoo.to/play/1994391380/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP 2
-https://vavoo.to/play/987253432/index.m3u8
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN
+https://vavoo.to/play/110054216/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV REPUBLIKA (1)
 https://vavoo.to/play/3581908167/index.m3u8
@@ -27,26 +30,26 @@ https://vavoo.to/play/3581908167/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SPORT 2 HD (BACKUP) (1)
 https://vavoo.to/play/2875517467/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN
-https://vavoo.to/play/110054216/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT HD (1)
 https://vavoo.to/play/3020429658/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP SERIALE (1)
+https://vavoo.to/play/1463467003/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP 1
 https://vavoo.to/play/2105028712/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP SERIALE (1)
-https://vavoo.to/play/1463467003/index.m3u8
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVELAS+
+https://vavoo.to/play/1939536799/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SPORT 3 HD (1)
+https://vavoo.to/play/2190744944/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV PULS
 https://vavoo.to/play/2802119077/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TTV
 https://vavoo.to/play/467088896/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVELAS+
-https://vavoo.to/play/1939536799/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KINO POLSKA
 https://vavoo.to/play/3145212115/index.m3u8
@@ -56,9 +59,6 @@ https://vavoo.to/play/4275582277/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP 2 HD (1)
 https://vavoo.to/play/123224171/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SPORT 3 HD (1)
-https://vavoo.to/play/2190744944/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT FILM HD (1)
 https://vavoo.to/play/789572619/index.m3u8
@@ -87,6 +87,12 @@ https://vavoo.to/play/1620501998/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", W POLSCE
 https://vavoo.to/play/1822618245/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT SERIALE
+https://vavoo.to/play/2249727134/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOKUS TV (1)
+https://vavoo.to/play/634360804/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP POLONIA
 https://vavoo.to/play/1540833853/index.m3u8
 
@@ -105,6 +111,12 @@ https://vavoo.to/play/1967529105/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STOPKLATKA TV
 https://vavoo.to/play/52562107/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP
+https://vavoo.to/play/3646907051/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 1 (1)
+https://vavoo.to/play/2591735451/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN TURBO
 https://vavoo.to/play/2939182317/index.m3u8
 
@@ -120,17 +132,17 @@ https://vavoo.to/play/582984513/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 1
 https://vavoo.to/play/4171204086/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN 24 BIS
-https://vavoo.to/play/1095597900/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 1 HD (1)
 https://vavoo.to/play/4278133345/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN 7
+https://vavoo.to/play/3319341659/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP HD (1)
 https://vavoo.to/play/162772082/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT SERIALE
-https://vavoo.to/play/2249727134/index.m3u8
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALE KINO HD (1)
+https://vavoo.to/play/886061076/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STUDIOMED TV
 https://vavoo.to/play/2289661580/index.m3u8
@@ -141,8 +153,8 @@ https://vavoo.to/play/2262561089/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13 ULICA HD (1)
 https://vavoo.to/play/3971783236/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOKUS TV (1)
-https://vavoo.to/play/634360804/index.m3u8
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL FILM HD (1)
+https://vavoo.to/play/1926452306/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HBO2 HD (1)
 https://vavoo.to/play/512566032/index.m3u8
@@ -171,6 +183,9 @@ https://vavoo.to/play/3550013956/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", COMEDY CENTRAL EXTRA
 https://vavoo.to/play/1707756539/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4FUN DANCE
+https://vavoo.to/play/1084078950/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY HISTORIA (1)
 https://vavoo.to/play/2579453397/index.m3u8
 
@@ -198,11 +213,17 @@ https://vavoo.to/play/2365630571/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOTOWIZJA
 https://vavoo.to/play/330534602/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX POLAND 3 FHD (1)
+https://vavoo.to/play/3297041592/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVELA TV
 https://vavoo.to/play/3208882953/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVT ZGORZELEC
 https://vavoo.to/play/2163207394/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX POLAND 6 FHD (1)
+https://vavoo.to/play/2383649271/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX POLAND 2 FHD (1)
 https://vavoo.to/play/3556755707/index.m3u8
@@ -216,12 +237,6 @@ https://vavoo.to/play/1426086923/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET
 https://vavoo.to/play/2384808701/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP
-https://vavoo.to/play/3646907051/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SPORT (1)
-https://vavoo.to/play/1881505779/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELETOON+
 https://vavoo.to/play/1259787279/index.m3u8
 
@@ -231,14 +246,11 @@ https://vavoo.to/play/163612496/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALE KINO+
 https://vavoo.to/play/3945354960/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 1 (1)
-https://vavoo.to/play/2591735451/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVP SERIALE
 https://vavoo.to/play/612328203/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN 7
-https://vavoo.to/play/3319341659/index.m3u8
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN 24 BIS
+https://vavoo.to/play/1095597900/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVN TURBO HD (1)
 https://vavoo.to/play/2456969730/index.m3u8
@@ -254,9 +266,6 @@ https://vavoo.to/play/563274468/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVS
 https://vavoo.to/play/2667518075/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALE KINO HD (1)
-https://vavoo.to/play/886061076/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ROMANCE TV (1)
 https://vavoo.to/play/2937050383/index.m3u8
@@ -293,9 +302,6 @@ https://vavoo.to/play/126072654/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CI POLSAT HD (1)
 https://vavoo.to/play/995858220/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL FILM HD (1)
-https://vavoo.to/play/1926452306/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER TV
 https://vavoo.to/play/1934548163/index.m3u8
@@ -368,9 +374,6 @@ https://vavoo.to/play/1774650965/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SERIALE
 https://vavoo.to/play/1109636901/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4FUN DANCE
-https://vavoo.to/play/1084078950/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY 2
 https://vavoo.to/play/132683279/index.m3u8
@@ -453,9 +456,6 @@ https://vavoo.to/play/2973917914/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KINO POLSKA MUZYKA
 https://vavoo.to/play/2554778478/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX POLAND 3 FHD (1)
-https://vavoo.to/play/3297041592/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT SPORT PREMIUM 4
 https://vavoo.to/play/317983461/index.m3u8
 
@@ -488,9 +488,6 @@ https://vavoo.to/play/3625034813/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL HD (1)
 https://vavoo.to/play/4266326081/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX POLAND 6 FHD (1)
-https://vavoo.to/play/2383649271/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4FUN.TV (1)
 https://vavoo.to/play/524579377/index.m3u8
@@ -539,6 +536,9 @@ https://vavoo.to/play/2573766068/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX COMEDY
 https://vavoo.to/play/87838870/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT PLAY
+https://vavoo.to/play/3766540147/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORTKLUB HD (1)
 https://vavoo.to/play/2627011267/index.m3u8
@@ -626,6 +626,9 @@ https://vavoo.to/play/1704728504/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOLF CHANNEL HD (1)
 https://vavoo.to/play/4240372536/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SPORT (1)
+https://vavoo.to/play/1881505779/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CBEEBIES
 https://vavoo.to/play/3497040704/index.m3u8
@@ -792,6 +795,12 @@ https://vavoo.to/play/2081392984/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SPORT 4 (1)
 https://vavoo.to/play/1986659225/index.m3u8
 
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ DOKUMENT
+https://vavoo.to/play/1784842746/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY
+https://vavoo.to/play/686503148/index.m3u8
+
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ 1
 https://vavoo.to/play/1593221760/index.m3u8
 
@@ -800,9 +809,6 @@ https://vavoo.to/play/711982265/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUNDANCE HD (1)
 https://vavoo.to/play/3165750608/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SPORT HD (1)
-https://vavoo.to/play/327312955/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT NEWS 2
 https://vavoo.to/play/1129454481/index.m3u8
@@ -830,6 +836,9 @@ https://vavoo.to/play/1043321365/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOTOWIZJA HD (BACKUP) (1)
 https://vavoo.to/play/2092513799/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4FUN GOLD HITS
+https://vavoo.to/play/970789225/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT 2 HD (1)
 https://vavoo.to/play/4066544687/index.m3u8
@@ -866,9 +875,6 @@ https://vavoo.to/play/3293241225/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT SPORT PREMIUM 1
 https://vavoo.to/play/3658778005/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT PLAY
-https://vavoo.to/play/3766540147/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HBO
 https://vavoo.to/play/64410831/index.m3u8
@@ -948,14 +954,8 @@ https://vavoo.to/play/3593975768/index.m3u8
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HBO 3
 https://vavoo.to/play/606798235/index.m3u8
 
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ DOKUMENT
-https://vavoo.to/play/1784842746/index.m3u8
-
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX 2
 https://vavoo.to/play/932863820/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY
-https://vavoo.to/play/686503148/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMAX
 https://vavoo.to/play/3387518871/index.m3u8
@@ -995,6 +995,9 @@ https://vavoo.to/play/77576482/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 2 (1)
 https://vavoo.to/play/3722101835/index.m3u8
+
+#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL SPORT HD (1)
+https://vavoo.to/play/327312955/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME+ INVESTIGATION
 https://vavoo.to/play/3453122284/index.m3u8
@@ -1187,9 +1190,6 @@ https://vavoo.to/play/1861871898/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLSAT SPORT FIGHT (1)
 https://vavoo.to/play/691550660/index.m3u8
-
-#EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4FUN GOLD HITS
-https://vavoo.to/play/970789225/index.m3u8
 
 #EXTINF:-1 group-title="Poland" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZEST TV (1)
 https://vavoo.to/play/948919096/index.m3u8

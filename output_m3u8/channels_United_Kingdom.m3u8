@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1
-https://vavoo.to/play/171223833/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS PREMIER LEAGUE [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1051570868/index.m3u8
 
@@ -24,11 +21,11 @@ https://vavoo.to/play/3559719633/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS 1 (BACKUP)
 https://vavoo.to/play/3389447484/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY HISTORY (1)
-https://vavoo.to/play/1151638913/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HGTV +1
 https://vavoo.to/play/2476597456/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1
+https://vavoo.to/play/171223833/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ATLANTIC
 https://vavoo.to/play/197860327/index.m3u8
@@ -36,23 +33,11 @@ https://vavoo.to/play/197860327/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MAGIC
 https://vavoo.to/play/1580965479/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL
-https://vavoo.to/play/3783739771/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
-https://vavoo.to/play/2322221413/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UFC FIGHT NIGHT PASS
-https://vavoo.to/play/2490617565/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", COMEDY CENTRAL EXTRA
 https://vavoo.to/play/238077825/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NATIONAL GEOGRAPHIC (1)
 https://vavoo.to/play/3472875805/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV HITS
-https://vavoo.to/play/3253245476/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV 80S
 https://vavoo.to/play/3024667188/index.m3u8
@@ -83,6 +68,9 @@ https://vavoo.to/play/3305807951/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS GOLF (MATCH TIME)
 https://vavoo.to/play/3229984982/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY HISTORY (1)
+https://vavoo.to/play/1151638913/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY NATURE
 https://vavoo.to/play/158352552/index.m3u8
@@ -144,9 +132,6 @@ https://vavoo.to/play/3990475266/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX (1)
 https://vavoo.to/play/3975279875/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E4
-https://vavoo.to/play/915180742/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT CRICKET (1)
 https://vavoo.to/play/2352556888/index.m3u8
 
@@ -162,11 +147,11 @@ https://vavoo.to/play/3305570319/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT MIX (1)
 https://vavoo.to/play/3140080865/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC ONE CI (1)
-https://vavoo.to/play/578027428/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHANNEL 5
 https://vavoo.to/play/1155012716/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC ONE CI (1)
+https://vavoo.to/play/578027428/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX
 https://vavoo.to/play/2850951087/index.m3u8
@@ -176,6 +161,9 @@ https://vavoo.to/play/3349385632/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA FAMILY
 https://vavoo.to/play/2380134484/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL
+https://vavoo.to/play/3783739771/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2
 https://vavoo.to/play/2417125399/index.m3u8
@@ -189,8 +177,17 @@ https://vavoo.to/play/3876363641/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SHOWCASE
 https://vavoo.to/play/4161260693/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
+https://vavoo.to/play/2322221413/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
+https://vavoo.to/play/637829164/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
 https://vavoo.to/play/3618771655/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UFC FIGHT NIGHT PASS
+https://vavoo.to/play/2490617565/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABY TV
 https://vavoo.to/play/2880501005/index.m3u8
@@ -204,11 +201,11 @@ https://vavoo.to/play/2712076920/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO WILD (1)
 https://vavoo.to/play/2534557485/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E!
-https://vavoo.to/play/2660013108/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 3 (BACKUP) (1)
 https://vavoo.to/play/815608118/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO WILD
+https://vavoo.to/play/2468962511/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS NEWS HD (1)
 https://vavoo.to/play/3635211961/index.m3u8
@@ -255,8 +252,8 @@ https://vavoo.to/play/3269335957/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL (1)
 https://vavoo.to/play/2707576374/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 1
-https://vavoo.to/play/3241364735/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV HITS
+https://vavoo.to/play/3253245476/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 1 (BACKUP) (1)
 https://vavoo.to/play/3522426267/index.m3u8
@@ -270,14 +267,14 @@ https://vavoo.to/play/2604404132/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAVE JA VU (1)
 https://vavoo.to/play/3707933162/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE (1)
-https://vavoo.to/play/2621642644/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CNN
 https://vavoo.to/play/191216932/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 4
 https://vavoo.to/play/3031066341/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUTV
+https://vavoo.to/play/247196516/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV 90S
 https://vavoo.to/play/306170240/index.m3u8
@@ -287,9 +284,6 @@ https://vavoo.to/play/4149449071/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOLD
 https://vavoo.to/play/2842718264/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 3 HD (1)
-https://vavoo.to/play/3579790332/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY 2
 https://vavoo.to/play/409060483/index.m3u8
@@ -312,17 +306,11 @@ https://vavoo.to/play/3996470839/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INVESTIGATION DISCOVERY
 https://vavoo.to/play/286772654/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 2
-https://vavoo.to/play/2257794607/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 24
 https://vavoo.to/play/1912595716/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MORE 4
 https://vavoo.to/play/1703840230/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY XD
-https://vavoo.to/play/2449536426/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HGTV (1)
 https://vavoo.to/play/4077228619/index.m3u8
@@ -330,23 +318,23 @@ https://vavoo.to/play/4077228619/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HORROR CHANNEL
 https://vavoo.to/play/987595346/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW 70S
+https://vavoo.to/play/332905088/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITV +1
 https://vavoo.to/play/3172198203/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR
-https://vavoo.to/play/4084615517/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC FOUR
-https://vavoo.to/play/3034484844/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV ROCKS
+https://vavoo.to/play/2800939290/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LONDON LIVE
 https://vavoo.to/play/3928655766/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV LIVE
+https://vavoo.to/play/3888798711/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FIVE
 https://vavoo.to/play/2569489873/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E4 EXTRA
-https://vavoo.to/play/3428363276/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HORSE AND COUNTRY
 https://vavoo.to/play/1185476436/index.m3u8
@@ -354,8 +342,8 @@ https://vavoo.to/play/1185476436/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOOD FOOD
 https://vavoo.to/play/2742752002/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DRAMA
-https://vavoo.to/play/2184002232/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKTOONS
+https://vavoo.to/play/2606654597/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITVBE
 https://vavoo.to/play/329409085/index.m3u8
@@ -369,35 +357,26 @@ https://vavoo.to/play/3437382873/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KERRANG!
 https://vavoo.to/play/1252754905/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV MUSIC
+https://vavoo.to/play/1913060126/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITV 2 +
 https://vavoo.to/play/1788168045/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EARTHX TV
-https://vavoo.to/play/3902764896/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL (1)
-https://vavoo.to/play/4155381642/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY TURBO (1)
 https://vavoo.to/play/2100320635/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY ID (1)
-https://vavoo.to/play/3654944975/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DEEN TV (1)
-https://vavoo.to/play/852637802/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC TWO
 https://vavoo.to/play/396403603/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E4
+https://vavoo.to/play/915180742/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1689132265/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 (1)
 https://vavoo.to/play/2290804722/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
-https://vavoo.to/play/637829164/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 1 HD (1)
 https://vavoo.to/play/2541372545/index.m3u8
@@ -411,11 +390,11 @@ https://vavoo.to/play/1630697524/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
 https://vavoo.to/play/454135378/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E!
+https://vavoo.to/play/2660013108/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA GREATS
 https://vavoo.to/play/2993496155/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO WILD
-https://vavoo.to/play/2468962511/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS CRICKET HD (1)
 https://vavoo.to/play/1301186838/index.m3u8
@@ -495,6 +474,9 @@ https://vavoo.to/play/187460501/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PREMIER SPORTS 2
 https://vavoo.to/play/463994909/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 1
+https://vavoo.to/play/3241364735/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA SCI-FI
 https://vavoo.to/play/1482967190/index.m3u8
 
@@ -522,14 +504,14 @@ https://vavoo.to/play/2618854175/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RACING UK (1)
 https://vavoo.to/play/3936114127/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE (1)
+https://vavoo.to/play/2621642644/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABP NEWS
 https://vavoo.to/play/149206071/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITV3 (1)
 https://vavoo.to/play/1971539376/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUTV
-https://vavoo.to/play/247196516/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA SELECT
 https://vavoo.to/play/326827898/index.m3u8
@@ -545,6 +527,9 @@ https://vavoo.to/play/762039323/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 5 USA (1)
 https://vavoo.to/play/2889845752/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 3 HD (1)
+https://vavoo.to/play/3579790332/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS ESPN
 https://vavoo.to/play/3068684871/index.m3u8
@@ -596,6 +581,9 @@ https://vavoo.to/play/576177226/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY WITNESS
 https://vavoo.to/play/1610780956/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 2
+https://vavoo.to/play/2257794607/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4MUSIC
 https://vavoo.to/play/736546194/index.m3u8
@@ -654,6 +642,9 @@ https://vavoo.to/play/93733746/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ACTION & ADVENTURE (1)
 https://vavoo.to/play/2076828992/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY XD
+https://vavoo.to/play/2449536426/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SELECT PREMIERE 07 4K (MULTIAUDIO)
 https://vavoo.to/play/1593895558/index.m3u8
 
@@ -692,9 +683,6 @@ https://vavoo.to/play/2504531631/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 1 (1)
 https://vavoo.to/play/2651568586/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW 70S
-https://vavoo.to/play/332905088/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", B4U MOVIES
 https://vavoo.to/play/1520352469/index.m3u8
@@ -744,11 +732,11 @@ https://vavoo.to/play/1998919858/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALIBI
 https://vavoo.to/play/1396894621/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV ROCKS
-https://vavoo.to/play/2800939290/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 2 (1)
 https://vavoo.to/play/3651912474/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR
+https://vavoo.to/play/4084615517/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FC LIVERPOOL TV (1)
 https://vavoo.to/play/1433927321/index.m3u8
@@ -764,6 +752,9 @@ https://vavoo.to/play/3186551364/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 5STAR+1 (1)
 https://vavoo.to/play/4022654243/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC FOUR
+https://vavoo.to/play/3034484844/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DISNEY (1)
 https://vavoo.to/play/2940246239/index.m3u8
@@ -858,9 +849,6 @@ https://vavoo.to/play/3373097988/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TINY POP
 https://vavoo.to/play/2193331852/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV LIVE
-https://vavoo.to/play/3888798711/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EIR SPORT 1 (BACKUP) (1)
 https://vavoo.to/play/2988131864/index.m3u8
 
@@ -896,6 +884,9 @@ https://vavoo.to/play/3142520812/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ARTS (1)
 https://vavoo.to/play/1716764664/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E4 EXTRA
+https://vavoo.to/play/3428363276/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOW 80S
 https://vavoo.to/play/3852454505/index.m3u8
@@ -1008,14 +999,14 @@ https://vavoo.to/play/1030793801/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STARZ TV
 https://vavoo.to/play/3619055892/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DRAMA
+https://vavoo.to/play/2184002232/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SHOWCASE (1)
 https://vavoo.to/play/4231850871/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TJC (1)
 https://vavoo.to/play/3045212765/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKTOONS
-https://vavoo.to/play/2606654597/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STV
 https://vavoo.to/play/2657541204/index.m3u8
@@ -1131,9 +1122,6 @@ https://vavoo.to/play/3049102539/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC SCOTLAND
 https://vavoo.to/play/857408474/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV MUSIC
-https://vavoo.to/play/1913060126/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC ONE YK&LI (1)
 https://vavoo.to/play/4135398046/index.m3u8
 
@@ -1202,6 +1190,9 @@ https://vavoo.to/play/824650177/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TINY POP+1 (1)
 https://vavoo.to/play/1414100609/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EARTHX TV
+https://vavoo.to/play/3902764896/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CBBC (1)
 https://vavoo.to/play/2178439374/index.m3u8
@@ -1329,6 +1320,9 @@ https://vavoo.to/play/2306935132/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E4+1 (1)
 https://vavoo.to/play/1692817765/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL (1)
+https://vavoo.to/play/4155381642/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUTV (1)
 https://vavoo.to/play/1269043656/index.m3u8
 
@@ -1349,6 +1343,9 @@ https://vavoo.to/play/1505679638/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHANNEL 4 HD (1)
 https://vavoo.to/play/1399585566/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY ID (1)
+https://vavoo.to/play/3654944975/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUTV FC (1)
 https://vavoo.to/play/2630500553/index.m3u8
@@ -1427,6 +1424,9 @@ https://vavoo.to/play/2613146102/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HORROR CH+1 (1)
 https://vavoo.to/play/199057555/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DEEN TV (1)
+https://vavoo.to/play/852637802/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HI-IMPACT TV (1)
 https://vavoo.to/play/3990894854/index.m3u8
