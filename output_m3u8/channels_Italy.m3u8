@@ -1,13 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI NEWS 24
-https://vavoo.to/play/2239645272/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANALE 5
 https://vavoo.to/play/1101559666/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITALIA 1
-https://vavoo.to/play/663536394/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RETE 4
+https://vavoo.to/play/2235732004/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA 5
+https://vavoo.to/play/84139639/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI NEWS 24
+https://vavoo.to/play/2239645272/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", IRIS
+https://vavoo.to/play/576490047/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ACTION
+https://vavoo.to/play/3812796171/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ATLANTIC
+https://vavoo.to/play/1421393119/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 7
 https://vavoo.to/play/3618643172/index.m3u8
@@ -18,14 +30,8 @@ https://vavoo.to/play/1324733956/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA SUSPENSE
 https://vavoo.to/play/1820997555/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LA 5
-https://vavoo.to/play/84139639/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI PREMIUM
 https://vavoo.to/play/2861734300/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", IRIS
-https://vavoo.to/play/576490047/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT UNO
 https://vavoo.to/play/210669162/index.m3u8
@@ -36,44 +42,20 @@ https://vavoo.to/play/2100771782/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 1
 https://vavoo.to/play/875922788/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ACTION
-https://vavoo.to/play/3812796171/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT 24
-https://vavoo.to/play/2775802255/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ATLANTIC
-https://vavoo.to/play/1421393119/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 8
-https://vavoo.to/play/1440779061/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 2
-https://vavoo.to/play/525374356/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT
-https://vavoo.to/play/2924135092/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 5
-https://vavoo.to/play/2909818756/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITALIA 1
+https://vavoo.to/play/663536394/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT CALCIO
 https://vavoo.to/play/449990998/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RETE 4
-https://vavoo.to/play/2235732004/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COLLECTION
-https://vavoo.to/play/3525837057/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA UNO
 https://vavoo.to/play/1759625738/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 2
-https://vavoo.to/play/1939210164/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ACTION (BACKUP)
 https://vavoo.to/play/2242741766/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT 24
+https://vavoo.to/play/2775802255/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN 1
 https://vavoo.to/play/1376440573/index.m3u8
@@ -81,11 +63,11 @@ https://vavoo.to/play/1376440573/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN 2
 https://vavoo.to/play/363506221/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT F1
-https://vavoo.to/play/4246774056/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT MOTO GP
 https://vavoo.to/play/3036316886/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT F1
+https://vavoo.to/play/4246774056/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 4K
 https://vavoo.to/play/2049087681/index.m3u8
@@ -102,9 +84,6 @@ https://vavoo.to/play/3657217948/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOCUS
 https://vavoo.to/play/2982550433/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DRAMA
-https://vavoo.to/play/1235530177/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 6
 https://vavoo.to/play/3939513684/index.m3u8
 
@@ -120,14 +99,14 @@ https://vavoo.to/play/477466531/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX
 https://vavoo.to/play/3803638765/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI MOVIE
-https://vavoo.to/play/1925964148/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", REAL TIME
 https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 10
 https://vavoo.to/play/2268489342/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 8
+https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 102.5
 https://vavoo.to/play/1729811452/index.m3u8
@@ -147,9 +126,6 @@ https://vavoo.to/play/1753260677/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SERIE
 https://vavoo.to/play/836680112/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 1
-https://vavoo.to/play/1944682394/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CRIME
 https://vavoo.to/play/269503091/index.m3u8
 
@@ -158,6 +134,9 @@ https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME+ INVESTIGATION
 https://vavoo.to/play/3005227700/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SUPER TENNIS
+https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DEEJAY TV
 https://vavoo.to/play/963607327/index.m3u8
@@ -171,6 +150,9 @@ https://vavoo.to/play/881846038/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ROMANCE
 https://vavoo.to/play/2890008905/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT
+https://vavoo.to/play/2924135092/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI STORIA
 https://vavoo.to/play/57338653/index.m3u8
 
@@ -179,6 +161,9 @@ https://vavoo.to/play/1995860185/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
 https://vavoo.to/play/3481346857/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 5
+https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RSI LA 2
 https://vavoo.to/play/3475299702/index.m3u8
@@ -198,50 +183,53 @@ https://vavoo.to/play/2745635299/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TGCOM 24
 https://vavoo.to/play/2418148449/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK
-https://vavoo.to/play/1289777017/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOING
 https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI YOYO
 https://vavoo.to/play/1890950169/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOONITO (BACKUP)
-https://vavoo.to/play/2178717282/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOTORTREND
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT ITALIA
 https://vavoo.to/play/2881739927/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOONITO (BACKUP)
+https://vavoo.to/play/2178717282/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 5
 https://vavoo.to/play/3163380543/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 14
-https://vavoo.to/play/187661709/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PREMIUM CRIME
+https://vavoo.to/play/444768053/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT+
-https://vavoo.to/play/843891896/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DUE +24
+https://vavoo.to/play/1078650168/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI ITALIA
-https://vavoo.to/play/374675593/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT [LIVE DURING EVENTS ONLY]
-https://vavoo.to/play/551730224/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SCUOLA
-https://vavoo.to/play/2007798511/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME + INV
+https://vavoo.to/play/1968339149/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI GULP
 https://vavoo.to/play/1803677691/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICK JR
-https://vavoo.to/play/380958472/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CUSANO ITALIA TV
+https://vavoo.to/play/3156092639/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", QUARTA RETE
+https://vavoo.to/play/2804189085/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1
 https://vavoo.to/play/2289038972/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COLLECTION
+https://vavoo.to/play/3525837057/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE 34 MEDIASET
 https://vavoo.to/play/1768670187/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI 2
+https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT
 https://vavoo.to/play/924661659/index.m3u8
@@ -258,8 +246,14 @@ https://vavoo.to/play/633342961/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT ARENA
 https://vavoo.to/play/3007400791/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DRAMA
+https://vavoo.to/play/1235530177/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TENNIS CHANNEL
 https://vavoo.to/play/2716316208/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI MOVIE
+https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DUE
 https://vavoo.to/play/1228534500/index.m3u8
@@ -276,14 +270,17 @@ https://vavoo.to/play/326825326/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUPER TENNIS
 https://vavoo.to/play/3009377513/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SUPER TENNIS
-https://vavoo.to/play/558282118/index.m3u8
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 1
+https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ARTE
 https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 3
 https://vavoo.to/play/573618724/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 2
+https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEDIASET 20
 https://vavoo.to/play/3134481201/index.m3u8
@@ -303,9 +300,6 @@ https://vavoo.to/play/11090349/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY UNO
 https://vavoo.to/play/2130523218/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOTORTREND
-https://vavoo.to/play/3889279895/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT MOTOGP
 https://vavoo.to/play/2090703806/index.m3u8
 
@@ -323,6 +317,9 @@ https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA UNO +24
 https://vavoo.to/play/1699876530/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK
+https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1989309231/index.m3u8
@@ -363,6 +360,9 @@ https://vavoo.to/play/2221901869/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 111 TV
 https://vavoo.to/play/1600139819/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 14
+https://vavoo.to/play/187661709/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 70 80 HITS
 https://vavoo.to/play/2542531195/index.m3u8
 
@@ -377,9 +377,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 2000
 https://vavoo.to/play/1949044924/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PREMIUM CRIME
-https://vavoo.to/play/444768053/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORTITALIA PLUS
 https://vavoo.to/play/3342849313/index.m3u8
@@ -453,6 +450,9 @@ https://vavoo.to/play/273312373/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PESCA E CACCIA
 https://vavoo.to/play/3124512993/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT+
+https://vavoo.to/play/843891896/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITALIAN FISHING TV
 https://vavoo.to/play/477083716/index.m3u8
 
@@ -477,14 +477,23 @@ https://vavoo.to/play/1370869299/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CAFE 24
 https://vavoo.to/play/1625923783/index.m3u8
 
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI ITALIA
+https://vavoo.to/play/374675593/index.m3u8
+
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", QVC
 https://vavoo.to/play/2952884641/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SPORT [LIVE DURING EVENTS ONLY]
+https://vavoo.to/play/551730224/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 51 RADIO TV
 https://vavoo.to/play/4216245552/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV SPORT
 https://vavoo.to/play/134178901/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RAI SCUOLA
+https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GOLD TV
 https://vavoo.to/play/2854396316/index.m3u8
@@ -498,9 +507,6 @@ https://vavoo.to/play/1506307932/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RADIO FRECCIA
 https://vavoo.to/play/1711134994/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA DUE +24
-https://vavoo.to/play/1078650168/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENNA 2
 https://vavoo.to/play/3014001260/index.m3u8
 
@@ -509,9 +515,6 @@ https://vavoo.to/play/911168573/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY FOCUS
 https://vavoo.to/play/2113273064/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME + INV
-https://vavoo.to/play/1968339149/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY PRIMAFILA 18
 https://vavoo.to/play/3470758028/index.m3u8
@@ -612,9 +615,6 @@ https://vavoo.to/play/2764553737/index.m3u8
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY K2
 https://vavoo.to/play/3037871903/index.m3u8
 
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CUSANO ITALIA TV
-https://vavoo.to/play/3156092639/index.m3u8
-
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEVENEZIA
 https://vavoo.to/play/2814318198/index.m3u8
 
@@ -635,6 +635,9 @@ https://vavoo.to/play/2436070507/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M2O
 https://vavoo.to/play/215827632/index.m3u8
+
+#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICK JR
+https://vavoo.to/play/380958472/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LOVE FM TV
 https://vavoo.to/play/3344963942/index.m3u8
@@ -887,9 +890,6 @@ https://vavoo.to/play/539484419/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELEVIDEO AGRIGENTO
 https://vavoo.to/play/4020241962/index.m3u8
-
-#EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", QUARTA RETE
-https://vavoo.to/play/2804189085/index.m3u8
 
 #EXTINF:-1 group-title="Italy" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTR 99 TV
 https://vavoo.to/play/1621632780/index.m3u8

@@ -3,17 +3,14 @@
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER 2 (1)
 https://vavoo.to/play/3821259131/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER 1 (1)
-https://vavoo.to/play/2757997483/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CHANNEL FHD
-https://vavoo.to/play/2084613340/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM AKSION HD (1)
 https://vavoo.to/play/892299779/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER (1)
 https://vavoo.to/play/2550632094/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CHANNEL FHD
+https://vavoo.to/play/2084613340/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CHANNEL HD (1)
 https://vavoo.to/play/2347919108/index.m3u8
@@ -27,17 +24,26 @@ https://vavoo.to/play/762506641/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DARK GEZUAR
 https://vavoo.to/play/1519381746/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER 1 (1)
+https://vavoo.to/play/2757997483/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK 1 (1)
+https://vavoo.to/play/2430389054/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART SPORT 1
 https://vavoo.to/play/3586832779/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUPER SONIC TV
 https://vavoo.to/play/4066508938/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN KOSOVA (1)
-https://vavoo.to/play/3040065660/index.m3u8
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK 1
+https://vavoo.to/play/335723640/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUPER SPORT 2 (1)
 https://vavoo.to/play/1167206404/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN KOSOVA
+https://vavoo.to/play/4029432528/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART KINO 1
 https://vavoo.to/play/703034630/index.m3u8
@@ -74,9 +80,6 @@ https://vavoo.to/play/3943269707/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KTV HD (1)
 https://vavoo.to/play/2038668692/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 21 POPULLORE
-https://vavoo.to/play/2346570201/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 3 PLUS (1)
 https://vavoo.to/play/3601055712/index.m3u8
@@ -147,11 +150,11 @@ https://vavoo.to/play/4193652427/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV SHARRI
 https://vavoo.to/play/385767921/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
-https://vavoo.to/play/1921488806/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 21 HD (1)
 https://vavoo.to/play/4057281262/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
+https://vavoo.to/play/1921488806/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT KOSOVA 2
 https://vavoo.to/play/2130501094/index.m3u8
@@ -195,6 +198,9 @@ https://vavoo.to/play/1514101999/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE DRAMA
 https://vavoo.to/play/1110052705/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULQINI TV
+https://vavoo.to/play/3448134024/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KUJTESA SPORT 3
 https://vavoo.to/play/2147204042/index.m3u8
 
@@ -225,9 +231,6 @@ https://vavoo.to/play/1192504822/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MELODY TV
 https://vavoo.to/play/1069700240/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ULQINI TV
-https://vavoo.to/play/3448134024/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CLICK
 https://vavoo.to/play/2860143719/index.m3u8
 
@@ -249,9 +252,6 @@ https://vavoo.to/play/1016873733/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUPER SPORT 4
 https://vavoo.to/play/3862530054/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 7 NEWS
-https://vavoo.to/play/2714068534/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH KORCA
 https://vavoo.to/play/3082721844/index.m3u8
 
@@ -270,9 +270,6 @@ https://vavoo.to/play/4291040922/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LIVING
 https://vavoo.to/play/2263551325/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABC NEWS (1)
-https://vavoo.to/play/571231321/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM AUTOR
 https://vavoo.to/play/1938656552/index.m3u8
 
@@ -285,23 +282,17 @@ https://vavoo.to/play/3409844377/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIZION PLUS (1)
 https://vavoo.to/play/732333913/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING WORLD
-https://vavoo.to/play/397168433/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBF MUSIC TV
 https://vavoo.to/play/3246587993/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOLK+
 https://vavoo.to/play/620187023/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MCN TV
-https://vavoo.to/play/2998554778/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV2 GOSTIVAR
 https://vavoo.to/play/183143528/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 2
-https://vavoo.to/play/2430109038/index.m3u8
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MCN TV
+https://vavoo.to/play/2998554778/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ORA NEWS (1)
 https://vavoo.to/play/1631488945/index.m3u8
@@ -315,9 +306,6 @@ https://vavoo.to/play/1999907953/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELRODI (1)
 https://vavoo.to/play/112491378/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART KINO 1 HD (1)
-https://vavoo.to/play/2600890787/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BANG BANG
 https://vavoo.to/play/2724030116/index.m3u8
 
@@ -330,6 +318,9 @@ https://vavoo.to/play/2598876936/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH FILM
 https://vavoo.to/play/2756781816/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV KOHA (1)
+https://vavoo.to/play/302501346/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH SPORT
 https://vavoo.to/play/1868852854/index.m3u8
 
@@ -341,9 +332,6 @@ https://vavoo.to/play/3812096891/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DASMA
 https://vavoo.to/play/2345015277/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELRODI TV
-https://vavoo.to/play/2018730890/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABC NEWS
 https://vavoo.to/play/2914513038/index.m3u8
@@ -359,6 +347,9 @@ https://vavoo.to/play/3726501858/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 5 HD (1)
 https://vavoo.to/play/1977429531/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING WORLD (1)
+https://vavoo.to/play/1387509149/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH 24
 https://vavoo.to/play/3846665415/index.m3u8
@@ -381,6 +372,9 @@ https://vavoo.to/play/2412206018/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 21 MIX
 https://vavoo.to/play/3677358348/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 2 HD (1)
+https://vavoo.to/play/2132289282/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", JUNIOR
 https://vavoo.to/play/218312118/index.m3u8
 
@@ -399,20 +393,17 @@ https://vavoo.to/play/3495073691/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING SUPER HD
 https://vavoo.to/play/13756062/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
+https://vavoo.to/play/1629878879/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH 1
 https://vavoo.to/play/1377919816/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 4
 https://vavoo.to/play/530084046/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINESTAR TV ACTION
-https://vavoo.to/play/4074461940/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH 3
 https://vavoo.to/play/685846568/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABC
-https://vavoo.to/play/4170672753/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANALI 7 (1)
 https://vavoo.to/play/271539603/index.m3u8
@@ -429,6 +420,12 @@ https://vavoo.to/play/932736266/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROFILM
 https://vavoo.to/play/3348497268/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER 1 KS
+https://vavoo.to/play/2163930146/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA
+https://vavoo.to/play/2427354497/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTSH MUZIKE
 https://vavoo.to/play/482980557/index.m3u8
 
@@ -443,9 +440,6 @@ https://vavoo.to/play/548969189/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STV FOLK
 https://vavoo.to/play/2208086589/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK 1 (1)
-https://vavoo.to/play/2430389054/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALSAT M HD (1)
 https://vavoo.to/play/4043346710/index.m3u8
@@ -462,11 +456,11 @@ https://vavoo.to/play/2241241082/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING SPORT 2 (BACKUP) (1)
 https://vavoo.to/play/2372899614/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK 1
-https://vavoo.to/play/2043559355/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN
 https://vavoo.to/play/2085629786/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN KOSOVA (1)
+https://vavoo.to/play/3040065660/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN TV (1)
 https://vavoo.to/play/3344417331/index.m3u8
@@ -476,9 +470,6 @@ https://vavoo.to/play/600855662/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CHANNEL (1)
 https://vavoo.to/play/2811365982/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KLAN KOSOVA
-https://vavoo.to/play/4029432528/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOP CHANNEL
 https://vavoo.to/play/1347567064/index.m3u8
@@ -509,6 +500,9 @@ https://vavoo.to/play/1866257977/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING SPORT 1
 https://vavoo.to/play/665986380/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 21 POPULLORE
+https://vavoo.to/play/2346570201/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING SPORT 3 (1)
 https://vavoo.to/play/1905861518/index.m3u8
@@ -546,11 +540,17 @@ https://vavoo.to/play/3876927075/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EURO FILM 1
 https://vavoo.to/play/3617247605/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 7 NEWS
+https://vavoo.to/play/2714068534/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 21
 https://vavoo.to/play/4133472451/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARTA
 https://vavoo.to/play/188403960/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABC NEWS (1)
+https://vavoo.to/play/571231321/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 6
 https://vavoo.to/play/1700275118/index.m3u8
@@ -561,11 +561,17 @@ https://vavoo.to/play/4161474845/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 4 HD (1)
 https://vavoo.to/play/3111595653/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING WORLD
+https://vavoo.to/play/397168433/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", K SPORT 1
 https://vavoo.to/play/3133194008/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK HD (1)
 https://vavoo.to/play/1166414668/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 2
+https://vavoo.to/play/2430109038/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV DUKAGJINI
 https://vavoo.to/play/2601193179/index.m3u8
@@ -575,6 +581,9 @@ https://vavoo.to/play/3615031230/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING TRING (1)
 https://vavoo.to/play/3811688013/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART KINO 1 HD (1)
+https://vavoo.to/play/2600890787/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTK 4
 https://vavoo.to/play/2972627659/index.m3u8
@@ -594,9 +603,6 @@ https://vavoo.to/play/2835189450/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILMA24 HORROR
 https://vavoo.to/play/1289989429/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV KOHA (1)
-https://vavoo.to/play/302501346/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART KINO 2
 https://vavoo.to/play/1850150870/index.m3u8
 
@@ -608,6 +614,9 @@ https://vavoo.to/play/3377534818/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING ACTION HD (1)
 https://vavoo.to/play/3553986754/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELRODI TV
+https://vavoo.to/play/2018730890/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING SHQIP (1)
 https://vavoo.to/play/4057946084/index.m3u8
@@ -626,9 +635,6 @@ https://vavoo.to/play/172273754/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 3 HD (1)
 https://vavoo.to/play/3014797212/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING WORLD (1)
-https://vavoo.to/play/1387509149/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILMA24 HITS
 https://vavoo.to/play/1679095367/index.m3u8
@@ -681,9 +687,6 @@ https://vavoo.to/play/102151724/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROFILM (1)
 https://vavoo.to/play/1341499575/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE ONE 2 HD (1)
-https://vavoo.to/play/2132289282/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 21 MIX (1)
 https://vavoo.to/play/2762986130/index.m3u8
 
@@ -705,11 +708,11 @@ https://vavoo.to/play/722381466/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIZION PLUS
 https://vavoo.to/play/3697717471/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
-https://vavoo.to/play/1629878879/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILMA24 AZIATIK
 https://vavoo.to/play/1549277721/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINESTAR TV ACTION
+https://vavoo.to/play/4074461940/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM GOLD 4 (1)
 https://vavoo.to/play/2898591747/index.m3u8
@@ -725,6 +728,9 @@ https://vavoo.to/play/4240032313/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART SPORT 6
 https://vavoo.to/play/1743414683/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ABC
+https://vavoo.to/play/4170672753/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DARK PRIME 2
 https://vavoo.to/play/220631294/index.m3u8
@@ -1149,9 +1155,6 @@ https://vavoo.to/play/1754126945/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUPER SPORT 3 HD (1)
 https://vavoo.to/play/2176944702/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIG BROTHER 1 KS
-https://vavoo.to/play/2163930146/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", X PREMIUM 1 HD (1)
 https://vavoo.to/play/672540565/index.m3u8
 
@@ -1218,14 +1221,14 @@ https://vavoo.to/play/3351792556/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOLKLORIT
 https://vavoo.to/play/2258693543/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA 1
+https://vavoo.to/play/2562961232/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUSIC HITS
 https://vavoo.to/play/344556301/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HBO 2
 https://vavoo.to/play/618074872/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA 1
-https://vavoo.to/play/2562961232/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARABIYA (FHD) (1)
 https://vavoo.to/play/3983844347/index.m3u8
@@ -1280,9 +1283,6 @@ https://vavoo.to/play/1996734955/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARABIYA AL HADATH (FHD) [NOT 24/7] (1)
 https://vavoo.to/play/618341186/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA
-https://vavoo.to/play/2427354497/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL (1)
 https://vavoo.to/play/3240821492/index.m3u8
@@ -1527,6 +1527,9 @@ https://vavoo.to/play/191420408/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOLK (1)
 https://vavoo.to/play/1823018509/index.m3u8
 
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CITY TV
+https://vavoo.to/play/2973823362/index.m3u8
+
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHQIPTV ISLAM (1)
 https://vavoo.to/play/2857646144/index.m3u8
 
@@ -1542,9 +1545,6 @@ https://vavoo.to/play/1213025632/index.m3u8
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING INTERNACIONAL (1)
 https://vavoo.to/play/4129036039/index.m3u8
 
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CITY TV
-https://vavoo.to/play/2973823362/index.m3u8
-
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV ALDI
 https://vavoo.to/play/3045536987/index.m3u8
 
@@ -1556,6 +1556,9 @@ https://vavoo.to/play/2524325125/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUNNAH AL NABAWIYAH TV (MEDINA) (720P) [NOT 24/7] (1)
 https://vavoo.to/play/3910366290/index.m3u8
+
+#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA TV (1)
+https://vavoo.to/play/2575874750/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRING LIFE (1)
 https://vavoo.to/play/827384229/index.m3u8
@@ -1643,9 +1646,6 @@ https://vavoo.to/play/2784295539/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EHSAAN TV (720P) (1)
 https://vavoo.to/play/1487806223/index.m3u8
-
-#EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIRANA TV (1)
-https://vavoo.to/play/2575874750/index.m3u8
 
 #EXTINF:-1 group-title="Albania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KS PREMIER 2
 https://vavoo.to/play/1155460756/index.m3u8
