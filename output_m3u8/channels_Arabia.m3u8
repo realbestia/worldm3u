@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD (1)
 https://vavoo.to/play/2155997443/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 FHD (1)
+https://vavoo.to/play/372172112/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES 2 HD (ACTION) (1)
 https://vavoo.to/play/2776956416/index.m3u8
 
@@ -18,11 +21,11 @@ https://vavoo.to/play/3523388500/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 FHD (1)
 https://vavoo.to/play/953732566/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM SD (1)
-https://vavoo.to/play/1914867451/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL JADEED (1)
 https://vavoo.to/play/4250841688/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL JAZEERA ARABIC (1)
+https://vavoo.to/play/2663630046/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM HEVC (1)
 https://vavoo.to/play/1697037782/index.m3u8
@@ -45,35 +48,44 @@ https://vavoo.to/play/2550120923/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 6 HD (1)
 https://vavoo.to/play/2319769626/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM (1)
-https://vavoo.to/play/1350319136/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL ARABIYA AL HADATH (1)
 https://vavoo.to/play/3948955561/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MBC BOLLYWOOD (1)
 https://vavoo.to/play/170041912/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM 1MB (1)
-https://vavoo.to/play/908164763/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [ALG] JEEL DZ TV HD (1)
 https://vavoo.to/play/2974091784/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DW ARABIC
-https://vavoo.to/play/814762680/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", (ALGERIA) CNA TV (1)
+https://vavoo.to/play/907894234/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", (ALGERIA) EL BILAD TV (1)
+https://vavoo.to/play/1057827735/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [GLF] OMAN 1 TV (1)
 https://vavoo.to/play/1976195553/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13MAX TELEVISIÓN (1)
+https://vavoo.to/play/3991265348/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 1 (1)
+https://vavoo.to/play/4122540197/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [GLF] OMAN 2 MOBASHER (1)
 https://vavoo.to/play/3210759158/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ♥QU♥ MOROCCO ♥PA♥ (1)
+https://vavoo.to/play/1973649955/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 1 HD (1)
+https://vavoo.to/play/3729559690/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [GLF] OMAN 4 SPORT (1)
 https://vavoo.to/play/3722202069/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 2 (1)
-https://vavoo.to/play/2987950709/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] AL KASS SPORTS 3 (1)
+https://vavoo.to/play/1427354463/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [GLF] OMAN 3 THAKAFEYA (1)
 https://vavoo.to/play/3113342636/index.m3u8
@@ -81,47 +93,95 @@ https://vavoo.to/play/3113342636/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 3 (1)
 https://vavoo.to/play/2407050181/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE MAROC (1)
-https://vavoo.to/play/2053234059/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AGHANI (1)
+https://vavoo.to/play/3937346107/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 5 (1)
 https://vavoo.to/play/3694181/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM 1080 LOCAL (1)
-https://vavoo.to/play/3487656179/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 2 HD (1)
+https://vavoo.to/play/1354995561/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 2 (1)
+https://vavoo.to/play/3036674219/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS ENGLISH HD1 (1)
 https://vavoo.to/play/496638848/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV SOLIDARIA (1)
+https://vavoo.to/play/3543025921/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 4 (1)
+https://vavoo.to/play/1029208021/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 2 (1)
+https://vavoo.to/play/281382692/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 3 HD (1)
+https://vavoo.to/play/2624165879/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 4 (1)
+https://vavoo.to/play/2676324996/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 1 (1)
+https://vavoo.to/play/4083122811/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN A1 (1)
+https://vavoo.to/play/3540534477/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 3 (1)
+https://vavoo.to/play/765830804/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS ENGLISH 1 (1)
 https://vavoo.to/play/457686834/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TCM (1)
-https://vavoo.to/play/1072782016/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AL HAQIQA (1)
+https://vavoo.to/play/633029850/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TEBA (1)
-https://vavoo.to/play/1768404304/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN SPORT (1)
+https://vavoo.to/play/732117417/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WWE (1)
-https://vavoo.to/play/2788051729/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN TV (1)
+https://vavoo.to/play/2869001400/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZHWANDOON TV AFG (1)
-https://vavoo.to/play/197875554/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AL MAMLAKA (1)
+https://vavoo.to/play/3013553456/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELECINCO ARG: RELEW (1)
-https://vavoo.to/play/1264623212/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN JOSAT (1)
+https://vavoo.to/play/2875680907/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZEE AFLAM (720P) [NOT 24/7] (1)
-https://vavoo.to/play/2446828805/index.m3u8
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TUNISNA (1)
+https://vavoo.to/play/4271911350/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AMMAN TV (1)
+https://vavoo.to/play/158996496/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AMN (1)
+https://vavoo.to/play/2064444791/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 3 (1)
+https://vavoo.to/play/2308952347/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN BAITY TV (1)
+https://vavoo.to/play/3980183377/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN KAIFA (1)
+https://vavoo.to/play/3745350960/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UNAM ARG: RANSMEDIA (1)
+https://vavoo.to/play/1967224760/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV MANÁ ARGENTINA (1)
+https://vavoo.to/play/1907104154/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVU UNIVERSIDAD NACIONAL DE LA PLATA (1)
+https://vavoo.to/play/3542002605/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HQ (1)
 https://vavoo.to/play/679604721/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (1)
 https://vavoo.to/play/1564627444/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 FHD (1)
-https://vavoo.to/play/372172112/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD (BACKUP) (1)
 https://vavoo.to/play/3873691290/index.m3u8
@@ -131,6 +191,9 @@ https://vavoo.to/play/1555669023/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 2M MAROC (1)
 https://vavoo.to/play/3723807880/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM SD (1)
+https://vavoo.to/play/1914867451/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 (BACKUP) (1)
 https://vavoo.to/play/1110589244/index.m3u8
@@ -143,9 +206,6 @@ https://vavoo.to/play/1617035157/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MBC 4 (1)
 https://vavoo.to/play/1442018003/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL JAZEERA ARABIC (1)
-https://vavoo.to/play/2663630046/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD LOCAL (1)
 https://vavoo.to/play/2052437989/index.m3u8
@@ -255,6 +315,9 @@ https://vavoo.to/play/2899050251/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MARVEL 2
 https://vavoo.to/play/1769370342/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM (1)
+https://vavoo.to/play/1350319136/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 7 HD (1)
 https://vavoo.to/play/1190060164/index.m3u8
 
@@ -297,11 +360,11 @@ https://vavoo.to/play/1963790389/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MBC DRAMA (1)
 https://vavoo.to/play/2711218384/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 HD LOCAL (1)
-https://vavoo.to/play/104108606/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL FAJR 1 HD (1)
 https://vavoo.to/play/3461079732/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 HD LOCAL (1)
+https://vavoo.to/play/104108606/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 10 HD (1)
 https://vavoo.to/play/2197007780/index.m3u8
@@ -414,6 +477,9 @@ https://vavoo.to/play/1185136257/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SAMIRA TV (1)
 https://vavoo.to/play/290768469/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DW ARABIC
+https://vavoo.to/play/814762680/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL ARABIYA NEWS FHD (1)
 https://vavoo.to/play/3860778287/index.m3u8
 
@@ -422,6 +488,9 @@ https://vavoo.to/play/2782009723/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AFGHANISTAN (1)
 https://vavoo.to/play/3474337505/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM 1MB (1)
+https://vavoo.to/play/908164763/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART AFLAM 2 (1)
 https://vavoo.to/play/4253644469/index.m3u8
@@ -555,17 +624,11 @@ https://vavoo.to/play/3125314702/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 6 HD LOCAL (1)
 https://vavoo.to/play/530062629/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", (ALGERIA) CNA TV (1)
-https://vavoo.to/play/907894234/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STORYCHANNEL TV
 https://vavoo.to/play/2056819505/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN FOX CRIME (1)
 https://vavoo.to/play/3953646530/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", (ALGERIA) EL BILAD TV (1)
-https://vavoo.to/play/1057827735/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DUBAI TV (1)
 https://vavoo.to/play/1486084694/index.m3u8
@@ -630,9 +693,6 @@ https://vavoo.to/play/615230777/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS XTRA 2 HD (1)
 https://vavoo.to/play/2773608674/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13MAX TELEVISIÓN (1)
-https://vavoo.to/play/3991265348/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ROTANA MUSIC (1)
 https://vavoo.to/play/1611757702/index.m3u8
 
@@ -693,9 +753,6 @@ https://vavoo.to/play/2798366712/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ART AFLEM 2 (1)
 https://vavoo.to/play/2042853455/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 1 (1)
-https://vavoo.to/play/4122540197/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALFA CINEMA 2 (1)
 https://vavoo.to/play/4218092998/index.m3u8
 
@@ -732,9 +789,6 @@ https://vavoo.to/play/1861699430/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL NAHAR (1)
 https://vavoo.to/play/3523698763/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ♥QU♥ MOROCCO ♥PA♥ (1)
-https://vavoo.to/play/1973649955/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL JAZEERA MUBASHER
 https://vavoo.to/play/2121445979/index.m3u8
 
@@ -758,9 +812,6 @@ https://vavoo.to/play/554272998/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN DRAMA HD (1)
 https://vavoo.to/play/743458340/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 1 HD (1)
-https://vavoo.to/play/3729559690/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN FOX HD (1)
 https://vavoo.to/play/1857296786/index.m3u8
@@ -786,6 +837,9 @@ https://vavoo.to/play/4063953608/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL ALAM TV (1)
 https://vavoo.to/play/1120075364/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN FOX MOVIES HD (1)
+https://vavoo.to/play/3100267026/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 4 (BACKUP) (1)
 https://vavoo.to/play/3331412305/index.m3u8
 
@@ -798,9 +852,6 @@ https://vavoo.to/play/416153965/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS FHD 3 (1)
 https://vavoo.to/play/3106427011/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] AL KASS SPORTS 3 (1)
-https://vavoo.to/play/1427354463/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL KASS SPORTS 2 (1)
 https://vavoo.to/play/3351476842/index.m3u8
 
@@ -810,14 +861,14 @@ https://vavoo.to/play/1917814937/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LBC SAT (1)
 https://vavoo.to/play/1213888585/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 2 (1)
+https://vavoo.to/play/2987950709/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN MOVIES 1 HD (PREMIERE) (1)
 https://vavoo.to/play/3908769843/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SAUDIA 1 (1)
 https://vavoo.to/play/666441065/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN FOX MOVIES HD (1)
-https://vavoo.to/play/3100267026/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 8 HD (1)
 https://vavoo.to/play/2681139752/index.m3u8
@@ -855,6 +906,9 @@ https://vavoo.to/play/1752406767/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN PREMUIM2 HD (1)
 https://vavoo.to/play/3873504397/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS (1)
+https://vavoo.to/play/3937742597/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN JUNIOR HD (1)
 https://vavoo.to/play/1765016759/index.m3u8
 
@@ -870,6 +924,9 @@ https://vavoo.to/play/3153189536/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PALESTINE TODAY (480P) [GEO-BLOCKED] (1)
 https://vavoo.to/play/225662052/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELE MAROC (1)
+https://vavoo.to/play/2053234059/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT
 https://vavoo.to/play/1690986234/index.m3u8
 
@@ -884,9 +941,6 @@ https://vavoo.to/play/3742208214/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS PREMIUM 2 FHD (1)
 https://vavoo.to/play/875054311/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS (1)
-https://vavoo.to/play/3937742597/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS FRENCH HD2 (1)
 https://vavoo.to/play/696318282/index.m3u8
@@ -948,14 +1002,14 @@ https://vavoo.to/play/1618753159/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OSN YA HALA CINEMA HD (1)
 https://vavoo.to/play/410771802/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 2M MONDE (360P) (1)
+https://vavoo.to/play/1898402275/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5 FHD (1)
 https://vavoo.to/play/1271051356/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS AFC 1 ULTRA 4K (1)
 https://vavoo.to/play/3380357132/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 2M MONDE (360P) (1)
-https://vavoo.to/play/1898402275/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BE SPORTS 3 HD (1)
 https://vavoo.to/play/1442111562/index.m3u8
@@ -980,9 +1034,6 @@ https://vavoo.to/play/633673383/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OSN WWE TV (1)
 https://vavoo.to/play/2573628596/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AGHANI (1)
-https://vavoo.to/play/3937346107/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC
 https://vavoo.to/play/91810991/index.m3u8
@@ -1053,12 +1104,6 @@ https://vavoo.to/play/1096885532/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN 7 STARS (1)
 https://vavoo.to/play/1799382362/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 2 HD (1)
-https://vavoo.to/play/1354995561/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 2 (1)
-https://vavoo.to/play/3036674219/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 5ARG: V CORRIENTES (1)
 https://vavoo.to/play/286026097/index.m3u8
 
@@ -1076,6 +1121,12 @@ https://vavoo.to/play/392730275/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN GOURMET HD (1)
 https://vavoo.to/play/521962690/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIUM 1080 LOCAL (1)
+https://vavoo.to/play/3487656179/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5 HD LOCAL (1)
+https://vavoo.to/play/1677277438/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS NBA HD (1)
 https://vavoo.to/play/1940803043/index.m3u8
@@ -1107,9 +1158,6 @@ https://vavoo.to/play/718684517/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALGERIA A3 HD (1)
 https://vavoo.to/play/1166889146/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5 HD LOCAL (1)
-https://vavoo.to/play/1677277438/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS AFC 2 FHD (1)
 https://vavoo.to/play/1936942728/index.m3u8
 
@@ -1127,9 +1175,6 @@ https://vavoo.to/play/4277590408/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5 (BACKUP) (1)
 https://vavoo.to/play/1537126439/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV SOLIDARIA (1)
-https://vavoo.to/play/3543025921/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 6 (1)
 https://vavoo.to/play/1201153205/index.m3u8
@@ -1161,12 +1206,6 @@ https://vavoo.to/play/1579078748/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KSA SPORTS 2 (1)
 https://vavoo.to/play/3793198464/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [KSA] KSA SSC 4 (1)
-https://vavoo.to/play/1029208021/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 2 (1)
-https://vavoo.to/play/281382692/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AFLAMTV.7.MAROC (1)
 https://vavoo.to/play/2921580251/index.m3u8
 
@@ -1178,12 +1217,6 @@ https://vavoo.to/play/3942383385/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SAUDI QURAN HD (1)
 https://vavoo.to/play/1504274633/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] ABU DHABI SPORTS 3 HD (1)
-https://vavoo.to/play/2624165879/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 4 (1)
-https://vavoo.to/play/2676324996/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC ARABIC
 https://vavoo.to/play/2118509788/index.m3u8
@@ -1289,9 +1322,6 @@ https://vavoo.to/play/3373805869/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ROTANA AFLAM (1)
 https://vavoo.to/play/3068423537/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 1 (1)
-https://vavoo.to/play/4083122811/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL HIWAR TV
 https://vavoo.to/play/272802366/index.m3u8
@@ -1401,12 +1431,6 @@ https://vavoo.to/play/3208957414/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS FHD 6 (1)
 https://vavoo.to/play/1908989939/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN A1 (1)
-https://vavoo.to/play/3540534477/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] SAUDI SPORT KSA 3 (1)
-https://vavoo.to/play/765830804/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOOMERANG
 https://vavoo.to/play/2693339522/index.m3u8
 
@@ -1512,15 +1536,6 @@ https://vavoo.to/play/2766173142/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PALESTINE (1)
 https://vavoo.to/play/3475995456/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AL HAQIQA (1)
-https://vavoo.to/play/633029850/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN SPORT (1)
-https://vavoo.to/play/732117417/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN TV (1)
-https://vavoo.to/play/2869001400/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MY CINEMA 3
 https://vavoo.to/play/156816839/index.m3u8
 
@@ -1568,9 +1583,6 @@ https://vavoo.to/play/757840255/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPACE TOON (1)
 https://vavoo.to/play/2428372504/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AL MAMLAKA (1)
-https://vavoo.to/play/3013553456/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SHAHID
 https://vavoo.to/play/3531778394/index.m3u8
@@ -1713,9 +1725,6 @@ https://vavoo.to/play/1722072372/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZAYTOONA (1)
 https://vavoo.to/play/1368420664/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN JOSAT (1)
-https://vavoo.to/play/2875680907/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL HANEEN
 https://vavoo.to/play/2864238031/index.m3u8
 
@@ -1802,18 +1811,6 @@ https://vavoo.to/play/3464761478/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SERIES (1)
 https://vavoo.to/play/1175393739/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TUNISNA (1)
-https://vavoo.to/play/4271911350/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AMMAN TV (1)
-https://vavoo.to/play/158996496/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN AMN (1)
-https://vavoo.to/play/2064444791/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SPO] EMIRATES DUBAI RACING 3 (1)
-https://vavoo.to/play/2308952347/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CIMA
 https://vavoo.to/play/3770156444/index.m3u8
@@ -1919,9 +1916,6 @@ https://vavoo.to/play/2892762033/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR CHANNEL (1)
 https://vavoo.to/play/3497164333/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN BAITY TV (1)
-https://vavoo.to/play/3980183377/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALMUSTAKILLAH TV
 https://vavoo.to/play/1961590579/index.m3u8
@@ -2145,9 +2139,6 @@ https://vavoo.to/play/1957142201/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WATAN TV (1)
 https://vavoo.to/play/491760293/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", [SHM*] JORDAN KAIFA (1)
-https://vavoo.to/play/3745350960/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALARABY TV 2
 https://vavoo.to/play/2604842501/index.m3u8
 
@@ -2312,6 +2303,12 @@ https://vavoo.to/play/644447995/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR MOVIES.HD (1)
 https://vavoo.to/play/3429155458/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TCM (1)
+https://vavoo.to/play/1072782016/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TEBA (1)
+https://vavoo.to/play/1768404304/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YEMEN TODAY (1)
 https://vavoo.to/play/54503713/index.m3u8
@@ -2522,6 +2519,9 @@ https://vavoo.to/play/2779844155/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VOLVER (1)
 https://vavoo.to/play/3767675018/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WWE (1)
+https://vavoo.to/play/2788051729/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL TAREK TV
 https://vavoo.to/play/2074235726/index.m3u8
@@ -2837,9 +2837,6 @@ https://vavoo.to/play/2357644493/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SOMOS LA PAMPA (1)
 https://vavoo.to/play/913512772/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UNAM ARG: RANSMEDIA (1)
-https://vavoo.to/play/1967224760/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WATAR TV (720P) [NOT 24/7] (1)
 https://vavoo.to/play/1147284299/index.m3u8
@@ -3231,6 +3228,9 @@ https://vavoo.to/play/1073324453/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SANTA MARIA TV (1)
 https://vavoo.to/play/2308922641/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY NEWS ARABIA (720P) [NOT 24/7] (1)
+https://vavoo.to/play/2527743276/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY NEWS ARABIA (PORTRAIT) (1280P) [NOT 24/7] (1)
 https://vavoo.to/play/384797827/index.m3u8
 
@@ -3275,6 +3275,9 @@ https://vavoo.to/play/1805447649/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YEMEN SHABAB (1)
 https://vavoo.to/play/2067838669/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZHWANDOON TV AFG (1)
+https://vavoo.to/play/197875554/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AL HORREYA TV
 https://vavoo.to/play/2085133910/index.m3u8
@@ -4131,9 +4134,6 @@ https://vavoo.to/play/3166043177/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SICARDI ARG: V (1)
 https://vavoo.to/play/547080573/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY NEWS ARABIA (720P) [NOT 24/7] (1)
-https://vavoo.to/play/2527743276/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SMITHSONIAN CHANNEL (1)
 https://vavoo.to/play/313131428/index.m3u8
 
@@ -4233,6 +4233,9 @@ https://vavoo.to/play/3216232854/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TAYBA TV (FHD) (1)
 https://vavoo.to/play/1894212186/index.m3u8
 
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELECINCO ARG: RELEW (1)
+https://vavoo.to/play/1264623212/index.m3u8
+
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELECREATIVA (1)
 https://vavoo.to/play/1054382988/index.m3u8
 
@@ -4272,12 +4275,6 @@ https://vavoo.to/play/4040043108/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRT ARABI (FHD) [NOT 24/7] (1)
 https://vavoo.to/play/537118300/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV MANÁ ARGENTINA (1)
-https://vavoo.to/play/1907104154/index.m3u8
-
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVU UNIVERSIDAD NACIONAL DE LA PLATA (1)
-https://vavoo.to/play/3542002605/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UNITEVE (1)
 https://vavoo.to/play/2108969624/index.m3u8
 
@@ -4304,6 +4301,9 @@ https://vavoo.to/play/485954907/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", YAHALA BL ARABI (1)
 https://vavoo.to/play/1033333554/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZEE AFLAM (720P) [NOT 24/7] (1)
+https://vavoo.to/play/2446828805/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZEE ALWAN (720P) [NOT 24/7] (1)
 https://vavoo.to/play/3869309025/index.m3u8
