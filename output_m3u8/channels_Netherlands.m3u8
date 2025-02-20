@@ -1,28 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT
-https://vavoo.to/play/2013686690/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT RACING
-https://vavoo.to/play/1777530589/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT VOETBAL
-https://vavoo.to/play/23236113/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT SELECT
 https://vavoo.to/play/1585597115/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 1
-https://vavoo.to/play/1397846137/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT
+https://vavoo.to/play/2013686690/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 2
-https://vavoo.to/play/351341225/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT VOETBAL
+https://vavoo.to/play/3586469911/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT EXTRA 2
+https://vavoo.to/play/4006989621/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 ACTION
+https://vavoo.to/play/887233041/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 3
 https://vavoo.to/play/697377561/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 2
+https://vavoo.to/play/351341225/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 4
 https://vavoo.to/play/2612133641/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN 1
+https://vavoo.to/play/1397846137/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT RACING
+https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO DOCU
 https://vavoo.to/play/3864809811/index.m3u8
@@ -30,17 +36,35 @@ https://vavoo.to/play/3864809811/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SBS 6
 https://vavoo.to/play/3205986201/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT GOLF
-https://vavoo.to/play/1167725757/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 4
+https://vavoo.to/play/4226462509/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT EXTRA 2
-https://vavoo.to/play/4006989621/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT EXTRA
+https://vavoo.to/play/319163860/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX SPORTS 1
-https://vavoo.to/play/954079807/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 1
+https://vavoo.to/play/3461926467/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E! ENTERTAINMENT
-https://vavoo.to/play/3680791301/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
+https://vavoo.to/play/622061122/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
+https://vavoo.to/play/3127261334/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
+https://vavoo.to/play/4053879/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 2
+https://vavoo.to/play/2348606351/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABY TV
+https://vavoo.to/play/3723054155/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 1 EXTRA
+https://vavoo.to/play/3002543848/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO EXTRA 2
+https://vavoo.to/play/1508353646/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT DOCU
 https://vavoo.to/play/486755545/index.m3u8
@@ -48,44 +72,20 @@ https://vavoo.to/play/486755545/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT TENNIS
 https://vavoo.to/play/4022861107/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN
-https://vavoo.to/play/1484494458/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
-https://vavoo.to/play/74097556/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 1
-https://vavoo.to/play/3461926467/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 7
-https://vavoo.to/play/3159017981/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 100% NL TV
-https://vavoo.to/play/60276472/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FAMILY 7
-https://vavoo.to/play/3637574983/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EX SPORT
-https://vavoo.to/play/330363772/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2
-https://vavoo.to/play/3837426329/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXTREME SPORTS CHANNEL
-https://vavoo.to/play/3322172799/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 ACTION
-https://vavoo.to/play/887233041/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV 80S
 https://vavoo.to/play/3255925618/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SALTO BRASA MUSIC
 https://vavoo.to/play/4110941162/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ESPN
+https://vavoo.to/play/1484494458/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 DRAMA
 https://vavoo.to/play/2329363703/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT GOLF
+https://vavoo.to/play/1167725757/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 PREMIERE
 https://vavoo.to/play/2143191607/index.m3u8
@@ -96,11 +96,14 @@ https://vavoo.to/play/2539137621/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 5
 https://vavoo.to/play/3330972317/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 4
-https://vavoo.to/play/4226462509/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
+https://vavoo.to/play/74097556/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZIGGO SPORT EXTRA
-https://vavoo.to/play/319163860/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 7
+https://vavoo.to/play/3159017981/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 FAMILY
+https://vavoo.to/play/3479714514/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC FIRST
 https://vavoo.to/play/2288615636/index.m3u8
@@ -123,8 +126,8 @@ https://vavoo.to/play/3430280912/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET
 https://vavoo.to/play/3731631078/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM 1 FAMILY
-https://vavoo.to/play/3479714514/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO NIEUWS
+https://vavoo.to/play/2880122002/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VERONICA DISNEY XD
 https://vavoo.to/play/3607349185/index.m3u8
@@ -132,26 +135,26 @@ https://vavoo.to/play/3607349185/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO POLITIEK
 https://vavoo.to/play/4288638811/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO NIEUWS
-https://vavoo.to/play/2880122002/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AT 5
 https://vavoo.to/play/2607705349/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DJAZZ TV
 https://vavoo.to/play/2897120181/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 24 KITCHEN
-https://vavoo.to/play/1552571249/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK
 https://vavoo.to/play/2959444159/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 100% NL TV
+https://vavoo.to/play/60276472/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV
 https://vavoo.to/play/834237423/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 2
-https://vavoo.to/play/2314777747/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FAMILY 7
+https://vavoo.to/play/3637574983/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX SPORTS 1
+https://vavoo.to/play/3636633475/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV HITS
 https://vavoo.to/play/2234006819/index.m3u8
@@ -186,14 +189,14 @@ https://vavoo.to/play/2222600950/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E!
 https://vavoo.to/play/486015393/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
-https://vavoo.to/play/3127261334/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EX SPORT
+https://vavoo.to/play/330363772/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2
+https://vavoo.to/play/3837426329/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL
 https://vavoo.to/play/2323583211/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL
-https://vavoo.to/play/4053879/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", XITE
 https://vavoo.to/play/2549224723/index.m3u8
@@ -206,6 +209,9 @@ https://vavoo.to/play/270668019/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CRIME &AMP; INVESTIGATION
 https://vavoo.to/play/719650592/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E! ENTERTAINMENT
+https://vavoo.to/play/3680791301/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICK JR
 https://vavoo.to/play/2470622316/index.m3u8
@@ -237,6 +243,9 @@ https://vavoo.to/play/1268929440/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOONITO
 https://vavoo.to/play/3955498624/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EXTREME SPORTS CHANNEL
+https://vavoo.to/play/3322172799/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY ID
 https://vavoo.to/play/793835474/index.m3u8
 
@@ -248,9 +257,6 @@ https://vavoo.to/play/1068119176/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV 24 MUSIC
 https://vavoo.to/play/3006800428/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABY TV
-https://vavoo.to/play/3723054155/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 2
 https://vavoo.to/play/3918702299/index.m3u8
@@ -270,11 +276,11 @@ https://vavoo.to/play/706021529/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OPEN ROTTERDAM
 https://vavoo.to/play/837394128/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPIKE
-https://vavoo.to/play/2657544137/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX CHANNEL
 https://vavoo.to/play/579287411/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPIKE
+https://vavoo.to/play/2657544137/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO ZAPPELIN EXTRA/HUMOR
 https://vavoo.to/play/2982961277/index.m3u8
@@ -306,11 +312,11 @@ https://vavoo.to/play/722815209/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", JIN TV
 https://vavoo.to/play/2658603102/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO 1 EXTRA
-https://vavoo.to/play/3002543848/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CBS REALITY
 https://vavoo.to/play/1019029636/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY XD
+https://vavoo.to/play/203464866/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY F1
 https://vavoo.to/play/3687874505/index.m3u8
@@ -323,9 +329,6 @@ https://vavoo.to/play/3504870445/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INVESTIGATION DISCOVERY
 https://vavoo.to/play/4256105617/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY XD
-https://vavoo.to/play/203464866/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HORSE & COUNTRY
 https://vavoo.to/play/2063234794/index.m3u8
@@ -345,17 +348,17 @@ https://vavoo.to/play/934977481/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEER TV
 https://vavoo.to/play/2129750376/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 7
-https://vavoo.to/play/2111855969/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL CRIME
 https://vavoo.to/play/225014229/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 538
-https://vavoo.to/play/387832715/index.m3u8
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV 7
+https://vavoo.to/play/2111855969/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 3
 https://vavoo.to/play/3572666219/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 538
+https://vavoo.to/play/387832715/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ORTS
 https://vavoo.to/play/1814925347/index.m3u8
@@ -393,11 +396,11 @@ https://vavoo.to/play/2744749097/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 6
 https://vavoo.to/play/470941723/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ONS
-https://vavoo.to/play/3431713867/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZUIDWEST TV
 https://vavoo.to/play/3488575634/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ONS
+https://vavoo.to/play/3431713867/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AAVISIE
 https://vavoo.to/play/1053553559/index.m3u8
@@ -405,14 +408,14 @@ https://vavoo.to/play/1053553559/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INULTRA
 https://vavoo.to/play/4018658498/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 10
+https://vavoo.to/play/2038080316/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OMROEP BRABANT
 https://vavoo.to/play/1951811712/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OMROEP ZEELAND
 https://vavoo.to/play/2375492387/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 10
-https://vavoo.to/play/2038080316/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SAMEN1 TV
 https://vavoo.to/play/10016112/index.m3u8
@@ -420,11 +423,11 @@ https://vavoo.to/play/10016112/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRAVELXP
 https://vavoo.to/play/2154351987/index.m3u8
 
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NPO EXTRA 2
-https://vavoo.to/play/1508353646/index.m3u8
-
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OMROEP HULST TV
 https://vavoo.to/play/3576709928/index.m3u8
+
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV CONNECT TV
+https://vavoo.to/play/1844152054/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV ARNHEM
 https://vavoo.to/play/3662572817/index.m3u8
@@ -440,9 +443,6 @@ https://vavoo.to/play/1291072245/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", QMUSIC
 https://vavoo.to/play/4157396273/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV CONNECT TV
-https://vavoo.to/play/1844152054/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV LIVE
 https://vavoo.to/play/2735403248/index.m3u8
@@ -468,6 +468,9 @@ https://vavoo.to/play/3632482166/index.m3u8
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV NOORD
 https://vavoo.to/play/2371823015/index.m3u8
 
+#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 4
+https://vavoo.to/play/1725059963/index.m3u8
+
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ONS TV
 https://vavoo.to/play/4149973319/index.m3u8
 
@@ -482,9 +485,6 @@ https://vavoo.to/play/2566467401/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INFAST
 https://vavoo.to/play/2294348200/index.m3u8
-
-#EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIAPLAY EVENT 4
-https://vavoo.to/play/1725059963/index.m3u8
 
 #EXTINF:-1 group-title="Netherlands" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTV MAASTRICHT
 https://vavoo.to/play/528922302/index.m3u8
