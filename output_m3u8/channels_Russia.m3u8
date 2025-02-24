@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 HD (1)
-https://vavoo.to/play/3752798550/index.m3u8
-
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +4 (1)
-https://vavoo.to/play/2820519021/index.m3u8
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +2 (1)
+https://vavoo.to/play/660423117/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HTB
 https://vavoo.to/play/811110208/index.m3u8
-
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +2 (1)
-https://vavoo.to/play/660423117/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", НТВ СЕРИАЛ
 https://vavoo.to/play/2543536178/index.m3u8
@@ -48,6 +42,9 @@ https://vavoo.to/play/3740132435/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICK JR. (1)
 https://vavoo.to/play/1227191489/index.m3u8
 
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
+https://vavoo.to/play/4026890856/index.m3u8
+
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RUSSIA 24
 https://vavoo.to/play/762353583/index.m3u8
 
@@ -63,11 +60,17 @@ https://vavoo.to/play/1704007227/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BRIDGE TV DELUXE (1)
 https://vavoo.to/play/3666141283/index.m3u8
 
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 HD (1)
+https://vavoo.to/play/3752798550/index.m3u8
+
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTR PLANETA
 https://vavoo.to/play/3589615170/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", .BLACK (1)
 https://vavoo.to/play/1140356951/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +4 (1)
+https://vavoo.to/play/2820519021/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT
 https://vavoo.to/play/3721083429/index.m3u8
@@ -155,9 +158,6 @@ https://vavoo.to/play/289420819/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ДОКТОР (1)
 https://vavoo.to/play/913953824/index.m3u8
-
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
-https://vavoo.to/play/4026890856/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", КИНОСЕМЬЯ (1)
 https://vavoo.to/play/7825875/index.m3u8
@@ -531,9 +531,6 @@ https://vavoo.to/play/2873161404/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NASHE KINO
 https://vavoo.to/play/3863276446/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BRIDGE TV РУССКИЙ ХИТ (1)
-https://vavoo.to/play/2022519012/index.m3u8
-
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ZEE TV (1)
 https://vavoo.to/play/1813381654/index.m3u8
 
@@ -566,6 +563,9 @@ https://vavoo.to/play/1925203113/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 1000 ACTION
 https://vavoo.to/play/3080794071/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BRIDGE TV РУССКИЙ ХИТ (1)
+https://vavoo.to/play/2022519012/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MEGAHIT
 https://vavoo.to/play/342498182/index.m3u8
@@ -654,9 +654,6 @@ https://vavoo.to/play/4085840617/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HOLLYWOOD (1)
 https://vavoo.to/play/76790896/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", МУЛЬТИЛАНДИЯ (1)
-https://vavoo.to/play/2642703898/index.m3u8
-
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RUSSIA-K
 https://vavoo.to/play/3547554077/index.m3u8
 
@@ -701,6 +698,9 @@ https://vavoo.to/play/2241927675/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV 1000 PREMIUM
 https://vavoo.to/play/2109325135/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", МУЛЬТИЛАНДИЯ (1)
+https://vavoo.to/play/2642703898/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BRIDGE TV РУССКNN ХИТ
 https://vavoo.to/play/1738415529/index.m3u8
@@ -915,9 +915,6 @@ https://vavoo.to/play/645081056/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ТНТ MUSIC (1)
 https://vavoo.to/play/3783797318/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROPA PLUS
-https://vavoo.to/play/1584186306/index.m3u8
-
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PRO100 TV
 https://vavoo.to/play/1240425920/index.m3u8
 
@@ -971,6 +968,9 @@ https://vavoo.to/play/1460781813/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", НТВ СЕРИАЛ (1)
 https://vavoo.to/play/3366173959/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROPA PLUS
+https://vavoo.to/play/1584186306/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SARAFAN
 https://vavoo.to/play/2439652636/index.m3u8
