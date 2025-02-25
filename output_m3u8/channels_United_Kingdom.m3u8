@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHANNEL 4
-https://vavoo.to/play/2042114524/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRAVEL CHANNEL
 https://vavoo.to/play/3559719633/index.m3u8
 
@@ -12,23 +9,17 @@ https://vavoo.to/play/1258853748/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", COMEDY CENTRAL
 https://vavoo.to/play/612786605/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS 2
-https://vavoo.to/play/2673503380/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABY TV UK (1)
 https://vavoo.to/play/3305807951/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA PREMIERE
-https://vavoo.to/play/1728928979/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ITV
 https://vavoo.to/play/1573396436/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIRGIN MEDIA THREE
-https://vavoo.to/play/4028176095/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 4SEVEN (1)
 https://vavoo.to/play/3269335957/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHANNEL 4
+https://vavoo.to/play/2042114524/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GREAT! MOVIES+1 (1)
 https://vavoo.to/play/301835412/index.m3u8
@@ -36,17 +27,11 @@ https://vavoo.to/play/301835412/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY ATLANTIC
 https://vavoo.to/play/197860327/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA THRILLER
-https://vavoo.to/play/2712076920/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS CRICKET HD (1)
 https://vavoo.to/play/1301186838/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NAT GEO
 https://vavoo.to/play/637829164/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1 HD (1)
-https://vavoo.to/play/1430033363/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS PREMIER LEAGUE [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1051570868/index.m3u8
@@ -66,6 +51,12 @@ https://vavoo.to/play/537712899/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS NEWS
 https://vavoo.to/play/3598972368/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT SPORTS 2
+https://vavoo.to/play/2673503380/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA PREMIERE
+https://vavoo.to/play/1728928979/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS GOLF (MATCH TIME)
 https://vavoo.to/play/3229984982/index.m3u8
 
@@ -83,6 +74,9 @@ https://vavoo.to/play/2904184817/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DRAMA (1)
 https://vavoo.to/play/266277301/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIRGIN MEDIA THREE
+https://vavoo.to/play/4028176095/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DMAX (1)
 https://vavoo.to/play/3975279875/index.m3u8
@@ -144,6 +138,9 @@ https://vavoo.to/play/2352556888/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA FAMILY
 https://vavoo.to/play/2380134484/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET
+https://vavoo.to/play/4087117235/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY NEWS (BACKUP)
 https://vavoo.to/play/1195399897/index.m3u8
 
@@ -155,6 +152,9 @@ https://vavoo.to/play/3459381373/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS MAIN EVENT (1)
 https://vavoo.to/play/1079620770/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA THRILLER
+https://vavoo.to/play/2712076920/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", UFC FIGHT NIGHT PASS
 https://vavoo.to/play/2490617565/index.m3u8
@@ -243,6 +243,9 @@ https://vavoo.to/play/1985468567/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC TWO ENG
 https://vavoo.to/play/3704386431/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA GREATS
+https://vavoo.to/play/2993496155/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA ACTION (1)
 https://vavoo.to/play/1618904678/index.m3u8
 
@@ -252,14 +255,29 @@ https://vavoo.to/play/2800939290/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BBC PARLIAMENT
 https://vavoo.to/play/3876363641/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1 (BACKUP) (1)
+https://vavoo.to/play/2268379873/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1
 https://vavoo.to/play/171223833/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV BASE
 https://vavoo.to/play/2439157265/index.m3u8
 
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FIVE
+https://vavoo.to/play/2569489873/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHALLENGE
+https://vavoo.to/play/359083731/index.m3u8
+
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1 (1)
 https://vavoo.to/play/384026718/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1 HD (1)
+https://vavoo.to/play/1430033363/index.m3u8
+
+#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COMEDY (1)
+https://vavoo.to/play/2666290794/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA HITS (1)
 https://vavoo.to/play/2518336302/index.m3u8
@@ -278,9 +296,6 @@ https://vavoo.to/play/55000388/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV HITS
 https://vavoo.to/play/3253245476/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET
-https://vavoo.to/play/4087117235/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1689132265/index.m3u8
@@ -321,9 +336,6 @@ https://vavoo.to/play/431806437/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOOMERANG
 https://vavoo.to/play/1887937225/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA GREATS
-https://vavoo.to/play/2993496155/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 (1)
 https://vavoo.to/play/2290804722/index.m3u8
 
@@ -350,9 +362,6 @@ https://vavoo.to/play/3635211961/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS ARENA HD (1)
 https://vavoo.to/play/1114173941/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS F1 (BACKUP) (1)
-https://vavoo.to/play/2268379873/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT GOLF (1)
 https://vavoo.to/play/1870352128/index.m3u8
@@ -444,9 +453,6 @@ https://vavoo.to/play/3352660234/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS GOLF HD (1)
 https://vavoo.to/play/2920129302/index.m3u8
 
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FIVE
-https://vavoo.to/play/2569489873/index.m3u8
-
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BT SPORT 3 (1)
 https://vavoo.to/play/2618854175/index.m3u8
 
@@ -461,9 +467,6 @@ https://vavoo.to/play/3241634213/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORTS MAIN EVENT HD (1)
 https://vavoo.to/play/1104967001/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHALLENGE
-https://vavoo.to/play/359083731/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 HD (1)
 https://vavoo.to/play/2737624792/index.m3u8
@@ -506,9 +509,6 @@ https://vavoo.to/play/576177226/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY SPORT RACING (1)
 https://vavoo.to/play/3313736027/index.m3u8
-
-#EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SKY CINEMA COMEDY (1)
-https://vavoo.to/play/2666290794/index.m3u8
 
 #EXTINF:-1 group-title="United Kingdom" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MORE4 (1)
 https://vavoo.to/play/3482708117/index.m3u8

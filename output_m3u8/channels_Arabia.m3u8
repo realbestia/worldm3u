@@ -27,9 +27,6 @@ https://vavoo.to/play/1190060164/index.m3u8
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 5 HEVC (1)
 https://vavoo.to/play/1118788924/index.m3u8
 
-#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS NEWS HD (1)
-https://vavoo.to/play/1097394082/index.m3u8
-
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS ENGLISH HD2 (1)
 https://vavoo.to/play/1513775440/index.m3u8
 
@@ -239,6 +236,9 @@ https://vavoo.to/play/3286762467/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 PREMIEM (1)
 https://vavoo.to/play/1403666107/index.m3u8
+
+#EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS NEWS HD (1)
+https://vavoo.to/play/1097394082/index.m3u8
 
 #EXTINF:-1 group-title="Arabia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SAUDIA QURAN (1)
 https://vavoo.to/play/804435589/index.m3u8

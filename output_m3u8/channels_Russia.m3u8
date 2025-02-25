@@ -1,10 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTR PLANETA
+https://vavoo.to/play/3589615170/index.m3u8
+
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ЖИВИ! (1)
 https://vavoo.to/play/2982576693/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTR PLANETA
-https://vavoo.to/play/3589615170/index.m3u8
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RUSSIA 1
+https://vavoo.to/play/3700394669/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", .BLACK (1)
 https://vavoo.to/play/1140356951/index.m3u8
@@ -56,6 +59,9 @@ https://vavoo.to/play/4026890856/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORY 2
 https://vavoo.to/play/1902534877/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ПЕРВЫЙ КАНАЛ HD (1)
+https://vavoo.to/play/161958207/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", .SCI‑FI (1)
 https://vavoo.to/play/885844520/index.m3u8
@@ -201,9 +207,6 @@ https://vavoo.to/play/3879975969/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MUZHSKOE KINO
 https://vavoo.to/play/3035071846/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", МУЖСКОЕ КИНО
-https://vavoo.to/play/1450089233/index.m3u8
-
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +6 (1)
 https://vavoo.to/play/3537757965/index.m3u8
 
@@ -258,9 +261,6 @@ https://vavoo.to/play/4151010736/index.m3u8
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 HD (1)
 https://vavoo.to/play/3752798550/index.m3u8
 
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RUSSIA 1
-https://vavoo.to/play/3700394669/index.m3u8
-
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", РОССИЯ 1 +2 (1)
 https://vavoo.to/play/660423117/index.m3u8
 
@@ -275,9 +275,6 @@ https://vavoo.to/play/3337128760/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RUSSIA 24
 https://vavoo.to/play/762353583/index.m3u8
-
-#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ПЕРВЫЙ КАНАЛ HD (1)
-https://vavoo.to/play/161958207/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", МАТЧ! БОЕЦ (1)
 https://vavoo.to/play/2640693195/index.m3u8
@@ -305,6 +302,9 @@ https://vavoo.to/play/4100703562/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", НТВ +2 (1)
 https://vavoo.to/play/1625653914/index.m3u8
+
+#EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", МУЖСКОЕ КИНО
+https://vavoo.to/play/1450089233/index.m3u8
 
 #EXTINF:-1 group-title="Russia" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BRIDGE TV DELUXE (1)
 https://vavoo.to/play/3666141283/index.m3u8

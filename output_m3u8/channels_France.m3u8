@@ -1,28 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL
-https://vavoo.to/play/3404543565/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACTION (1)
-https://vavoo.to/play/3400101484/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 6TER FHD (1)
+https://vavoo.to/play/4239659507/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+
 https://vavoo.to/play/6981957/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13 EME RUE HD
-https://vavoo.to/play/4070446369/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 6TER FHD (1)
-https://vavoo.to/play/4239659507/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL
+https://vavoo.to/play/3404543565/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ PREMIER FHD (1)
 https://vavoo.to/play/3777895950/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLASSIC FHD
-https://vavoo.to/play/581219766/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 3
+https://vavoo.to/play/3803005781/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C STAR FHD
+https://vavoo.to/play/3480426017/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NRJ 12 (1)
+https://vavoo.to/play/4195100803/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TF1 FHD (1)
 https://vavoo.to/play/1334669376/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 2
+https://vavoo.to/play/876169338/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13 EME RUE HD
+https://vavoo.to/play/4070446369/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LCI (1)
 https://vavoo.to/play/3143227243/index.m3u8
@@ -30,11 +36,20 @@ https://vavoo.to/play/3143227243/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAUX
 https://vavoo.to/play/2474469311/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACTION (1)
+https://vavoo.to/play/3400101484/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INVESTIGATION DISCOVERY
+https://vavoo.to/play/2863072722/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACTION
 https://vavoo.to/play/1316428074/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ROUGE TV
 https://vavoo.to/play/3834411184/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ CINEMA
+https://vavoo.to/play/3980730104/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 3
 https://vavoo.to/play/3533073689/index.m3u8
@@ -48,6 +63,9 @@ https://vavoo.to/play/3781018265/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C8 HD
 https://vavoo.to/play/4098717505/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE CLUB (1)
+https://vavoo.to/play/2756225323/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SYFY
 https://vavoo.to/play/3032825500/index.m3u8
 
@@ -57,14 +75,14 @@ https://vavoo.to/play/183277419/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARTE FHD
 https://vavoo.to/play/621108426/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6
+https://vavoo.to/play/2274827227/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 6TER FHD
 https://vavoo.to/play/2645506972/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 3
-https://vavoo.to/play/3803005781/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ ACTION HD (1)
-https://vavoo.to/play/1152274993/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ FRISSON (BACKUP)
+https://vavoo.to/play/1649216218/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 6TER
 https://vavoo.to/play/3160257084/index.m3u8
@@ -78,23 +96,17 @@ https://vavoo.to/play/2800628364/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C NEWS
 https://vavoo.to/play/1916985380/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ CINEMA
-https://vavoo.to/play/781538197/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OCS CHOC
 https://vavoo.to/play/768964403/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", USHUAIA
-https://vavoo.to/play/4274246496/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE PREMIER HD (1)
-https://vavoo.to/play/4249124042/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE (1)
 https://vavoo.to/play/2770867098/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C STAR FHD
-https://vavoo.to/play/3480426017/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINA+ PREMIER (1)
+https://vavoo.to/play/2149635654/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 1 HD
+https://vavoo.to/play/278866624/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE
 https://vavoo.to/play/2701145683/index.m3u8
@@ -102,14 +114,14 @@ https://vavoo.to/play/2701145683/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOONAMI (1)
 https://vavoo.to/play/593664712/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NRJ 12 (1)
-https://vavoo.to/play/4195100803/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLASSIC FHD
+https://vavoo.to/play/581219766/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 3 HD
+https://vavoo.to/play/4156694523/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY FAMILY
 https://vavoo.to/play/544346198/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE POLAR+
-https://vavoo.to/play/754364086/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 HD (1)
 https://vavoo.to/play/452200918/index.m3u8
@@ -126,14 +138,11 @@ https://vavoo.to/play/3118025835/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TF1
 https://vavoo.to/play/2913521200/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE FRISSON HD (1)
-https://vavoo.to/play/336074375/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 2
-https://vavoo.to/play/876169338/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ FRISSON
 https://vavoo.to/play/3654122461/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY]
+https://vavoo.to/play/2526338165/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACTION FHD
 https://vavoo.to/play/3638789513/index.m3u8
@@ -147,14 +156,11 @@ https://vavoo.to/play/181449693/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2
 https://vavoo.to/play/3970882082/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INVESTIGATION DISCOVERY
-https://vavoo.to/play/2863072722/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVELAS
+https://vavoo.to/play/3248193038/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RMC SPORT 1
 https://vavoo.to/play/1756600583/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SYFY (1)
-https://vavoo.to/play/2106748611/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ GRAND ECRAN
 https://vavoo.to/play/2574747173/index.m3u8
@@ -170,9 +176,6 @@ https://vavoo.to/play/63527857/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SCIENCE & VIE
 https://vavoo.to/play/386194247/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE CLUB (1)
-https://vavoo.to/play/2756225323/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ FRISSON FHD (1)
 https://vavoo.to/play/3920260937/index.m3u8
@@ -198,9 +201,6 @@ https://vavoo.to/play/191610103/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 5 HD (EVENT ONLY)
 https://vavoo.to/play/2212055480/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6
-https://vavoo.to/play/2274827227/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON
 https://vavoo.to/play/2881806872/index.m3u8
 
@@ -218,6 +218,9 @@ https://vavoo.to/play/949608216/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TOUTE L HISTOIRE HD (1)
 https://vavoo.to/play/3780297604/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY INVESTIGATION
+https://vavoo.to/play/995275984/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PARIS PREMIERE
 https://vavoo.to/play/1398895618/index.m3u8
@@ -240,6 +243,9 @@ https://vavoo.to/play/401237472/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RT FRANCE
 https://vavoo.to/play/1389909769/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ ACTION HD (1)
+https://vavoo.to/play/1152274993/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 3 HD (1)
 https://vavoo.to/play/1970490613/index.m3u8
 
@@ -261,6 +267,9 @@ https://vavoo.to/play/2872673974/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB1 (1)
 https://vavoo.to/play/3631271424/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", USHUAIA HD
+https://vavoo.to/play/814473941/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTL 9
 https://vavoo.to/play/1631656799/index.m3u8
 
@@ -276,11 +285,20 @@ https://vavoo.to/play/2727132226/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", 13EME RUE
 https://vavoo.to/play/3310959922/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", USHUAIA
+https://vavoo.to/play/4274246496/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 1 HD
+https://vavoo.to/play/3051821190/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", COMEDIE+
 https://vavoo.to/play/1928514641/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GAME ONE
 https://vavoo.to/play/1479966396/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 10 HD (1)
+https://vavoo.to/play/651711736/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BFM PARIS FHD
 https://vavoo.to/play/1553725966/index.m3u8
@@ -315,8 +333,14 @@ https://vavoo.to/play/3920376140/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ DECALE FHD
 https://vavoo.to/play/1919536632/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB EXPLORE FHD
+https://vavoo.to/play/1515062768/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK FHD
 https://vavoo.to/play/2127297858/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", L EQUIPE LIVE 1
+https://vavoo.to/play/3143265587/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TIJI FHD
 https://vavoo.to/play/3812280294/index.m3u8
@@ -333,6 +357,9 @@ https://vavoo.to/play/2375091891/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MULTISPORT 2
 https://vavoo.to/play/1070202514/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 1
+https://vavoo.to/play/2557284405/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 4 (1)
 https://vavoo.to/play/28154726/index.m3u8
 
@@ -342,14 +369,14 @@ https://vavoo.to/play/1215276492/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TELETOON+
 https://vavoo.to/play/2382507077/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", W9 HD
-https://vavoo.to/play/3385549986/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY HD (1)
 https://vavoo.to/play/2322760269/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MULTISPORT 4
 https://vavoo.to/play/2961771314/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE A&E HD
+https://vavoo.to/play/86541107/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TEVA (1)
 https://vavoo.to/play/2221887416/index.m3u8
@@ -363,20 +390,11 @@ https://vavoo.to/play/3639203183/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ KIDS
 https://vavoo.to/play/3804868994/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6 HD (1)
-https://vavoo.to/play/204417985/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON (1)
 https://vavoo.to/play/3562748294/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 4
-https://vavoo.to/play/3145317850/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TCM CINEMA
 https://vavoo.to/play/2451805128/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 3 HD
-https://vavoo.to/play/4156694523/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARTE
 https://vavoo.to/play/1666352419/index.m3u8
@@ -387,17 +405,38 @@ https://vavoo.to/play/1916217152/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR HD
 https://vavoo.to/play/4072150322/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE CLASSIC (1)
+https://vavoo.to/play/3743809175/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON JUNIOR
 https://vavoo.to/play/2600378206/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E!
+https://vavoo.to/play/3093319007/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON TEEN
 https://vavoo.to/play/1840584121/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 10 HD
+https://vavoo.to/play/3537501017/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+ FHD
+https://vavoo.to/play/3449247132/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 7 HD (1)
+https://vavoo.to/play/3167998434/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SERIE CLUB
 https://vavoo.to/play/1501090169/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ PREMIER
+https://vavoo.to/play/343831120/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E! ENTERTAINMENT
 https://vavoo.to/play/4138967311/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE POLAR+
+https://vavoo.to/play/754364086/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SPORT HD (1)
 https://vavoo.to/play/3280446601/index.m3u8
@@ -408,8 +447,8 @@ https://vavoo.to/play/4039125784/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 10 HD (1)
 https://vavoo.to/play/2473905459/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLASSIC FHD (1)
-https://vavoo.to/play/3512138835/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ DOCS HD
+https://vavoo.to/play/3625345371/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR
 https://vavoo.to/play/3351330853/index.m3u8
@@ -417,17 +456,20 @@ https://vavoo.to/play/3351330853/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL (BACKUP) (1)
 https://vavoo.to/play/2935158545/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+ FHD
-https://vavoo.to/play/3449247132/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+
+https://vavoo.to/play/302288233/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB3 (1)
 https://vavoo.to/play/2729483616/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6 (1)
-https://vavoo.to/play/2491012994/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB XPLORE
+https://vavoo.to/play/1515815815/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE MAX (1)
 https://vavoo.to/play/2506540325/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+ HD
+https://vavoo.to/play/1036120474/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SERIES
 https://vavoo.to/play/4123535862/index.m3u8
@@ -438,14 +480,8 @@ https://vavoo.to/play/371802195/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ SPORT 4
 https://vavoo.to/play/2376832738/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR FHD
-https://vavoo.to/play/357894050/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", M6 MUSIC HD (1)
 https://vavoo.to/play/2859360858/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER TV
-https://vavoo.to/play/2978100125/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OCS GEANTS
 https://vavoo.to/play/1417750562/index.m3u8
@@ -456,14 +492,17 @@ https://vavoo.to/play/950511034/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MCM HD (1)
 https://vavoo.to/play/4210722253/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 4 HD
+https://vavoo.to/play/1484727460/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 6 HD
+https://vavoo.to/play/442115033/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV
 https://vavoo.to/play/987897824/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ EMOTION FHD (1)
 https://vavoo.to/play/1356146615/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OCS MAX
-https://vavoo.to/play/420647029/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAUX (1)
 https://vavoo.to/play/1553062354/index.m3u8
@@ -474,8 +513,11 @@ https://vavoo.to/play/3229952863/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GULLI FHD
 https://vavoo.to/play/2096981520/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER
-https://vavoo.to/play/549334828/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOING (1)
+https://vavoo.to/play/69130693/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BET
+https://vavoo.to/play/790283791/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E! ENTERTAINMENT (1)
 https://vavoo.to/play/45223598/index.m3u8
@@ -483,8 +525,23 @@ https://vavoo.to/play/45223598/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CLASSICC (1)
 https://vavoo.to/play/1183366377/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 7 HD
+https://vavoo.to/play/3606061895/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RMC SPORT 6
 https://vavoo.to/play/3667084567/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE FAMIZ HD (1)
+https://vavoo.to/play/3719126420/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALTICE STUDIO HD
+https://vavoo.to/play/817370341/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GAME ONE (1)
+https://vavoo.to/play/959272147/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIP TV
+https://vavoo.to/play/2475360608/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MULTISPORTS 3 HD (1)
 https://vavoo.to/play/1351935591/index.m3u8
@@ -516,11 +573,11 @@ https://vavoo.to/play/4177424223/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ HD
 https://vavoo.to/play/3780364466/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE FRISSON HD (1)
+https://vavoo.to/play/336074375/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TF 1
 https://vavoo.to/play/1484327785/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY]
-https://vavoo.to/play/2526338165/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 2 (1)
 https://vavoo.to/play/3914532448/index.m3u8
@@ -528,8 +585,8 @@ https://vavoo.to/play/3914532448/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 1 HD [LIVE DURING EVENTS ONLY]
 https://vavoo.to/play/1063761523/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOVELAS
-https://vavoo.to/play/3248193038/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SYFY (1)
+https://vavoo.to/play/2106748611/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOOT+ (1)
 https://vavoo.to/play/3299673666/index.m3u8
@@ -567,17 +624,11 @@ https://vavoo.to/play/2938874346/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DAZN LIGUE 1 LIVE 4 HD (1)
 https://vavoo.to/play/31603637/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ FRISSON (BACKUP)
-https://vavoo.to/play/1649216218/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AUTOMOTO
 https://vavoo.to/play/2674773068/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 (BACKUP) (1)
 https://vavoo.to/play/427817345/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY INVESTIGATION
-https://vavoo.to/play/995275984/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C NEWS FHD
 https://vavoo.to/play/259458260/index.m3u8
@@ -615,9 +666,6 @@ https://vavoo.to/play/215687074/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE+ AVENTURE
 https://vavoo.to/play/1032026956/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", USHUAIA HD
-https://vavoo.to/play/814473941/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE+ CRIME
 https://vavoo.to/play/186984149/index.m3u8
 
@@ -630,9 +678,6 @@ https://vavoo.to/play/146576082/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AUTOMOTO LA CHAINE FHD
 https://vavoo.to/play/1808973403/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 1 HD
-https://vavoo.to/play/3051821190/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PARIS PREMIERE (1)
 https://vavoo.to/play/2139759008/index.m3u8
 
@@ -642,8 +687,8 @@ https://vavoo.to/play/4097040262/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 2 HD
 https://vavoo.to/play/2651860259/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 10 HD (1)
-https://vavoo.to/play/651711736/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE PREMIER HD (1)
+https://vavoo.to/play/4249124042/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 2 HD
 https://vavoo.to/play/576693993/index.m3u8
@@ -687,9 +732,6 @@ https://vavoo.to/play/4012587463/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 4 (1)
 https://vavoo.to/play/4005135586/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINA+ PREMIER (1)
-https://vavoo.to/play/2149635654/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOOMERANG FHD
 https://vavoo.to/play/3825941048/index.m3u8
 
@@ -702,14 +744,8 @@ https://vavoo.to/play/4021366844/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ FRISSON FHD
 https://vavoo.to/play/441984684/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 1 HD
-https://vavoo.to/play/278866624/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PARIS PREMIERE FHD
 https://vavoo.to/play/1387738845/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB EXPLORE FHD
-https://vavoo.to/play/1515062768/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", C-NEWS (1)
 https://vavoo.to/play/131297333/index.m3u8
@@ -719,9 +755,6 @@ https://vavoo.to/play/1751151029/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1 HD (1)
 https://vavoo.to/play/1801327897/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", L EQUIPE LIVE 1
-https://vavoo.to/play/3143265587/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BE: ELEVENSPORT 2 HD (1)
 https://vavoo.to/play/1097088723/index.m3u8
@@ -762,9 +795,6 @@ https://vavoo.to/play/3554258258/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BFM TV HD (1)
 https://vavoo.to/play/1080830216/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB 1
-https://vavoo.to/play/2557284405/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TF1 SERIES & FILM
 https://vavoo.to/play/1760063888/index.m3u8
 
@@ -783,14 +813,14 @@ https://vavoo.to/play/578397132/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY SCIENCE (1)
 https://vavoo.to/play/1391624118/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", W9 HD
+https://vavoo.to/play/3385549986/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TEVA
 https://vavoo.to/play/805332860/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ PREMIER FHD
 https://vavoo.to/play/316430315/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ PREMIER
-https://vavoo.to/play/3618520893/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 FHD (1)
 https://vavoo.to/play/3758995179/index.m3u8
@@ -818,9 +848,6 @@ https://vavoo.to/play/2407966305/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 11 (1)
 https://vavoo.to/play/4153174242/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE A&E HD
-https://vavoo.to/play/86541107/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PARAMOUNT DECALE (1)
 https://vavoo.to/play/4058770479/index.m3u8
@@ -858,6 +885,9 @@ https://vavoo.to/play/2683082226/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TMC HD
 https://vavoo.to/play/354095306/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6 HD (1)
+https://vavoo.to/play/204417985/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 9 HD (1)
 https://vavoo.to/play/2841232336/index.m3u8
 
@@ -866,6 +896,9 @@ https://vavoo.to/play/538167177/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PLANETE+ A&E
 https://vavoo.to/play/3284684728/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE 4
+https://vavoo.to/play/3145317850/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RMC SPORT 1 ACCESS HD (1)
 https://vavoo.to/play/2856261938/index.m3u8
@@ -912,9 +945,6 @@ https://vavoo.to/play/2249823338/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOB LEPONGE
 https://vavoo.to/play/2930799000/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE CLASSIC (1)
-https://vavoo.to/play/3743809175/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 (BACKUP) (1)
 https://vavoo.to/play/2221938935/index.m3u8
 
@@ -939,9 +969,6 @@ https://vavoo.to/play/4009076343/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS 3 FHD
 https://vavoo.to/play/335544078/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E!
-https://vavoo.to/play/3093319007/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", COMEDIE+ HD
 https://vavoo.to/play/2309383002/index.m3u8
 
@@ -959,15 +986,6 @@ https://vavoo.to/play/1281048661/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 4 HD (1)
 https://vavoo.to/play/844944897/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+
-https://vavoo.to/play/2143816874/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 10 HD
-https://vavoo.to/play/3537501017/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 7 HD (1)
-https://vavoo.to/play/3167998434/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLUB HD
 https://vavoo.to/play/587024854/index.m3u8
@@ -992,6 +1010,9 @@ https://vavoo.to/play/1447555262/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ KIDS HD
 https://vavoo.to/play/579962899/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OCS MAX
+https://vavoo.to/play/63673480/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NATIONAL GEOGRAPHIC (1)
 https://vavoo.to/play/707035366/index.m3u8
@@ -1029,8 +1050,8 @@ https://vavoo.to/play/3794086467/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTS 2
 https://vavoo.to/play/4169068459/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ DOCS HD
-https://vavoo.to/play/3625345371/index.m3u8
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLASSIC FHD (1)
+https://vavoo.to/play/3512138835/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SEASON
 https://vavoo.to/play/2215595129/index.m3u8
@@ -1065,9 +1086,6 @@ https://vavoo.to/play/739222299/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 5 HD (1)
 https://vavoo.to/play/2191535138/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AB XPLORE
-https://vavoo.to/play/1515815815/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 8 (1)
 https://vavoo.to/play/726231523/index.m3u8
 
@@ -1080,8 +1098,14 @@ https://vavoo.to/play/2103148163/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FRANCE INFO
 https://vavoo.to/play/2704244202/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER TV
+https://vavoo.to/play/3059360905/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", USHUAÏA TV
 https://vavoo.to/play/1007869450/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 6 (1)
+https://vavoo.to/play/2491012994/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CINEMA (BACKUP) (1)
 https://vavoo.to/play/162457657/index.m3u8
@@ -1134,14 +1158,14 @@ https://vavoo.to/play/3860273832/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE+ CLASSIC HD
 https://vavoo.to/play/3677483481/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR+ HD
-https://vavoo.to/play/1036120474/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BE: ELEVEN PRO LEAGUES 1 HD (1)
 https://vavoo.to/play/3247154919/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 5
 https://vavoo.to/play/3224854795/index.m3u8
+
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR FHD
+https://vavoo.to/play/357894050/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOX OFFICE 1
 https://vavoo.to/play/2062322413/index.m3u8
@@ -1221,14 +1245,8 @@ https://vavoo.to/play/1037335952/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SUNDANCE TV
 https://vavoo.to/play/350896249/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 4 HD
-https://vavoo.to/play/1484727460/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", OCS MAX FHD
 https://vavoo.to/play/2561627199/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 6 HD
-https://vavoo.to/play/442115033/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ROUGE TV (1)
 https://vavoo.to/play/2241286879/index.m3u8
@@ -1461,6 +1479,9 @@ https://vavoo.to/play/743591971/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CHASSE ET PECHE (1)
 https://vavoo.to/play/2716078255/index.m3u8
 
+#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", WARNER
+https://vavoo.to/play/549334828/index.m3u8
+
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY CHANNEL+1
 https://vavoo.to/play/83821788/index.m3u8
 
@@ -1493,9 +1514,6 @@ https://vavoo.to/play/2197361088/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRACE URBAN HD (1)
 https://vavoo.to/play/3595848084/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BOING (1)
-https://vavoo.to/play/69130693/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 5 FHD (EVENT ONLY)
 https://vavoo.to/play/3606594985/index.m3u8
@@ -1547,9 +1565,6 @@ https://vavoo.to/play/218551255/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", POLAR (1)
 https://vavoo.to/play/2370188978/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BET
-https://vavoo.to/play/790283791/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BE: ELEVENSPORT 3 HD (1)
 https://vavoo.to/play/2379103821/index.m3u8
@@ -1706,9 +1721,6 @@ https://vavoo.to/play/3222958674/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 2 INTERNATIONAL
 https://vavoo.to/play/3388979409/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A LA CARTE 7 HD
-https://vavoo.to/play/3606061895/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LCN
 https://vavoo.to/play/2200752492/index.m3u8
@@ -1995,12 +2007,6 @@ https://vavoo.to/play/921329291/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FASHION TV PARIS FASHION NEWS
 https://vavoo.to/play/3063169030/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE FAMIZ HD (1)
-https://vavoo.to/play/3719126420/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ALTICE STUDIO HD
-https://vavoo.to/play/817370341/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 9 HD (EVENT ONLY)
 https://vavoo.to/play/3033678965/index.m3u8
 
@@ -2019,9 +2025,6 @@ https://vavoo.to/play/1375393706/index.m3u8
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BEIN SPORTS MAX 7 HD (BACKUP) (1)
 https://vavoo.to/play/2970684109/index.m3u8
 
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", GAME ONE (1)
-https://vavoo.to/play/959272147/index.m3u8
-
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL PLAY 12
 https://vavoo.to/play/2257866792/index.m3u8
 
@@ -2036,9 +2039,6 @@ https://vavoo.to/play/4171795497/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL+ MOTOGP
 https://vavoo.to/play/4132894037/index.m3u8
-
-#EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BIP TV
-https://vavoo.to/play/2475360608/index.m3u8
 
 #EXTINF:-1 group-title="France" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TV5MONDE MAGHREB ORIENT
 https://vavoo.to/play/70655167/index.m3u8
