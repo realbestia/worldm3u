@@ -3,14 +3,17 @@
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", KANAL D HD (1)
 https://vavoo.to/play/1251215893/index.m3u8
 
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 3 HD (1)
-https://vavoo.to/play/593575601/index.m3u8
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 3
+https://vavoo.to/play/355964474/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", REALITATEA PLUS
 https://vavoo.to/play/942898701/index.m3u8
 
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 3
-https://vavoo.to/play/355964474/index.m3u8
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 3 HD (1)
+https://vavoo.to/play/593575601/index.m3u8
+
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PRO TV
+https://vavoo.to/play/246329770/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 1
 https://vavoo.to/play/1878508890/index.m3u8
@@ -36,6 +39,9 @@ https://vavoo.to/play/4136887079/index.m3u8
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA 1 HD (1)
 https://vavoo.to/play/1631861196/index.m3u8
 
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIGI SPORT 1 (1)
+https://vavoo.to/play/1314204576/index.m3u8
+
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIGI SPORT 2 (1)
 https://vavoo.to/play/167072112/index.m3u8
 
@@ -48,14 +54,11 @@ https://vavoo.to/play/2720648266/index.m3u8
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANTENA STARS HD (1)
 https://vavoo.to/play/2141477116/index.m3u8
 
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LOOK SPORT HD (1)
+https://vavoo.to/play/3381201599/index.m3u8
+
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", VIASAT NATURE
 https://vavoo.to/play/691736606/index.m3u8
-
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY INVESTIGATION
-https://vavoo.to/play/575624309/index.m3u8
-
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVR 2
-https://vavoo.to/play/3298579735/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL HD (1)
 https://vavoo.to/play/1866716904/index.m3u8
@@ -65,9 +68,6 @@ https://vavoo.to/play/1870114308/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PRO TV HD (1)
 https://vavoo.to/play/2190787212/index.m3u8
-
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PRO TV
-https://vavoo.to/play/246329770/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIGI SPORT 2 HD (1)
 https://vavoo.to/play/867728420/index.m3u8
@@ -93,17 +93,11 @@ https://vavoo.to/play/86496830/index.m3u8
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ACASA
 https://vavoo.to/play/1935806021/index.m3u8
 
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DIGI SPORT 1 (1)
-https://vavoo.to/play/1314204576/index.m3u8
-
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TNT HD (1)
 https://vavoo.to/play/3451401639/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NATIONAL 24 PLUS (1)
 https://vavoo.to/play/3648880441/index.m3u8
-
-#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", LOOK SPORT HD (1)
-https://vavoo.to/play/3381201599/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FILM CAFE
 https://vavoo.to/play/2941754944/index.m3u8
@@ -288,6 +282,9 @@ https://vavoo.to/play/3021802433/index.m3u8
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVR 1
 https://vavoo.to/play/2201759687/index.m3u8
 
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY INVESTIGATION
+https://vavoo.to/play/575624309/index.m3u8
+
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOOZ RO (1)
 https://vavoo.to/play/3546223306/index.m3u8
 
@@ -311,6 +308,9 @@ https://vavoo.to/play/1909701741/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ANIMAL PLANET HD (1)
 https://vavoo.to/play/3888491987/index.m3u8
+
+#EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVR 2
+https://vavoo.to/play/3298579735/index.m3u8
 
 #EXTINF:-1 group-title="Romania" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CBS REALITY
 https://vavoo.to/play/1219133865/index.m3u8
