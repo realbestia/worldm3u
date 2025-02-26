@@ -1,10 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CNN PORTUGAL
+https://vavoo.to/play/2182682775/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CM TV
 https://vavoo.to/play/805844173/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CNN PORTUGAL
-https://vavoo.to/play/2182682775/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CM TV (1)
+https://vavoo.to/play/3846016605/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN MOVIES
+https://vavoo.to/play/474759302/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NBA TV
+https://vavoo.to/play/2121846219/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK (1)
+https://vavoo.to/play/2359297640/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 HD (1)
 https://vavoo.to/play/3966581533/index.m3u8
@@ -15,44 +27,14 @@ https://vavoo.to/play/3428940222/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC
 https://vavoo.to/play/3762658364/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 2
-https://vavoo.to/play/2344682350/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN MOVIES
-https://vavoo.to/play/474759302/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC INTERNACIONAL
-https://vavoo.to/play/1987468951/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC HD (1)
-https://vavoo.to/play/3322904148/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK (1)
-https://vavoo.to/play/2359297640/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 (BACKUP) (1)
-https://vavoo.to/play/1438628906/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 (1)
-https://vavoo.to/play/1000427064/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CM TV (1)
-https://vavoo.to/play/3846016605/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC HD (1)
-https://vavoo.to/play/3099098765/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVI REALITY
-https://vavoo.to/play/3475414729/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL HOLLYWOOD
-https://vavoo.to/play/3628095071/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC NOTICIAS
 https://vavoo.to/play/4112970089/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 11 HD (1)
 https://vavoo.to/play/1835935719/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 11
+https://vavoo.to/play/199161253/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE ACTION
 https://vavoo.to/play/3790970324/index.m3u8
@@ -63,32 +45,53 @@ https://vavoo.to/play/590086654/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORIA
 https://vavoo.to/play/525538314/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMUNDO (1)
-https://vavoo.to/play/4254404503/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BENFICA TV (1)
+https://vavoo.to/play/1531114528/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR COMEDY
-https://vavoo.to/play/1282781678/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE TOP HD (1)
+https://vavoo.to/play/405619759/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN MOVIES HD (1)
-https://vavoo.to/play/2370723370/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR CRIME
+https://vavoo.to/play/2422531998/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA
+https://vavoo.to/play/1718019314/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 HD (BACKUP) (1)
+https://vavoo.to/play/2112830810/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 (BACKUP) (1)
+https://vavoo.to/play/1438628906/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 (1)
+https://vavoo.to/play/1000427064/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVI
 https://vavoo.to/play/2647788125/index.m3u8
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 2
+https://vavoo.to/play/2344682350/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP 1
 https://vavoo.to/play/3213786206/index.m3u8
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC HD (1)
+https://vavoo.to/play/3099098765/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVI REALITY
+https://vavoo.to/play/3475414729/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN HD (1)
 https://vavoo.to/play/3143462075/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL HOLLYWOOD
+https://vavoo.to/play/3628095071/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 1 (BACKUP) (1)
 https://vavoo.to/play/1631199830/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC NOVELAS
 https://vavoo.to/play/1911367959/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL 11
-https://vavoo.to/play/199161253/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BENFICA TV
 https://vavoo.to/play/2894250918/index.m3u8
@@ -98,6 +101,9 @@ https://vavoo.to/play/3862034077/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RECORD TV
 https://vavoo.to/play/1211778226/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC NOTICIAS HD (1)
+https://vavoo.to/play/2132630830/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN
 https://vavoo.to/play/538838100/index.m3u8
@@ -111,8 +117,8 @@ https://vavoo.to/play/891358544/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC CRIME
 https://vavoo.to/play/2077195788/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BENFICA TV (1)
-https://vavoo.to/play/1531114528/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC INTERNACIONAL
+https://vavoo.to/play/1987468951/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE TOP
 https://vavoo.to/play/1167702614/index.m3u8
@@ -126,20 +132,17 @@ https://vavoo.to/play/419040949/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 4
 https://vavoo.to/play/75626190/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE TOP HD (1)
-https://vavoo.to/play/405619759/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINEMUNDO (1)
+https://vavoo.to/play/4254404503/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BENFICA TV (BACKUP) (1)
 https://vavoo.to/play/1059923452/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 1 (1)
-https://vavoo.to/play/1814987647/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY WORLD
 https://vavoo.to/play/575701033/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NBA TV
-https://vavoo.to/play/2121846219/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 1 (1)
+https://vavoo.to/play/1814987647/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP INTERNACIONAL
 https://vavoo.to/play/254790946/index.m3u8
@@ -159,11 +162,11 @@ https://vavoo.to/play/1761868334/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC BREAK
 https://vavoo.to/play/1676049953/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX MOVIES HD (1)
-https://vavoo.to/play/3499798327/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 5
 https://vavoo.to/play/971104126/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR COMEDY
+https://vavoo.to/play/1282781678/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR CHANNEL
 https://vavoo.to/play/473732861/index.m3u8
@@ -174,11 +177,11 @@ https://vavoo.to/play/3064015582/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NOS STUDIOS
 https://vavoo.to/play/2726144103/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR CRIME
-https://vavoo.to/play/2422531998/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BABY TV
 https://vavoo.to/play/3404489721/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AMC HD (1)
+https://vavoo.to/play/3322904148/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BTV HD (1)
 https://vavoo.to/play/419434034/index.m3u8
@@ -186,14 +189,17 @@ https://vavoo.to/play/419434034/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ODISSEIA
 https://vavoo.to/play/2111785550/index.m3u8
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC MULHER (1)
+https://vavoo.to/play/3572250232/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", A BOLA TV
 https://vavoo.to/play/476765689/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLAZE
-https://vavoo.to/play/3679644515/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 4
 https://vavoo.to/play/2545613589/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLAZE
+https://vavoo.to/play/3679644515/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN WHITE HD (1)
 https://vavoo.to/play/3286985327/index.m3u8
@@ -204,14 +210,14 @@ https://vavoo.to/play/1966027521/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP 2
 https://vavoo.to/play/4163765902/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP 3
-https://vavoo.to/play/3310235454/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CANAL NOS
 https://vavoo.to/play/3173711892/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", STAR LIFE
 https://vavoo.to/play/4075632687/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP 3
+https://vavoo.to/play/3310235454/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EUROSPORT 1
 https://vavoo.to/play/3654612487/index.m3u8
@@ -264,11 +270,11 @@ https://vavoo.to/play/1972183649/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", PANDA KIDS
 https://vavoo.to/play/2171243952/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX COMEDY HD (1)
-https://vavoo.to/play/992741389/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORTING TV
 https://vavoo.to/play/676691326/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX COMEDY HD (1)
+https://vavoo.to/play/992741389/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", INVESTIGATION DISCOVERY
 https://vavoo.to/play/1181792777/index.m3u8
@@ -342,9 +348,6 @@ https://vavoo.to/play/631488050/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TPA NOTÍCIAS
 https://vavoo.to/play/3663001423/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA
-https://vavoo.to/play/1718019314/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CARTOON NETWORK
 https://vavoo.to/play/2672740913/index.m3u8
 
@@ -357,11 +360,11 @@ https://vavoo.to/play/3775102231/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AR TV CANAL PARLAMENTO
 https://vavoo.to/play/1348598432/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MCM TOP
-https://vavoo.to/play/3476156840/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ARTV (1)
 https://vavoo.to/play/380717209/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MCM TOP
+https://vavoo.to/play/3476156840/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TRAVELXP
 https://vavoo.to/play/2769296124/index.m3u8
@@ -417,9 +420,6 @@ https://vavoo.to/play/4282023659/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", CINE MUNDO
 https://vavoo.to/play/2596009475/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX CRIME HD (1)
-https://vavoo.to/play/1009109875/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 3 HD (1)
 https://vavoo.to/play/2923969632/index.m3u8
 
@@ -438,6 +438,9 @@ https://vavoo.to/play/2693440346/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MTV 00S
 https://vavoo.to/play/3875216039/index.m3u8
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE ACTION HD (1)
+https://vavoo.to/play/793631803/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", EURONEWS
 https://vavoo.to/play/2842227117/index.m3u8
 
@@ -450,14 +453,14 @@ https://vavoo.to/play/3680852273/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FUEL TV
 https://vavoo.to/play/71983983/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 2 (1)
-https://vavoo.to/play/730790319/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 2 HD (1)
 https://vavoo.to/play/1255159429/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 3 HD (1)
 https://vavoo.to/play/2256156187/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA HD (BACKUP) (1)
+https://vavoo.to/play/2751720311/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 4 HD (1)
 https://vavoo.to/play/2361343746/index.m3u8
@@ -468,11 +471,11 @@ https://vavoo.to/play/2760717689/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVI AFRICA
 https://vavoo.to/play/2391771240/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON (1)
-https://vavoo.to/play/3982415185/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", AXN MOVIES HD (1)
+https://vavoo.to/play/2370723370/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 1 HD (BACKUP) (1)
-https://vavoo.to/play/2112830810/index.m3u8
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA HD (1)
+https://vavoo.to/play/3476204840/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVI HD (1)
 https://vavoo.to/play/3101553820/index.m3u8
@@ -492,20 +495,17 @@ https://vavoo.to/play/1658993918/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX HD (1)
 https://vavoo.to/play/737435862/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC NOTICIAS HD (1)
-https://vavoo.to/play/2132630830/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", RTP 1 HD (1)
 https://vavoo.to/play/1394401047/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX MOVIES HD (1)
+https://vavoo.to/play/3499798327/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV (1)
 https://vavoo.to/play/2259646737/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISCOVERY CHANNEL HD (1)
 https://vavoo.to/play/783187914/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC MULHER (1)
-https://vavoo.to/play/3572250232/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV + HD (1)
 https://vavoo.to/play/18224894/index.m3u8
@@ -518,6 +518,9 @@ https://vavoo.to/play/1137861489/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 2 (1)
 https://vavoo.to/play/2080453864/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", FOX CRIME HD (1)
+https://vavoo.to/play/1009109875/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 2 (BACKUP) (1)
 https://vavoo.to/play/492504973/index.m3u8
@@ -537,9 +540,6 @@ https://vavoo.to/play/3068526841/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 1 HD (BACKUP) (1)
 https://vavoo.to/play/1255821242/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE ACTION HD (1)
-https://vavoo.to/play/793631803/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORTS 1
 https://vavoo.to/play/1599763557/index.m3u8
 
@@ -548,6 +548,9 @@ https://vavoo.to/play/3865452148/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 3 (1)
 https://vavoo.to/play/384749599/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 2 (1)
+https://vavoo.to/play/730790319/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", HISTORIA (1)
 https://vavoo.to/play/1471702249/index.m3u8
@@ -560,9 +563,6 @@ https://vavoo.to/play/3005054584/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 3 HD (BACKUP) (1)
 https://vavoo.to/play/2849222045/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA HD (BACKUP) (1)
-https://vavoo.to/play/2751720311/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV 5 (BACKUP) (1)
 https://vavoo.to/play/1276326705/index.m3u8
@@ -642,11 +642,11 @@ https://vavoo.to/play/3138815174/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", DISNEY JUNIOR (1)
 https://vavoo.to/play/771141542/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 5 HD (1)
-https://vavoo.to/play/513907015/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", TVCINE EDITION HD (1)
 https://vavoo.to/play/2599146036/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", ELEVEN SPORT 5 HD (1)
+https://vavoo.to/play/513907015/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SIC K (1)
 https://vavoo.to/play/2133493834/index.m3u8
@@ -732,11 +732,11 @@ https://vavoo.to/play/1075134364/index.m3u8
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", MOTORVISION (BACKUP) (1)
 https://vavoo.to/play/462395947/index.m3u8
 
+#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", NICKELODEON (1)
+https://vavoo.to/play/3982415185/index.m3u8
+
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", E! ENTERTAINMENT (1)
 https://vavoo.to/play/2910919734/index.m3u8
-
-#EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", SPORT TV NBA HD (1)
-https://vavoo.to/play/3476204840/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to", BLOOMBERG
 https://vavoo.to/play/2362437748/index.m3u8
